@@ -1,0 +1,227 @@
+[
+ {
+  "title": "Image Splice Detection Through Noise Pattern Analysis",
+  "profile_url": "https://ieeexplore.ieee.org/document/9057833/",
+  "doi": "10.1109/I2CT42659.2018.9057833",
+  "abstract": "Digital Images have become one of the most basic communication methods which makes it an essential part of human day today life. Most of the people hold mobile devices with them that are equipped with image capturing facilities. With the rise of the digital image forgery, the reliability and the confidentiality of the images were questioned. Digital image forensics was considered as an important field of research due to this reliability issue. Many of the images that are circulating through the web are being either tampered or forged. Image Splicing is one of the popular tampering techniques in used. This research has been carried out to detect the above identified technique with focusing on noise pattern variations that are visible in tampered images. The images are being segmented into non-overlapping blocks and then noise variances are estimated after a series of processes including wavelet transformations on luminance component of the image. Experimental results based on White Gaussian noise have proved the proposed detection method.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "62"
+ },
+ {
+  "title": "Bounds on the rate of linear locally repairable codes over small alphabets",
+  "profile_url": "https://ieeexplore.ieee.org/document/7852349/",
+  "doi": "10.1109/ALLERTON.2016.7852349",
+  "abstract": "Locally repairable codes (LRC) have recently been a subject of intense research due to the theoretical appeal and their application in distributed storage systems. In an LRC, any coordinate of a codeword can be recovered by accessing only few other coordinates. For LRCs over small alphabet (such as binary), the optimal rate-distance trade-off is unknown. In this paper we provide the tightest known upper bound on the rate of linear LRCs of a given relative distance, an improvement over the best known bound by Cadambe and Mazumdar.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "107"
+ },
+ {
+  "title": "Experiences with Superficial Hyperthermia in the Treatment of Patients with Head and Neck Cancers",
+  "profile_url": "https://ieeexplore.ieee.org/document/4569912/",
+  "doi": "10.1109/COMITE.2008.4569912",
+  "abstract": "In this paper is presented our longstanding experience with combination of teleradiotherapy and superficial hyperthermia in the treatment of patients with head and neck cancers, especially in cases with superficial tumors or lymph node metastases, in the Institute of Radiation Oncology in Prague. Microwave thermotherapy - hyperthermia in combination with other treatment methods (mainly with teleradiotherapy) is currently very effective and important method for cancer treatment. Technical equipment for before-mentioned therapeutic method in this clinical working place is described as well. The treatment results were evaluated after 1-2 month after end of treatment series by various examination methods. They are part of this paper as well.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "71"
+ },
+ {
+  "title": "Demonstration of structural vibration sensing in a deployed PON infrastructure",
+  "profile_url": "https://ieeexplore.ieee.org/document/9125627/",
+  "doi": "10.1049/cp.2019.0899",
+  "abstract": "We demonstrate the possibility of using a deployed Passive Optical Network (PON) infrastructure for structural vibration monitoring for smart city applications and simultaneously downstream 10Gbit NRZ transmission. The impact of PON trunk fibre backscattering noise on sensing system performance is experimentally assessed.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "31"
+ },
+ {
+  "title": "Application-Kernel Collaboration Mechanisms for Real-Time Cluster Server under Overloading",
+  "profile_url": "https://ieeexplore.ieee.org/document/4637706/",
+  "doi": "10.1109/HPCC.2008.35",
+  "abstract": "Cluster-based servers delivering timely responsive service can shorten response latency and maximize system throughput through multi-threading. However, under high workload, large volume of threads may overload the kernel, leading to an inoperational system \"hold-out\" status. Majority of overload control work have been done at application level, but lack the collaboration between application and kernel to proactively respond to overloading. In this paper we propose two application-kernel cooperative mechanisms, of which the Flush-Out function recovers system from overloading by filtering out certain amount of events from kernel, and the Early-Drop mechanism protects system from overloading by proactively responding to load status. Experiments on a cluster server indicate the proposed mechanisms improve serverpsilas responsiveness under high load condition by substantially cutting the response time by 7~22% and event drop rate to 10~21%. The application-kernel mechanisms demonstrate its effectiveness in keeping mission-critical servers in operational state and delivering improved performance under high .workload.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "47"
+ },
+ {
+  "title": "Mobile agent network for supporting personal mobility",
+  "profile_url": "https://ieeexplore.ieee.org/document/648367/",
+  "doi": "10.1109/ICOIN.1998.648367",
+  "abstract": "Needs and interests of the personal mobility have been increasing, because of the rapid development of wireless communication technologies and computer networks. Telecommunication sectors have made a lot of efforts to provide the personal mobility resulting in the development of PCN (Personal Communication Networks) or UPT (Universal Personal Telecommunications) services. However, the mobility service in the Internet has been mainly focused on the host mobility such as Mobile IF, while the personal mobility has been neglected relatively. In this paper, the agent network, the virtual network mapped onto physical networks, is proposed to support the personal mobility on the Internet. Mobile agent technology is adopted to build the agent network. The agent engine is designed and implemented with Java, and the Agent/Servant architecture is suggested to complement restrictions of Java applets.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "33"
+ },
+ {
+  "title": "Fall detection and location using ZigBee sensor network",
+  "profile_url": "https://ieeexplore.ieee.org/document/6037111/",
+  "doi": "10.1109/CSQRWC.2011.6037111",
+  "abstract": "Falls are one of the major health risks that affect the quality of life among elderly by producing fear and resulting in decrease in mobility and activity. In this paper, a novel fall detection and location technology based on ZigBee sensor network is proposed to support independence and safety of elderly people. We present a simple scheme by which fall detection and localization simultaneously is possible with low energy and computation complexity costs. In our proposal, we use a single, waist-mounted, sensor to detect falls. We use fixed beacons placed in three dimensional environments, whose signals are used by sensor to compute their relative position. The main idea is that the waist-mounted sensor estimate the received signal strength indicator (RSSI) from the known beacons and estimate their position by means of a three-dimensional positioning method. The altitude threshold will be determined to distinguish between falls and activities of daily living.",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "461"
+ },
+ {
+  "title": "High frame rate ultrasonic imaging of the heart by placing virtual point sources in front of array",
+  "profile_url": "https://ieeexplore.ieee.org/document/6724984/",
+  "doi": "10.1109/ULTSYM.2013.0150",
+  "abstract": "We previously developed a method for high frame rate echocardiography [frame rate (FR) > 300 Hz] using a transmit beam, which was spherically diverging from a virtual point source behind the array. Although such diverging beam illuminates a wider area compared with a focused beam or plane wave, sound pressure starts to decrease just after emission. Another type of a diverging beam, which is diverging from a focal point of a conventional focused beam, has already been proposed for synthetic aperture imaging. This type of beam can increase sound pressure around the focal point, and it would be useful for applications which require higher sound pressure, such as blood flow imaging. In the present study, the feasibility of high frame rate echocardiography using diverging beams from conventional focused beams was examined. In the present study, multiple focused receiving beams were created using diverging beams in front of focal points of conventional focused transmit beams. Smaller focal distance achieves a wider diverging angle and the number of transmissions can be reduced. In the proposed method, wave fronts were assumed to be spherical, and dynamic focusing was used in receive. Since multiple receiving beams were created for each transmission, overlapping receiving beams were averaged after beamforming. The proposed method was evaluated using an ultrasound imaging phantom. Spatial resolutions (width at half maximum) of parallel beamforming with plane wave and diverging beams from virtual point sources at distances of 100 mm behind array and 20 mm in front of array were 1.17, 1.04, and 1.08 mm (at 44 mm depth), respectively. B-mode images could be obtained with good spatial resolutions using transmit beams diverging in front of focal points.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "127"
+ },
+ {
+  "title": "SoC implementation of an autonomous identification and control system for DC/DC power converters",
+  "profile_url": "https://ieeexplore.ieee.org/document/7556739/",
+  "doi": "10.1109/COMPEL.2016.7556739",
+  "abstract": "The control system described in this work implements automatically a digital controller that achieves the highest possible cross-over frequency for the specified phase margin by applying a design method based on the measured frequency response of the DC/DC converter, identified by the system itself. The algorithms for the design, identification process and control of the converter are implemented on a SoC (System on Chip). The proposed algorithm to calculate the controller is described and the identification process and the designed compensator are validated through measurements on an actual converter.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "214"
+ },
+ {
+  "title": "Ship Heading Control Of Warship Using Disturbance Compensating Model Predictive Control Method",
+  "profile_url": "https://ieeexplore.ieee.org/document/8864480/",
+  "doi": "10.1109/ISRITI.2018.8864480",
+  "abstract": "Warship is a military transportation designed for the Indonesian navy as one of the national defenses and safeguarding the security from enemy attacks. When carrying out its mission, the ship needs a heading control so that the ship stays robust against some disturbance such as sea wave and moves in accordance with the intended purpose. So in this paper, we will be design a ship heading control by using Disturbance Compensating Model Predictive Control (DC-MPC) method where mathematical model of the ship has 4 degree of freedom (surge, sway, yaw, roll) with sea water surface waves acting as the disturbance. In our experiments, we use two values for prediction horizon, i.e. 6 and 7. According to our simulation, the best performance is achieved in the case of prediction horizon equals 7, which corresponds to RMSE 0.02.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "43"
+ },
+ {
+  "title": "Cooperative TDD Reciprocity Calibration with Diversity Combining for Distributed Large-Scale MIMO Systems",
+  "profile_url": "https://ieeexplore.ieee.org/document/8932274/",
+  "doi": "10.1007/s41650-017-0015-9",
+  "abstract": "Thanks to channel reciprocity, the time-division duplexing operation is typically used for distributed large-scale multiple-input multiple-output systems. With the knowledge of uplink channel state, APs (Access Points) perform the downlink precoding to cooperatively communicate with multiple UEs (User Equipments). Unfortunately, the channel reciprocity is often jeopardized by the non-symmetric transceiver RF (Radio Frequency) circuits at both sides of the link. By excluding UEs from the calibration procedure, the TLS (Total Least Squares) method is extended to the case of partial calibration, where only the APs are involved to exchange calibration signals to compensate for RF mismatches. Nevertheless, channel fluctuations between APs significantly degrade system performance. Therefore, we propose a scheme to obtain the diversity gain, by performing a calibration with the combination of the calibration signals of different channel coherent times. Simulation results confirm the effective performance and robustness of our scheme.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "11"
+ },
+ {
+  "title": "Analysis of space vector diagram of a modular H-Bridge Converter with bypassed cells during fault condition",
+  "profile_url": "https://ieeexplore.ieee.org/document/8098999/",
+  "doi": "10.23919/EPE17ECCEEurope.2017.8098999",
+  "abstract": "This paper proposes a new analysis for the fault tolerant operation of Modular H-Bridge Converter using space vector diagram. The converter can be operated during fault condition after bypassing of faulty cells. Geometrical analysis is included to create balanced line voltages from unbalanced pole voltages due to bypass of faulty cells. The space vector diagram of unbalanced pole voltages becomes an irregular six sided polygon and depending on the number of cells faulty, the space vector diagram alters its shape. Sine-triangle based implementation of the space vector diagram is used to derive a general expression for common mode voltage. The modulation index is maximized by addition of common mode voltage. The biggest circle inscribed the irregular six sided polygon gives an expression for the maximum modulation index. The modified reference waveform is used in Level Shifted Pulse Width Modulation (LSPWM) technique for the converter topology. Simulation and experimental results are included to validate the proposed strategy.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "169"
+ },
+ {
+  "title": "Recommendation of Multimedia Content in Digital Convergence Environments: TV and Web",
+  "profile_url": "https://ieeexplore.ieee.org/document/7387256/",
+  "doi": "10.1109/TLA.2015.7387256",
+  "abstract": "The emerging scenario of interactive Digital TV (iDTV) is promoting the increase of interactivity in the communication process and also in audiovisual production, thus raising the number of channels and resources available to the user. This reality makes the task of finding the desired content becoming a costly and possibly ineffective action. The incorporation of recommender systems in the iDTV environment is emerging as a possible solution to this problem. This work aims to propose a hybrid approach to content recommendation in iDTV, based on data mining techniques, integrated to the Semantic web concepts, allowing structuring and standardization of data and consequently making possible sharing of information, providing semantics and automated reasoning. For the proposed service it is considered the Brazilian Digital TV System (SBTVD) and the middleware Ginga. A prototype has been developed and experiments carried out with NetFlix database. As results, it was obtained an average accuracy of 30% using only the data mining technique. On the other hand, the evaluation including semantic rules obtained an average accuracy of 35%.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "182"
+ },
+ {
+  "title": "Determination of High-Grade Resource Recovery of Acetone Extractives of Masson Pine(Pinus Massoniana L.) Wood Chips by Py-GC/MS",
+  "profile_url": "https://ieeexplore.ieee.org/document/4536017/",
+  "doi": "10.1109/ICBBE.2008.1137",
+  "abstract": "The extractives from masson pine (Pinus massoniana L.) wood would not only consume bleaching agent and other additives, but also aggravate environmental pollution. Therefore, Py-GC/MS was used to analyze the high-grade resource recovery of acetone extractives of masson pine wood. Relative content of each component was determined by area normalization. The main and abundant constituents of 590degC pyrolysis product of masson pine wood were 1-phenanthrene carboxylic acid, 1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-(1-methylethyl)-, [lR-(1.alpha.,4a.beta.,10a.alpha.)]-(17.51%), oleic acid(17.13%), pimaric acid(12.64%), 1-Hydroxy-3,7,8-trimethoxy xanthen-(6.08%), 9H-thioxanthen-9-one, 2-methyl-(4.49%), hexadecanoic acid(3.12%), 1-phenanthrenecarboxylic acid, ,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-(1-methylethyl)-,1S-[(1.alpha.,4a.alpha.,10a.beta.)]-(2.56%), orphinan-2,6-diol, ,5- epoxy-N-methyl-(2.96%), phenanthrene,-ethenyl-1,2,3,4,4a,4b,5,6,7,8,8a,9-dodecahydro-1,1,4b,7-tetramethyl-,4aS-[(4a.alpha.,4b.beta.,7.alpha.,8a.alpha.)]- (2.41%),etc. The analytic result suggested that the benzene/ethanol extractives of masson pine wood can be used as materials of biomedicine, flavor, skin care and cosmetic, and bioenergy.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "50"
+ },
+ {
+  "title": "Arterial performance measurement using transit buses as probe vehicles",
+  "profile_url": "https://ieeexplore.ieee.org/document/1251929/",
+  "doi": "10.1109/ITSC.2003.1251929",
+  "abstract": "Developing clear, relevant performance measures for arterials is challenging due to complicated traffic control parameters and users with numerous origins and destinations. With increasing data availability from intelligent transportation systems (ITS) deployments, it is increasingly possible to develop and test new arterial performance measures. Important parameters including average speed, travel time and delay can be obtained both directly and indirectly from sources such as automatic vehicle location (AVL) system. In this paper, we demonstrate how AVL data can be used to characterize the performance of an arterial. Two sources of ITS data were used to assess arterial performance on one corridor in Portland, Oregon. First, we extracted data from the bus dispatch system (BDS) of the transit provider for Portland, Oregon. Performance characteristics as described by bus travel on the arterial were then compared with ground truth data collected by probe vehicles equipped with global positioning systems (GPS) sensors traveling with normal traffic on the same arterial on the same days. Comparisons were made between the two methods and conclusions were drawn regarding the utility of the transit AVL data for real-time advanced traffic management and traveler information systems.",
+  "paper_citation": "7",
+  "patent_citation": "",
+  "full_text_views": "150"
+ },
+ {
+  "title": "Detection, Energy, and Robustness in Wireless Sensor Networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/5237735/",
+  "doi": "10.1002/0471755591.ch6",
+  "abstract": "We consider sensor networks that must perform an event detection function. Based on a simplified sensor network model, we investigate three operating options, develop the optimal decision rules for them, and assess their performance for different values of the system parameters. We adopt an energy consumption model and demonstrate the tradeoff between detection performance and energy efficiency. Additionally we examine the robustness of the network in resisting attacks. Specifically we consider two attacks of node destruction and observation data deletion.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": ""
+ },
+ {
+  "title": "The halo nMOSFET characteristics dependent on the gate profile",
+  "profile_url": "https://ieeexplore.ieee.org/document/820977/",
+  "doi": "10.1109/ICVC.1999.820977",
+  "abstract": "Device characteristics with a barrel-type gate profile caused by the proximity effect were investigated. We show that enhanced hot carrier degradation may result and a decrease of the gate to drain overlap capacitance may occur because of the offset region between the LDD region and the gate electrode. Finally we have recommended a method of measuring gate line width (CD, Critical Dimension) for more precise expectations of the device characteristics.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "34"
+ },
+ {
+  "title": "Dimension Scaling Effects on Conduction and Low Frequency Noise Characteristics of ITO-Stabilized ZnO Thin Film Transistors",
+  "profile_url": "https://ieeexplore.ieee.org/document/9060960/",
+  "doi": "10.1109/JEDS.2020.2986231",
+  "abstract": "Conduction characteristics and low frequency noises in ITO-stabilized ZnO thin film transistors (TFTs) with constant channel width (W=50 μm) and different channel lengths (L=5, 10, 25, 50 and 100 μm) are measured and analysis. Firstly, dependences of threshold voltage and field effect mobility on channel length are examined. With decreasing channel length, the threshold voltage shifts to the negative direction which may attribute to carrier diffusion from source/drain to the intrinsic device channel. In addition, significant degradation of field effect mobility is observed in short channel device which are induced by the presence of series contact resistance. The value of contact resistance has also been extracted. Secondly, the drain current noise power spectral densities (S\nID\n) are measured at varied effective gate voltages. The measured noises follow a 1/f\nγ\n and y is about -1.1. Moreover, the normalized noises (S\nID\n/I\nds\n) are dependent linearly on the inverse of channel length and the slope is about -0.75. Finally, the dominant mechanism of low frequency noise in ITO-stabilized ZnO thin film transistor are examined. The slope of normalized noise against effective gate voltage are extracted, which are varied from -1.03 to -1.84 with decreasing channel length and thus it indicates that ITO-stabilized ZnO TFTs varied from bulk dominated devices to interface dominated devices. By using of ΔN-Δμ model, the normalized noises are simulated by considering of contact resistance. Several noise parameters (flat-band voltage noise spectral density, etc) are extracted and analysis.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "285"
+ },
+ {
+  "title": "Analysis of microstrip antennas on multilayer uniaxial anisotropic substrate with discrete mode matching method",
+  "profile_url": "https://ieeexplore.ieee.org/document/8568870/",
+  "doi": "10.1049/cp.2018.1192",
+  "abstract": "The paper presents the extension of the discrete mode matching (DMM) method to analyze planar microstrip antennas on uniaxial anisotropic substrate. All layers may have both electric and magnetic anisotropies. First, the numerical procedure is presented, followed by its application to compute complex resonant frequency and bandwidth of microstrip patch antennas. Validation has been done with open literature and good agreement has been observed between the results.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "29"
+ },
+ {
+  "title": "On convergence properties of a sensitivity penalization based robust state estimator",
+  "profile_url": "https://ieeexplore.ieee.org/document/5717631/",
+  "doi": "10.1109/CDC.2010.5717631",
+  "abstract": "Asymptotic properties are re-investigated in this paper for the robust state estimator derived in [14]. A new formula is derived for the update of the pseudo-covariance matrix of estimation errors. Based on this formula, the restrictive orthogonality condition of [14] is successfully removed. Under the situation that plant nominal parameters are time-invariant, it is shown that, when some stabilizability and detectability conditions are satisfied, the robust estimator converges to a stable time invariant system. Moreover, when the system is exponentially stable, it has been proved that this estimate is asymptotically unbiased and its estimation errors are upper bounded.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "62"
+ },
+ {
+  "title": "Effect of ESD on complex programmable logic device and field programmable gate arrays",
+  "profile_url": "https://ieeexplore.ieee.org/document/6623295/",
+  "doi": "10.1109/MEMC.2013.6623295",
+  "abstract": "Complex electronics devices are becoming more sensitive to electrostatic discharge (ESD). These components are being developed with higher density (extra memory bits per unit volume) and are becoming faster (MHz, GHz, THz, etc.). These upgrades in technology do not come without a \"technological price\". By enhancing the products' performance to meet the users' demands and requirements, one drawback is the reduction in the ESD sensitivity voltage levels. Indirect and direct air/contact discharge test has been conducted on the ALS-SDA-CPLD/FPGA trainer kit linked to the digital to analog converter (DAC) module. The Field Programmable Gate Arrays (FPGA) and Complex Programmable Logic Devices (CPLD) are found to be very ESD sensitive. The FPGA 3s50 IC was affected during the contact discharge to the input pin. There was damage to the bond pad as well as the metal top layer was damaged. The DAC ICs were affected during the ESD discharge \" one due to direct ESD effects and the other due to indirect ESD effects. There was dielectric breakdown damage observed in the CPLD 9572 IC.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "518"
+ },
+ {
+  "title": "Topological Rules for Linear Networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/1082446/",
+  "doi": "10.1109/TCT.1965.1082446",
+  "abstract": "Topological rules are provided for the expansion of admittance functions of linear networks which may include reciprocal and nonreciprocal branches, infinite-gain operational amplifiers, dependent current or voltage sources, vacuum tubes, transistors, and ideal transformers. Kirchhoff's rules for reciprocal networks, on the one hand, and signal-flow graph rules, on the other, appear as special cases. The rules are purely topological and, in contradistinction to some prior work, do not include sign rules dependent upon an arbitrary assignment of labels to nodes, or directions to reciprocal branches. Any term in an expansion corresponds to a subgraph of the network. The subgraphs are \"loop-woods,\" formed by trees comprised of reciprocal branches and disjoint loops which include at least one nonreciprocal branch each. Transformers are represented by a set of weighted short circuits. The rules are proved by means of \"polar\" incidence matrices A+, A- whose properties are explored.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "93"
+ },
+ {
+  "title": "Sustainable Manufacturing Performance Indicators for a Serial Production Line",
+  "profile_url": "https://ieeexplore.ieee.org/document/6999982/",
+  "doi": "10.1109/TASE.2014.2373821",
+  "abstract": "Current manufacturing facilities lack proper performance indicators that can accurately pinpoint areas of energy inefficiency on the manufacturing line. This paper establishes new indices that utilize readily available, real sensor information from the production line, such as buffer levels, machine throughput, etc., to find the machine that is the least energy efficient. This is the machine that causes the line to waste the most energy without producing parts. The energy structure of the production line is analyzed to better understand the complex system dynamics and to find the root cause of the energy inefficiencies. A baseline energy consumption is established, which is the least amount of energy that is needed to produce a certain number of parts on the line. Using this knowledge, the new sustainable manufacturing performance indicators are defined to properly monitor the performance of the line. These indices utilize the energy structure to illustrate the static (energy used when there are no downtime events) and dynamic (energy lost due to downtime) portions of the energy consumption. The concepts of the downtime energy bottleneck and the rated power bottleneck are introduced and proven analytically. These methods are verified using simulation studies in Simulink/MATLAB.",
+  "paper_citation": "22",
+  "patent_citation": "",
+  "full_text_views": "854"
+ },
+ {
+  "title": "Implicit learning of arithmetic principles",
+  "profile_url": "https://ieeexplore.ieee.org/document/4640833/",
+  "doi": "10.1109/DEVLRN.2008.4640833",
+  "abstract": "Past research has investigated childrenpsilas knowledge of arithmetic principles over development. However, little is known about the mechanisms involved in acquiring principle knowledge. We hypothesize that experience with equations that violate a to-be-learned principle will lead to changes in equation encoding, which in turn will promote acquisition of principle knowledge. Adultspsila knowledge of an arithmetic principle was evaluated before and after a training session in which some participants were exposed to equations that violated the principle. Participants who were exposed to temporally proximal principle violations increased their knowledge more than participants who were exposed to widely spaced violations. Learners with low principle knowledge post-training were also poor at encoding key features of the equations. Thus, variations in experience lead to variations in principle learning, and encoding is an important component of principle knowledge.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "43"
+ },
+ {
+  "title": "Update based distributed shared memory integrated into RHODOS' memory management",
+  "profile_url": "https://ieeexplore.ieee.org/document/651494/",
+  "doi": "10.1109/ICAPP.1997.651494",
+  "abstract": "The DSM system we propose in this paper is implemented completely at the operating system level as a component of RHODOS' Memory (Space) Manager. In addition, it is integrated with RHODOS' existing invalidation-based DSM allowing the programmers to choose the consistency protocol best suited to their application. These factors enable RHODOS DSM to provide the user with a transparent, efficient and scalable shared memory programming environment. In this paper, we describe the logical design, implementation and performance study of an update based DSM which strictly adheres to the above criteria. These criteria allow the user to program using a familiar model while taking advantage of the greater scalability of COWs.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "20"
+ }
+]

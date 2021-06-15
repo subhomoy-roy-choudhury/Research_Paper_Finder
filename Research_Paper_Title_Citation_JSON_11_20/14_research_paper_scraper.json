@@ -1,0 +1,227 @@
+[
+ {
+  "title": "Effect of In-Drilling Alignment with General Dynamic Error Model on Azimuth Estimation",
+  "profile_url": "https://ieeexplore.ieee.org/document/9010651/",
+  "doi": "10.1109/BdKCSE48644.2019.9010651",
+  "abstract": "Directional drilling is common in oil and natural gas extraction, offering numerous advantages. However, directional drilling requires accurate trajectory measurements. Azimuth is a critical part of the trajectory measurement, but industry standard methods of determining azimuth have drawbacks. Inertial navigation systems (INS) have been proposed as a solution but require periodic calibration. In-drilling alignment (IDA) is a calibration method which uses measured motion of the inertial measurement unit (IMU) to overcome the observability problems that come with a static calibration. This paper presents a novel model which converts IDA motion and inertial measurements into an azimuth estimate. The model is validated using a device designed to carry out IDA under laboratory conditions.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "25"
+ },
+ {
+  "title": "High voltage, high power density bi-directional multi-level converters utilizing silicon and silicon carbide (SiC) switches",
+  "profile_url": "https://ieeexplore.ieee.org/document/4522730/",
+  "doi": "10.1109/APEC.2008.4522730",
+  "abstract": "This paper presents a bi-directional ac-dc isolated converter designed to be utilized within the US Navy's Integrated Fight Through Power (IFTP) concept. To demonstrate the proposed approach the authors have designed, fabricated, and tested a 20 kW power conversion module (PCM) prototype. The fabricated PCM module was used to demonstrate the proposed overall electrical design approach, high-frequency isolation, bi-directional power flow and soft-switching operation of the quasi-resonant topologies. Moreover, the 20-kW prototype allowed the verification of control methodologies as well as magnetic and thermal designs, and provides a test bed for future, higher power work.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "708"
+ },
+ {
+  "title": "Analysis of UWB coexistence with 2G/3G/4G Wireless Communication systems",
+  "profile_url": "https://ieeexplore.ieee.org/document/6260149/",
+  "doi": "",
+  "abstract": "",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "177"
+ },
+ {
+  "title": "Frequency multiplication due to Bloch oscillations excitation in lateral semiconductor superlattice by short THz electromagnetic pulse",
+  "profile_url": "https://ieeexplore.ieee.org/document/1032137/",
+  "doi": "10.1109/NANO.2002.1032137",
+  "abstract": "We have theoretically studied the frequency transformation of a strong electromagnetic pulse in lateral semiconductor superlattices associated with excitation of self-consistent electric field-driven Bloch oscillations. The necessary conditions for observation of Bloch oscillator emission of radiation have been found. The energy efficiency of the frequency multiplication and spectral composition of THz radiation transmitted through a superlattice have been calculated.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "16"
+ },
+ {
+  "title": "Mixed Noisy Network Coding and Cooperative Unicasting in Wireless Networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/6949673/",
+  "doi": "10.1109/TIT.2014.2368564",
+  "abstract": "The problem of communicating a single message to a destination in presence of multiple relay nodes, referred to as cooperative unicast network, is considered. First, we introduce mixed noisy network coding (MNNC) scheme which generalizes noisy network coding where relays are allowed to decode-and-forward (DF) messages while all of them (without exception) transmit noisy descriptions of their observations. These descriptions are exploited at the destination and DF relays aim to decode the transmitted messages while creating full cooperation among the nodes. Moreover, the destination and DF relays can independently select the set of descriptions to be decoded or treated as interference. This concept is further extended to multihopping scenarios, referred to as layered MNNC, where DF relays are organized into disjoint groups representing one hop in the network. For cooperative unicast additive white Gaussian noise (AWGN) networks, we show that-provided DF relays are properly chosen-MNNC improves over all previously established constant gaps to the cut-set bound. Second, we consider the composite cooperative unicast network where the channel parameters are randomly drawn before communication starts and remain fixed during the transmission. Each draw is assumed to be unknown at the source and fully known at the destination but only partly known at the relays. We introduce through MNNC scheme the concept of selective coding strategy (SCS) that enables relays to decide dynamically whether, in addition to communicate noisy descriptions, is possible to decode and forward messages. It is demonstrated through slow-fading AWGN relay networks that SCS clearly outperforms conventional coding schemes.",
+  "paper_citation": "7",
+  "patent_citation": "",
+  "full_text_views": "432"
+ },
+ {
+  "title": "Tourism business web integration with web services",
+  "profile_url": "https://ieeexplore.ieee.org/document/8273518/",
+  "doi": "10.1109/ICIMTech.2017.8273518",
+  "abstract": "Indonesia has a lot of tourism objects. Tourist visits from year to year have increased, but still below the number of countries in Southeast Asia. Under these conditions, the government, especially the tourism office needs to conduct a collaboration to maintain and increase the growth of the number of tourists visiting Indonesia. This study aims to integrate information services from other parties who collaborate to support tourism activities, especially collaboration at the provincial level. Related parties are the Tourism office, hotel, Travel & Tourism Agent and Tourism Destination. The integration of information is intended to facilitate access to information by tourists in accordance with their needs. Observation, literature study and information system integration design were used in this study. Observations were conducted at the tourism office and tourism destination in three different locations to obtain the needed information in Semarang, Surabaya and Yogyakarta. UML Modeling is used for system analysis and development. A prototype of information integration is generated, which can be used to integrate information between tourism office, hotel, Travel & Tourism Agent and tourism destination. With the Integration of such information each party will obtain a marketing benefit, income and other benefits economically.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "125"
+ },
+ {
+  "title": "A framework for low level analysis and synthesis to support high level authoring of multimedia documents",
+  "profile_url": "https://ieeexplore.ieee.org/document/601185/",
+  "doi": "10.1109/IWMC.1994.601185",
+  "abstract": "We have designed and developed a hierarchical framework for composition of multimedia documents. This framework forms the basis of an important analysis technique for developing high level authoring tools. From the perspective of aiding the task of multimedia production, the emphasis has been placed on the generality and uniformity of the framework and on support for new techniques to improve the authoring environment. Specifically, this framework supports flexible synchronization and flow control as well as a range of interactive, continuous, and discrete media in a uniform fashion. We adopt the hierarchical composition approach in order to support a style of analysis similar to the semantic analysis performed in programming language translation. This analysis capability provides a robust base upon which a number of potential high-level authoring facilities can be built including resource analysis for conflict detection and resolution, interactive specification and editing of the temporal relationships among multiple media materials, and automatic synthesis of candidate solutions for detected problems. We examine various important aspects of this framework and describe how the potential high level authoring tools can be implemented using its analysis capability.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "22"
+ },
+ {
+  "title": "Ultrafast processes in InAs/GaAs quantum dot based electro-absorbers",
+  "profile_url": "https://ieeexplore.ieee.org/document/5185002/",
+  "doi": "10.1109/ICTON.2009.5185002",
+  "abstract": "In this study we perform a detailed investigation of the ultrafast processes which govern the intradot recovery dynamics of a QD InAs/GaAs structure under reverse bias condition by means of the single and two colour pump-probe technique. By studying the GS and ES recoveries as a function of reverse bias voltage and fitting the experimental results with a simple rate equation model for the intradot carrier dynamics we have illustrated the dominance of Auger mediated recovery when the ES is initially populated while phonon mediated recovery dominates for the GS case. This provides opportunities for the design of the next generation of electro-absorbing devices based on QD materials.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "40"
+ },
+ {
+  "title": "Robust control of feedback linearizable system with the parameter uncertainty and input constraint",
+  "profile_url": "https://ieeexplore.ieee.org/document/977872/",
+  "doi": "10.1109/SICE.2001.977872",
+  "abstract": "In this paper, a linear matrix inequality (LMI)-based robust combined control method, which is combined model predictive control (MPC) with the feedback linearization (FL), is presented for constrained nonlinear systems with parameter uncertainty. This scheme is designed in the following 3 steps: Polytopic description of nonlinear system with a parameter uncertainty via FL, Mapping of actual input constraint by FL, Optimization of the constrained MPC problem based on LMI. To verify the performance and usefulness of the control method proposed in this paper, some simulations with application to a flexible single link manipulator are performed.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "209"
+ },
+ {
+  "title": "Nuclear magnetic resonance energy harvesting for ultra-low power biomedical implants",
+  "profile_url": "https://ieeexplore.ieee.org/document/5872875/",
+  "doi": "10.1109/WAMICON.2011.5872875",
+  "abstract": "A selective wirelessly-adjustable multiple-frequency probe (SWAMP) system allows for Nuclear Magnetic Resonance (NMR) imaging and spectroscopy with increased signal sensitivity through the coupling of the NMR surface coil with an implanted system capable of selectively resonating at multiple NMR frequencies. The ability to wirelessly recharge the biomedical implant in the NMR environment allows for long term in vivo operation without the need for surgery to replace the depleted secondary power source. This paper explores the capability of wirelessly recharging and powering the implanted electronics by leveraging the readily available energy from the transmitted RF pulses used for NMR measurements. The wireless power transfer between the NMR and the SWAMP systems are studied and relevant results are reported.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "489"
+ },
+ {
+  "title": "Inference-diagnosability: Nonconvergence and other complexity results",
+  "profile_url": "https://ieeexplore.ieee.org/document/4421041/",
+  "doi": "10.1109/SICE.2007.4421041",
+  "abstract": "A framework for the inference-based decentralized diagnosis of discrete event systems was reported in our prior work. The notion of N-inference F-diagnosability was formulated to characterize the class of diagnosable systems in this framework. This property ensures that the ambiguity levels of diagnosis decisions are at most N. A system is said to be inference F-diagnosable if it is N-inference F-diagnosable for some N, i.e., if the number of levels of inferencing required is bounded. In this paper we answer an open question that even in the setting of finite-state plant and specification models, the number of levels of inferencing required is in general unbounded. The following additional results are obtained. We show that the class of N-inference F-diagnosable systems increases strictly monotonically as the parameter N is increased. We also show that the inference F-diagnosability is strictly stronger than the decentralized-diagnosability.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "22"
+ },
+ {
+  "title": "Microwave emission from plasmas in InSb with and without magnetic fields",
+  "profile_url": "https://ieeexplore.ieee.org/document/1476618/",
+  "doi": "10.1109/T-ED.1971.17296",
+  "abstract": "A theory of wave propagation through semiconductors, assuming general orientations of the carrier drift velocities, the propagation vector, and the RF electric field relative to an applied steady magnetic field, is derived. This is specialized to obtain a theory of pseudolongitudinal wave interactions in electron and hole streams in InSb in a transverse and in a parallel (or zero) magnetic field. The theory explains the various features of high electric-field microwave emission and RF oscillations observed by experimenters over several years in a wide variety of material conditions and field configurations. Explained in particular are the facts that: 1) starting n- or p-type materials with initial density ≲ 10\n14\ncm\n-3\nhave to be impact ionized to achieve electron or hole number densities adequate for microwave emission; 2) for impact-ionized plasmas, it takes a minimum transverse magnetic field (\nB\\perp\n) on the order of 1.5-2.5 kG for the onset of microwave emission and the threshold current thereafter diminishes monotonically with increasing\nB\\perp\n; 3) p-type material with high enough initial density (n\nh\n≳ 1 - 3 × 10\n15\ncm\n-3\n) is unstable with electron injecting contacts in the presence of 15-20 percent (or more) electron injection; and 4) in the absence of\nB\\perp\n, a longitudinal magnetic field is necessary mainly to prevent pinching of the plasma at the high current densities needed for microwave emission, etc. RF oscillations observed in n- and p-type InSb with or without\nB\\perp\nare also explained. The dependence of the oscillation frequency on the magnitude of\nB\\perp\nshows a remarkable correlation with experimental observations.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "19"
+ },
+ {
+  "title": "Maser study opens new vistas",
+  "profile_url": "https://ieeexplore.ieee.org/document/6434410/",
+  "doi": "10.1109/EE.1962.6434410",
+  "abstract": "Capsules of laser-maser news contain these items of interest:",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "8"
+ },
+ {
+  "title": "Pulsed single and multisection magnets using various wires, including CuNb microcomposite",
+  "profile_url": "https://ieeexplore.ieee.org/document/305575/",
+  "doi": "10.1109/20.305575",
+  "abstract": "Compact pulsed field solenoids wound from various conductors including copper/stainless steel and a copper-niobium microcomposite are described. Fields up to 63 T were achieved over half sine pulsed lengths of order 10 ms in bores of 12 to 20 mm. The extension of the technology to 2 and 3 section coils is discussed.<\n>",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "21"
+ },
+ {
+  "title": "A CMOS fully differential W-band passive imager with <2 K NETD",
+  "profile_url": "https://ieeexplore.ieee.org/document/5940669/",
+  "doi": "10.1109/RFIC.2011.5940669",
+  "abstract": "This paper presents a fully differential W-band passive imager that integrates LNA, Dicke switch, detector and filter, with minimum NEPs of 21 fW/√Hz / 24 fW/√Hz for without/with switch cases and a peak responsivity of >;1.8 MV/W. To authors' knowledge, this represents the largest responsivity to date from a CMOS radiometer chip. It achieves NETD = 1.94 K with 30ms integration time. The chip occupies 0.49 mm\n2\n active area with 57 mW power consumption.",
+  "paper_citation": "13",
+  "patent_citation": "",
+  "full_text_views": "621"
+ },
+ {
+  "title": "A simple and rapid optical clearing method for improving optical imaging depth",
+  "profile_url": "https://ieeexplore.ieee.org/document/7340074/",
+  "doi": "10.1109/OECC.2015.7340074",
+  "abstract": "The rise of various optical clearing methods provides a great potential for imaging deep inside tissues by combining with multiple-labelling and microscopic imaging techniques. However, these methods had certain weaknesses, including toxicity of reagents, tissue deformation, fluorescence quenching, and complexity of implementation. In this study, we developed simple and rapid clearing agents for improving optical imaging depth by observing the rapid clearing process and obtaining the fluorescence images. After brain slices were immersed with sorbitol, sucrose and fructose for 1 or 2 min, respectively, the imaging depth can be enhanced rapidly with good transparency and fine fluorescence preservation for both genetically encoded green fluorescent protein and prodium iodide nuclear dye. This work provide a simple and rapid method for improving optical imaging depth.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "152"
+ },
+ {
+  "title": "Introduction",
+  "profile_url": "https://ieeexplore.ieee.org/document/8041792/",
+  "doi": "10.1002/9780470727225.ch1",
+  "abstract": "This chapter contains sections titled: \n  Network Architecture   Radio Access Technology   Standardisation  ",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": ""
+ },
+ {
+  "title": "The Third Russian-Korean International Symposium on Science and Technology KORUS '99",
+  "profile_url": "https://ieeexplore.ieee.org/document/876183/",
+  "doi": "10.1109/KORUS.1999.876183",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "17"
+ },
+ {
+  "title": "Index-and-dimensional taper and its application to photonic devices",
+  "profile_url": "https://ieeexplore.ieee.org/document/136092/",
+  "doi": "10.1109/50.136092",
+  "abstract": "A mode-field-converting optical channel waveguide with tapered refractive index and cross-sectional dimensions is proposed. In this waveguide, both the refractive index and cross-sectional dimensions of a core are adiabatically varied along a propagation direction in such a way that the normalized frequency V of the waveguide may be kept constant. Since radiation loss caused by waveguide imperfections is strongly dependent on the V value, the waveguide has good mode-field-converting capability without causing high radiation loss. Layer thickness and index of a core of a silica waveguide were tapered by modulating a raw material gas flow in a flame hydrolysis deposition method, and a channel width taper was formed by a photolithographical technique. In order to confirm the usefulness, taper waveguides have been used (1) to achieve good field matching between a fiber and a guided-wave optical switch, and (2) to fabricate a fiber-compatible monolithic 32*32 star coupler in a small chip.<\n>",
+  "paper_citation": "42",
+  "patent_citation": "",
+  "full_text_views": "293"
+ },
+ {
+  "title": "Cluster Size Optimization in Cooperative Spectrum Sensing",
+  "profile_url": "https://ieeexplore.ieee.org/document/5771186/",
+  "doi": "10.1109/CNSR.2011.11",
+  "abstract": "In this paper, we study and optimize the cooperation cluster size in cooperative spectrum sensing to maximize the throughput of secondary users (SUs). To calculate the effective throughput, we assume each SU spends just 1 symbol to negotiate with the other SUs in its transmission range. This is the minimum overhead required for each SU to broadcast its sensing decision to the other members of the cluster. When the number of SUs is large, the throughput spent for the negotiation is noticeable and therefore increasing the cooperation cluster size does not improve the effective throughput anymore. In this paper, we calculate the effective throughput as a function of the cooperation cluster size, and then we maximize the throughput by finding the optimal cluster size. Various numerical results show that when decisions are combined by the OR-rule, the optimum cooperation cluster size is less than when the AND-rule is used. On the other hand, the optimum cluster size monotonically decreases with the increase in the average SNR of the SUs. Another interesting result is that when the cluster size is optimized the OR-rule always outperforms the AND-rule.",
+  "paper_citation": "5",
+  "patent_citation": "",
+  "full_text_views": "270"
+ },
+ {
+  "title": "Analysis of Hardware Industry During COVID-19 Based on Fama-French Five Factor Model",
+  "profile_url": "https://ieeexplore.ieee.org/document/9421237/",
+  "doi": "10.1109/IPEC51340.2021.9421237",
+  "abstract": "COVID-19 has a huge impact on the global economy, especially the hardware industry, which is the cornerstone for the prosperity of each country. Based on the Fama-French Five-Factor Model and multiple linear regression, this paper analyzes the difference of the hardware industry before and after the outbreak of the epidemic. The data in this paper are selected from Kenneth R. French’s Web database and are obtained by the founder of Fama-French model based on relevant information of the U.S. stock market. The hardware industry data from 2019.7.1 to 2020.10.30 are adopted daily from 49 Industry Portfolios and divided equally into two groups for comparison. The coefficients are obtained by multiple linear regression. The results indicate that the outbreak of COVID-19 has not only a negative influence on the hardware industry but also some certain stimulative effects. Particularly, it concludes that the whole hardware market after the epidemic conforms to the CAPM model, leaving the four factors added recently insignificant.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "10"
+ },
+ {
+  "title": "A Coupling and Decoupling Device for Pulsed Current Injection in MIL-STD-188-125-2",
+  "profile_url": "https://ieeexplore.ieee.org/document/8929147/",
+  "doi": "10.1109/RFIT.2019.8929147",
+  "abstract": "In order to implement kA level pulsed current injection (PCI) in MIL-STD-188-125-2, a coupling circuit composed of the varistor and a decoupling circuit based on ferrite cores are designed by circuit analysis and simulation. Afterwards, the two parts were integrated into a compact device and validated in a PCI test. The validation result shows that the device can provide a high coupling and decoupling efficiency for kA level PCI, meanwhile does not interfere with normal operation of equipment under test. The device can be used to test the performance of electrical point-of-entry (POE) protective devices and long-line protection modules (LLPMs) for high-altitude electromagnetic pulse.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "95"
+ },
+ {
+  "title": "New intelligent power module for electric vehicles",
+  "profile_url": "https://ieeexplore.ieee.org/document/530403/",
+  "doi": "10.1109/IAS.1995.530403",
+  "abstract": "A new intelligent power module (IPM) of 450 A, 600 V has been developed. There are three major aspects in IPM development: IGBT (insulated gate bipolar transistor) device technology, packaging technology, and intelligent driver and protection circuits technology. The IGBT device has low power loss and high switching speed. The packaging has a smart housing with special easy-to-use connectors and high density mounting. The developed circuits constitute a three phase inverter bridge, driver and three protection functions (short-circuit, over-temperature, and control supply under-voltage lock) in addition to a serially-coded fault output function. Furthermore, reliability and cost are important factors for electric vehicles. This paper describes the structure and the superior electric characteristics of the new IPM.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "276"
+ },
+ {
+  "title": "Towards Cycle-Accurate Emulation of Cortex-M Code to Detect Timing Side Channels",
+  "profile_url": "https://ieeexplore.ieee.org/document/7784555/",
+  "doi": "10.1109/ARES.2016.94",
+  "abstract": "Leakage of information through timing side channels is a problem for all sorts of computing machinery, but the impact of such channels is especially dramatic on embedded systems. The reason for this is that these environments allow attackers to exploit small timing differences down to clock cycle accuracy. On the defensive side it is therefore advisable to evaluate cautiously if security-critical code contains data dependent timing discrepancies. When working with real hardware, testing for such vulnerabilities is a tedious process. In order to reduce the burden of vetting, we study approaches that allow cycle-accurate behavioral emulation of relevant CPU behavior such as instruction pipeline flushes and bus contention. We show that our approach is feasible and efficient by implementing an emulator of the popular ARM Cortex-M core. Then we give an overview about the problems of cycle-accurate emulation and demonstrate our approach towards a cycle-accurate ARM Thumb-2 simulator. Finally, we show how this simulator can be integrated into the build process of firmware to check for the presence of timing side channels before the system is deployed.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "160"
+ },
+ {
+  "title": "The student prompt: Student feedback and change in teaching practices in postsecondary computer science",
+  "profile_url": "https://ieeexplore.ieee.org/document/7044464/",
+  "doi": "10.1109/FIE.2014.7044464",
+  "abstract": "Research on retaining students in computer science is clear: pedagogical and curricular interventions that are experienced by all students are the most effective. Yet understanding what brings faculty to modify their teaching practices is scant. This study presents findings from a study based on interviews with 66 computer science professors and instructors in the U.S. Faculty described various sources of student feedback that prompt them to change their teaching practices. Though not originally an interview topic, every instructor mentioned ways in which student feedback instigated change. Faculty described several sources of feedback that influence teaching choices, with the goal of trying to improve their teaching. These include formalized evaluations; feedback inferred from student performance; direct requests from students; and students' nonverbal behavior. As sources of evidence for making decisions about teaching practices, each of these is problematic. We describe what makes them problematic and offer solutions described by faculty interviewed.",
+  "paper_citation": "7",
+  "patent_citation": "",
+  "full_text_views": "131"
+ }
+]

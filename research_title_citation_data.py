@@ -10,11 +10,11 @@ import requests
 import json
 import urllib.parse
 
-START_PAGE = 1
-END_PAGE = 10
+START_PAGE = 11
+END_PAGE = 20
 
 PATH_PAPER = os.getcwd()
-FOLDERNAME = f'/Research_Paper_JSON_{START_PAGE}_{END_PAGE}/'
+FOLDERNAME = f'/Research_Paper_Title_Citation_JSON_{START_PAGE}_{END_PAGE}/'
 PATH_PAPER = PATH_PAPER + FOLDERNAME
 
 if not os.path.isdir(PATH_PAPER) :
@@ -50,9 +50,10 @@ for page_num in range(PAGE_FLAG,END_PAGE + 1) :
         TITLE = ''
         PROFILE_URL = ''
         DOI = ''
-        PDF_URL = ''
-        DOI_URL = ''
         ABSTRACT = ''
+        PAPER_CITATION = ''
+        PATENT_CITATION = ''
+        FULL_TEXT_VIEWS = ''
 
         print("*"*20 + str(i) + "*"*20)
         
@@ -78,21 +79,22 @@ for page_num in range(PAGE_FLAG,END_PAGE + 1) :
             if citation_list == [] :
                 citation_list = cite.find_all('button',{"class" : "document-banner-metric single-metric"})
 
-
             for item in citation_list :
                 list_type = item.find_all('div')
                 if list_type[1].text.lower() == 'paper' :
                     print('Paper :- '+list_type[0].text)
+                    PAPER_CITATION = list_type[0].text
                 elif list_type[1].text.lower() == 'patent' :
                     print('Patent :- '+list_type[0].text)
+                    PAPER_CITATION = list_type[0].text
                 elif list_type[1].text.lower() == 'fulltext views' :
                     print('Full Text Views :- '+list_type[0].text)
-                    
+                    FULL_TEXT_VIEWS = list_type[0].text
+        
         except Exception as e :
             print(e)
             pass
-        
-
+            
         if abstract is not None : 
             if st_divs is not None :
                 
@@ -107,41 +109,22 @@ for page_num in range(PAGE_FLAG,END_PAGE + 1) :
                 doi = st_divs.find('a',{"target" : "_blank"}).text
                 DOI = doi
                 print(doi)
-                try : 
-                    url_doi = "https://sci-hub.do/" + doi
-                    print(url_doi)
-                    DOI_URL = url_doi
-                    time.sleep(5)
-
-                    r_doi = requests.get(url_doi)
-                    content = r_doi.text
-                    soup_pdf = BeautifulSoup(content, "html.parser")
-                    url_pdf = soup_pdf.find('iframe',{"id" : "pdf"})['src']
-                    if 'https' not in url_pdf:
-                        url_pdf = "https:" + url_pdf
-                    print(url_pdf)
-                    PDF_URL = url_pdf
-                    # download_file(url_pdf,title)
-                
-                except Exception as e:
-                    print(e)
-                    pass
-                time.sleep(5)
                 
         scraper_data = {}
         scraper_data['title'] = TITLE
         scraper_data['profile_url'] = PROFILE_URL
         scraper_data['doi'] = DOI
-        scraper_data['doi_url'] = DOI_URL
-        scraper_data['pdf_url'] = PDF_URL
         scraper_data['abstract'] = ABSTRACT
+        scraper_data['paper_citation'] = PAPER_CITATION
+        scraper_data['patent_citation'] = PATENT_CITATION
+        scraper_data['full_text_views'] = FULL_TEXT_VIEWS
         data.append(scraper_data)
 
         if i == 25 :
             i = 0
         i += 1
         time.sleep(5)
-    
+
     if data == [] :
         raise Exception('The data object is empty . Please run the Python File once again ')
         break 
@@ -156,7 +139,7 @@ driver.quit()
 
 files=glob.glob(PATH_PAPER + '*.json')
 # create a ZipFile object
-zipObj = ZipFile(f'{FOLDERNAME}.zip', 'w')
+zipObj = ZipFile(f'{PATH_PAPER[:-1]}.zip', 'w')
 # Add multiple files to the zip
 for file in files :
 

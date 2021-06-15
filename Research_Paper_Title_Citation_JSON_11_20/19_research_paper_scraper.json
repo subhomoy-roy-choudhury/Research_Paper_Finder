@@ -1,0 +1,227 @@
+[
+ {
+  "title": "Degradation Assessment and Remaining Useful Life Prognostic of Centrifugal Pump using Multi-Sensor Process Monitoring",
+  "profile_url": "https://ieeexplore.ieee.org/document/9209577/",
+  "doi": "10.1109/APARM49247.2020.9209577",
+  "abstract": "Centrifugal pump is the most widely used industrial rotating machinery and typically serve under harsh operational condition. The safe operation of these pumps is important and lots of research efforts have been devoted to avoid the pump failures. Recently, data-driven approaches arise to be a promising option to discover the underlying failure patterns, which would complement the limitations of conventional physical-based approaches susceptible to uncertain filed conditions. However, most recent studies are conducted based on vibration data. This in turn assumes the pump is equipped with prerequired vibration monitoring capability that would be usually expensive and even not feasible. This paper proposes a degradation assessment approach that exploits the multi-sensor process monitoring already exists in the pump system, for instance, flow rate, pressure, electric current, electric voltage. Specifically, the pump conditions are identified via a Bayesian nonparametric clustering algorithm. Then a distance-based degradation index is designed to characterize the degradation evolution. Finally, a state-space based predictive model is developed to achieve the remaining useful life prognostic. The proposed approach is validated by the process monitoring data collected from the centrifugal pumps tested in the laboratory. The results demonstrate the effectiveness of the proposed approach to characterize the pump degradation and predict its remaining useful life.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "97"
+ },
+ {
+  "title": "Losses caused by roughness of metallization in printed-circuit boards",
+  "profile_url": "https://ieeexplore.ieee.org/document/1563695/",
+  "doi": "10.1109/EPEP.2005.1563695",
+  "abstract": "In this paper the effect of metal roughness on the total loss, the extracted tan /spl delta/, and signal integrity of typical interconnections found in printed-circuit boards is extracted from measurements on three different materials. The differing characteristics of the roughened metal cross sections are highlighted, and a simplified, practical, two-dimensional, causal, broadband modeling methodology is shown.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "72"
+ },
+ {
+  "title": "Integrated cockpit research - A new look at the total aircraft system",
+  "profile_url": "https://ieeexplore.ieee.org/document/4502003/",
+  "doi": "10.1109/TAES.1966.4502003",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "36"
+ },
+ {
+  "title": "Coordinated Agents in Future Network Environment: Experimentation Analysis on the Impact of User Mobility and Route Optimization to the QoS of Video Streaming over Mobile IP Network",
+  "profile_url": "https://ieeexplore.ieee.org/document/1631489/",
+  "doi": "10.1109/CIMCA.2005.1631489",
+  "abstract": "This paper describes and highlights the role of home and foreign agents in maintaining correct addressing and routing mechanism of video streaming over mobile ip network. The impact of user mobility and route optimization to the QoS performance is observed and analyzed through five and two real scenario respectively. Service parameters such as throughput, packet loss, delay, and jitter are measured. The experimentation results show that QoS of handover scenario is the worst among others because of the temporal broken connection occurred during handover and reconnection phase. We find as well that QoS of mobile nodes which returning to its home cell is similar to stationery mobile node. Compared to bidirectional tunneling, route optimization works better in terms of packet loss but performs worse in case of thoughput and jitter",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "68"
+ },
+ {
+  "title": "An optimal finite element error estimate for an inverse problem in multispectral bioluminescence tomography",
+  "profile_url": "https://ieeexplore.ieee.org/document/8132779/",
+  "doi": "10.1093/imamat/hxt031",
+  "abstract": "Inspired by the paper (Gong, W., Li, R., Yan, N. N. & Zhao, W. B. (2008) An improved error analysis for finite element approximation of bioluminescence tomography. J. Comput. Math., 26, 1–13), we consider an optimal finite element error estimate for an inverse problem in multispectral bioluminescence tomography. Different from achromatic or monochromatic measurements, hyperspectral or multispectral data can reduce the ill-posedness of the inverse problem and yield improved depth reconstruction. Compared with Gong et al. (2008, An improved error analysis for finite element approximation of bioluminescence tomography. J. Comput. Math., 26, 1–13), which just improved the error order of piecewise constant light source function, error order in this paper is optimal and all error estimates here are valid for a general smooth domain rather than a polyhedral/polygonal one. Moreover, under a boundedness assumption for the admissible source set, the constants in our error estimates do not depend on the regularization parameter, and therefore are bounded.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": ""
+ },
+ {
+  "title": "Lossless image coding via one-dimensional grammar based codes",
+  "profile_url": "https://ieeexplore.ieee.org/document/889351/",
+  "doi": "10.1109/ICCT.2000.889351",
+  "abstract": "Lossless image coding is considered from an information theoretic point of view. Three new coding schemes are proposed. In the first coding scheme, an image is first scanned in a quadrant-by-quadrant manner and then encoded by using a one-dimensional grammar-based code which has been developed by Yang and Kieffer (2000) and is called the improved sequential algorithm (or simply the YK algorithm). In the second coding scheme, an image is first predicted by using a context template then scanned in a quadrant-by-quadrant manner, and finally encoded by using the YK algorithm. In the third coding scheme, an image is first scanned in a quadrant-by-quadrant manner and then encoded by using a modified YK algorithm, which also includes a 2D arithmetic code as an option to remove local 2D redundancy. Because of the nature of the YK algorithm and the scanning method, all three coding schemes can remove effectively global redundancy existing in images. Indeed, it is proved that all three coding schemes are universal and outperform asymptotically finite 2D block code and any finite context 2D arithmetic code as the image size gets larger and larger. For small images, however, the second coding scheme is slightly more effective in removing local redundancy occurring in images than does the first coding scheme, and the third one is the best among the three. Simulation results on bi-level images confirm our theoretic results: for images of size 512/spl times/512, our results are comparable with those afforded by JBIG1; for some images of size 1024/spl times/1024, our results are better than those afforded by JBIG1.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "44"
+ },
+ {
+  "title": "Control of induction motors via singular perturbation technique and nonlinear feedback control",
+  "profile_url": "https://ieeexplore.ieee.org/document/149260/",
+  "doi": "10.1109/IECON.1990.149260",
+  "abstract": "A description is given of a design for controlling induction motors with high dynamic performance by decoupling control over rotor speed and motor flux. The singular perturbation technique and nonlinear feedback control technique are utilized. Three different decoupling control schemes based on rotor flux, stator flux and air-gap flux are developed. The proposed controllers consist of three subcontrollers: a saturation current controller, a nonlinear feedback controller, and a flux simulator. Simulation and experimental results are presented to verify that these control schemes provide decoupling control of rotor speed and motor flux with excellent dynamic behavior. A microprocessor-based drive system was implemented to demonstrate the decoupling control of induction motors.<\n>",
+  "paper_citation": "5",
+  "patent_citation": "",
+  "full_text_views": "100"
+ },
+ {
+  "title": "An Estimated Distance-Based Routing Protocol for Mobile Ad hoc Networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/5784354/",
+  "doi": "10.1109/TVT.2011.2158865",
+  "abstract": "In mobile ad hoc networks (MANETs), the network topology changes frequently and unpredictably due to the arbitrary mobility of nodes. This feature leads to frequent path failures and route reconstructions, which causes an increase in the routing control overhead. Thus, it is imperative to reduce the overhead of route discovery in the design of routing protocols of MANETs. In this paper, we propose an estimated distance (EstD)-based routing protocol (EDRP) to steer a route discovery in the general direction of a destination, which can restrict the propagation range of route request (RREQ) and reduce the routing overhead. In the EDRP, the change regularity of the received signal strength (RSS) is exploited to estimate the geometrical distance between a pair of nodes, which is called the estimated geometrical distance (EGD). Simulation experiments based on a random waypoint (RWP) model show that the EGD can effectively reflect the actual distance when it is less than the expected value of the distance [which is called the estimation radius (E-Radius)] between any node pairs. We also propose an estimated topological distance (ETD), which is a topology-based EstD, as an aid to the EGD, which can mitigate the effect of inaccurate EGD. The EstD is a combination of EGD and ETD. In the protocol, every node evaluates the link quality through the computational process of the EGD to eliminate the weak links and then uses the EstD (EGD and ETD) to steer the RREQ packets toward the general direction of the destination. Simulation results show that the proposed protocol can significantly reduce the routing overhead and improve the routing performance in dense or high-mobility networks.",
+  "paper_citation": "24",
+  "patent_citation": "",
+  "full_text_views": "1820"
+ },
+ {
+  "title": "Research of the Physical Processes of the Power Electronics Device",
+  "profile_url": "https://ieeexplore.ieee.org/document/8602650/",
+  "doi": "10.1109/FarEastCon.2018.8602650",
+  "abstract": "The paper describes summarized equations describing physical processes in quasi steady and dynamic operation modes of the entire class of valve inverters (rectifiers, network driven inverters, converters and cycle-converters). MatLab calculations depict processes for a bridge joint with loads in AC/DC circuits. The paper also considers the dynamics of processes related to starting industrial RL-load through a reactor equipped rectifier within the direct current circuit. Those processes have been compared with RL-load starting by electrical devices. Practicality of the rectifier utilization with regards to starting production loads of alternate current is represented.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "31"
+ },
+ {
+  "title": "Optimization of the Time Durations by Exploiting Time Margins in Time Interval Models",
+  "profile_url": "https://ieeexplore.ieee.org/document/9434405/",
+  "doi": "10.1109/TCST.2021.3077975",
+  "abstract": "Considering time interval models, which can describe a large class of models including timed event graphs and P-time event graphs, a general aim is to control the system such that it follows a one-periodic behavior starting from an initial state with a minimal or maximal cycle time. The aim of this article is the optimization of the time durations in order to achieve a given rate of production when the quantity of resources (number of pallets, machines, and so on), usually represented by the initial marking, is assumed to be a fixed datum. A prior step is the determination of the critical subsystems, whose variations can influence these optimal values and affect the obtainment of the relevant trajectories and the noncritical subsystems leading to time margins. Two approaches are proposed in that aim. A first technique is based on an adaptation of the classical Martínez and Silva's algorithm, where each solution gives a critical subsystem, while a second approach checks each inequality of the system by an optimality verification. Using this partition of the subsystems and particularly exploiting the time margins corresponding to idle times of machines, the approach allows an optimization of the noncritical time durations when the extremum cycle times and the resources are the constant parameters of the problem. In this article, the definition of P-time event graphs is generalized by introducing the model of time supervisor place, which restricts the time behavior of a set of places. The approach is applied to a plant bakery composed of two production lines.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "13"
+ },
+ {
+  "title": "An instrumented glove for improving spasticity assessment",
+  "profile_url": "https://ieeexplore.ieee.org/document/7797723/",
+  "doi": "10.1109/HIC.2016.7797723",
+  "abstract": "An instrumented glove worn by caregivers that can augment subjective assessments of spasticity with an objective, repeatable metric with reduced inter- and intra-rater variability and improved resolution over existing standards is highly desirable. We present the design and preliminary results of such a system using commercial, off the shelf (COTS) components. The glove includes spatially-resolved, force-dependent resistive sensor elements and an inertial measurement unit. We developed a mock patient that is equipped with a mechanism to adjust the arm stiffness, a load-cell and a potentiometer to measure the work done to move the arm. The mock patient provides ground truth to validate the proposed concept. We report the power measured by the sensors in the mock patient to move the arm and the power estimated by the glove in moving the arm and show Pearson correlation coefficient of 0.64. We observe that raw sensor data and instrumentation errors contributed to significant outliers in these experiments. Initial assessments by clinician show promise of the proposed approach to improve spasticity assessment. Future work includes improvements to instrumentation and further clinical evaluations.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "292"
+ },
+ {
+  "title": "Joint channel and DC offset estimation and synchronization with reduced computational complexity for an EDGE receiver",
+  "profile_url": "https://ieeexplore.ieee.org/document/957145/",
+  "doi": "10.1109/VTC.2001.957145",
+  "abstract": "EDGE (Enhanced Data rates for GSM Evolution) is a set of improvements to the GSM, aiming at providing higher data rate transmission per radio timeslot and increasing spectral efficiency. Such high data rates put new requirements on the receiver design. On the other hand, the receiver design needs to be efficient from a cost, size and power consumption point of view in order to allow high volume production. A receiver architecture that fulfills such mobile terminal requirements is e.g. the direct conversion receiver. Such a receiver, however, suffers from some problems. One of the problems is that the DC offset can not be eliminated completely in the RF part of the receiver and has to be taken care of in the baseband signal processing. Lindoff (2000) proposed to use a least square (LS) algorithm to jointly estimate the channel parameters and the DC offset by a standard correlation algorithm for synchronization. In an environment which generates a high delay spread to the signal, this algorithm can be applied directly only with very high computational complexity, for the LS estimation has to be repeated several times. In order to reduce the complexity we propose to introduce a fine-synchronization step before the LS estimation. This step, usually used for channel estimation and synchronization in the absence of DC offset, can reduce the computational complexity by a factor 5 or 6.",
+  "paper_citation": "7",
+  "patent_citation": "",
+  "full_text_views": "159"
+ },
+ {
+  "title": "The nature of radiation from leaky waves on single- and double-negative metamaterial grounded slabs",
+  "profile_url": "https://ieeexplore.ieee.org/document/1335879/",
+  "doi": "10.1109/MWSYM.2004.1335879",
+  "abstract": "In this work we investigate the dispersion and radiation properties of leaky waves on metamaterial grounded slabs. A simple analysis of the dispersion equation of TE and TM waves supported by such structures reveals that leaky waves of only the proper type exist when double-negative metamaterials are employed, while proper or improper leaky waves exist in single-negative grounded slabs, depending both on which constitutive parameter is negative and on TE or TM polarization. Numerical results on specific structures are provided that illustrate the backward nature of radiation from the proper leaky waves and show the behaviour of the frequency scan through broadside as the metamaterial layer changes its constitutive parameters.",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "165"
+ },
+ {
+  "title": "A predictive direct power control applied to the Doubly Fed Induction Generator under voltage dip",
+  "profile_url": "https://ieeexplore.ieee.org/document/7125426/",
+  "doi": "10.1109/ICIT.2015.7125426",
+  "abstract": "This paper presents a Predictive Direct Power Control Applied to the Doubly Fed Induction Generator operating with or without voltage dip, in variable speed operation. The predictive controller is obtained from state-space DFIG model. The control law is derived by optimization of a cost function that considers the difference between the predicted outputs - stator active and reactive powers - and their references. It used a discrete state-space model to describe the system. As the voltage dip is not predicted, it is considered to be a disturbance in the control algorithm. Digital simulations are performed to verify the efficiency potential of the proposed controller.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "135"
+ },
+ {
+  "title": "Degradation and failure analysis of copper and tungsten contacts under high fluence stress",
+  "profile_url": "https://ieeexplore.ieee.org/document/5488744/",
+  "doi": "10.1109/IRPS.2010.5488744",
+  "abstract": "The reliability of Cu and W contacts under high fluence stress mimicking source/drain contacts in the on-state of a transistor is evaluated. We use Kelvin structures to study the contact degradation and to determine the lifetime as a function of voltage and temperature. Failure analysis reveals significant damage created in the proximity of the contacts. It is concluded that not electromigration alone, but also Joule heating of the contact and the contact interfaces triggers failure.",
+  "paper_citation": "8",
+  "patent_citation": "",
+  "full_text_views": "475"
+ },
+ {
+  "title": "An optimization-based approach for the calibration of lookup tables in electronic engine control",
+  "profile_url": "https://ieeexplore.ieee.org/document/4777001/",
+  "doi": "10.1109/CACSD-CCA-ISIC.2006.4777001",
+  "abstract": "This paper discusses the use of a parameter estimation approach for the calibration of electronic engine control software from an industrial perspective. Many functions in the software of automotive electronic engine control units are based on lookup tables. Calibrating, that is, tuning the entries of these lookup tables, is a crucial step in the process of automotive software engineering. At first sight, this corresponds to a standard parameter estimation problem. In the practical application, however, the calibrated parameters have to fulfil additional requirements. These additional requirements are discussed in this paper and it is illustrated how they can be included in an optimization-based calibration process. A software tool is described that has been developed to allow the calibration engineer, without having to be familiar with the mathematical background, to easily formulate these requirements, carry out the optimization, and analyze the results. The steps that are carried out in the optimization-based calibration process are outlined, and the advantages of this approach are discussed",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "190"
+ },
+ {
+  "title": "An analysis of capabilities of Pakistan as an offshore IT services outsourcing destination",
+  "profile_url": "https://ieeexplore.ieee.org/document/1492913/",
+  "doi": "10.1109/INMIC.2004.1492913",
+  "abstract": "Developed economies view outsourcing as a viable option for attaining competitive market position. Many of the emerging economies have succeeded in capturing and increasing their share in the global outsourcing market. In this paper we review the factors that helped some of the emerging economies to attain the current successful position. Using the country selection framework [Trediman and Breg, 2001] we have analyzed and evaluated the potential of Pakistan for offshore outsourcing. The SWOT analysis identifies the weak and problem areas for Pakistan in this regard and it also indicates a number of areas upon which it can build to capture the existing opportunities.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "257"
+ },
+ {
+  "title": "Logistic simulator for steel producing factories",
+  "profile_url": "https://ieeexplore.ieee.org/document/1166396/",
+  "doi": "10.1109/WSC.2002.1166396",
+  "abstract": "The logistic processes in most steel producing plants are very complex. To assist the decision makers in steel producing plants, Incontrol Enterprise Dynamics have developed for and in cooperation with SMS Demag in Germany, a simulator that can be used to rapidly model any steel plant. The Steel Plant Simulator has been built using the software package Enterprise Dynamics/spl reg/ and allows for rapid insight into the influences of layout changes, process and speed parameters, length of production runs, changes in planning and type of products that are being produced. The Simulator incorporates a dynamic scheduler to create a realistic production planning. Results include production Gantt charts, time-path diagrams, utilization figures and production statistics.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "122"
+ },
+ {
+  "title": "ECC-Based Threshold Digital Signature Scheme without a Trusted Party",
+  "profile_url": "https://ieeexplore.ieee.org/document/4724783/",
+  "doi": "10.1109/CIS.2008.139",
+  "abstract": "Based on the elliptic curve logarithm problem, a (t, n) threshold digital signature scheme was proposed in this paper. In the key generation phase, each participant¿s public and private keys, and the group public key are negotiated among all the participants with no trusted party required. In the signature generation phase, no secure communication is needed between any two participants. This scheme provides the capability of detecting cheating and identifying the cheat that may be from the internal participants or the external attackers. At the same time, this scheme has the advantages of elliptic curve cryptography. The security of this scheme is based on the difficulty of solving the elliptic curve discrete logarithm problem. Analyses show that this scheme is a computationally secure and efficient scheme.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "125"
+ },
+ {
+  "title": "Transforming telemedicine for rural and urban communities Telemedicine 2.0 - any doctor, any place, any time",
+  "profile_url": "https://ieeexplore.ieee.org/document/5556538/",
+  "doi": "10.1109/HEALTH.2010.5556538",
+  "abstract": "Providing quality healthcare in both rural and urban settings introduces many challenges. While today's Telemedicine attempts to address these challenges, the current approach is limited. This paper defines a new system architecture that leverages the network as the platform for intelligent transport and services to support high-definition videoconferencing and high-quality video and audio telemetry without the usual prohibitive cost. We describe the intelligent system components used at the end points and in the data center, and the requirements for a robust network both in the enterprise and in the service provider arenas. We contrast today's Telemedicine workflow with the workflow of Telemedicine 2.0. Finally, we offer a view of possible extensions Telemedicine 2.0 to further capitalize on the infrastructure and architecture proposed in this paper.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "292"
+ },
+ {
+  "title": "Ka-band electronically scanned artificial impedance surface antenna",
+  "profile_url": "https://ieeexplore.ieee.org/document/7696034/",
+  "doi": "10.1109/APS.2016.7696034",
+  "abstract": "An electronically scanned artificial impedance surface antenna (AISA) operating in the Ka-band was developed and measured. The AISA operates between 27-34 GHz and can scan electronically up to +/- 60 degrees in one dimension. A novel impedance surface unit cell using PIN diodes is designed in order to minimize losses of the surface-wave mode. The reduced losses allow the antenna to operate at much higher frequencies as compared to previous AISAs. The antenna uses a binary modulation based on the two states of the PIN diodes. The measured aperture efficiency is 30% at 30 GHz.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "560"
+ },
+ {
+  "title": "The effect of space charge on phenomenology of partial discharges in insulation cavities",
+  "profile_url": "https://ieeexplore.ieee.org/document/1560707/",
+  "doi": "10.1109/CEIDP.2005.1560707",
+  "abstract": "The effect of space charge accumulated in insulation cavities on partial discharge activity is dealt with in the paper. Partial discharges were measured on non-polarized and DC-polarized XLPE specimens. In order to characterize space charge distribution, pulsed-electroacoustic (PEA) space charge measurements were also performed on polarized and PD-aged specimens. The results show that space charge can affect, although in some complex way, partial discharge phenomenology. Moreover, space charge measurements on stressed specimens can help in the inference of degradation mechanisms (e.g., trap formation at the cavity surface) associated to partial discharge activity.",
+  "paper_citation": "14",
+  "patent_citation": "",
+  "full_text_views": "377"
+ },
+ {
+  "title": "The Susceptibility of a 1K NMOS Memory to Conducted Electromagnetic Interference",
+  "profile_url": "https://ieeexplore.ieee.org/document/7569907/",
+  "doi": "",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "35"
+ },
+ {
+  "title": "Transmission contingency, voltage collapse and transfer limits evaluation for the THP pumped storage hydro project",
+  "profile_url": "https://ieeexplore.ieee.org/document/729329/",
+  "doi": "10.1109/ICPST.1998.729329",
+  "abstract": "This paper describes an analytical study performed to evaluate the potential impact of the proposed interconnection of a major pumped storage project to the East China Electric Power Grid (ECEPG). The study assesses the performance of the grid by focusing on the power transfer capability between electrical regions during different operating modes of the plant.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "49"
+ },
+ {
+  "title": "Phase coherence factor with sub-aperture beamforming",
+  "profile_url": "https://ieeexplore.ieee.org/document/6932073/",
+  "doi": "10.1109/ULTSYM.2014.0133",
+  "abstract": "High-frame-rate echocardiography using unfocused transmit beams and parallel receive beamforming is a promising method for evaluation of cardiac function, such as imaging of rapid propagation of the heart wall vibration. In this technique, high temporal resolution is realized at the expense of spatial resolution and contrast. The phase coherence factor has been developed to improve spatial resolution and contrast in ultrasonography. It evaluates the variance in phases of echo signals received by individual transducer elements after delay compensation as in the conventional delay and sum beamforming process. However, the phase coherence factor suppresses speckle echoes because phases of speckle echoes fluctuate due to their mutual interference. In the present study, total receiving aperture was divided into several sub-apertures, and conventional delay and sum beamforming was performed with respect to each sub-aperture to suppress echoes from scatterers except for that from a focal point. After sub-aperture beamforming, the phase coherence factor was obtained from beamformed RF signals from respective sub-apertures. By means of this procedure, undesirable echoes, which can interfere with the echo from a focal point, can be suppressed by sub-aperture beamforming, and the degradation of the phase coherence factor due to phase fluctuation caused by such interference can be avoided. Effects of sub-aperture beamforming were evaluated using a phantom. By sub-aperture beamforming, the average intensity of speckle echoes from a diffuse scattering medium was significantly higher (-39.9 dB) than that obtained without sub-aperture beamforming (-48.7 dB). As for spatial resolution, the width at half maximum of the lateral echo amplitude profile obtained without the phase coherence factor was 1.06 mm. Using the phase coherence factor, spatial resolution was improved significantly, and sub-aperture beamforming achieved a better spatial resolution of 0.75 mm than that of 0.78 mm ob...",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "273"
+ }
+]

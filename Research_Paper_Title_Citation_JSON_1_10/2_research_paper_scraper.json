@@ -1,0 +1,227 @@
+[
+ {
+  "title": "Defining goal-driven fault management metrics in a real world environment: a case-study from Nokia",
+  "profile_url": "https://ieeexplore.ieee.org/document/827318/",
+  "doi": "10.1109/CSMR.2000.827318",
+  "abstract": "For measurements to be worthwhile, they must be linked to the goals of an organization. Automated data collection systems are effective, but they can encourage collecting only data that is easily available. The Fixed Switching unit from Nokia has automated data collection systems supporting its processes. It started measurement based improvement of the fault management process by defining goal-driven metrics on top of the existing systems. Fault management includes the analysis and correction of faults, and the delivery of corrections. The work consisted of translating high-level goals into measurement goals, applying the Goal-Question-Metric paradigm to identify questions and indicators, and identifying needed data. Starting with a workshop setting helped to get practitioners involved. Having specified measurement goals helped defining concrete metrics that are targeted at specific audiences. The defined metrics serve the purposes of monitoring fault traffic, and process improvement. Metrics need to evolve, and the metrics implemented first use only data from the fault tracking system, providing the best reporting facilities at the moment. However, metrics that require qualitative checking of data cannot be automated.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "133"
+ },
+ {
+  "title": "A stable frequency references platform based on packaged microsphere-taper coupling system",
+  "profile_url": "https://ieeexplore.ieee.org/document/6196787/",
+  "doi": "10.1109/NEMS.2012.6196787",
+  "abstract": "“Whispering gallery modes” (WGM) optical micro- and nano resonators are important category in nanophotonics researches. The ultra-high quality factor (Q) makes them promising ranging from sensors, filters to low threshold sources. In the above supplications, the frequency stability of the WGM is critical, which is determined by several factors. In this paper, using the microsphere resonator we construct a robust packaged microsphere-taper coupling system (MTCS) to stabilize the resonant WGMs. Furthermore, a stable frequency references platform based on the packaged microcavity unit is constructed. This stable frequency references platform can eliminate the noise of the WGM, and promote the microresonator researches.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "288"
+ },
+ {
+  "title": "Accelerating the Domain Green's Function Method through adaptive cross approximation",
+  "profile_url": "https://ieeexplore.ieee.org/document/6903935/",
+  "doi": "10.1109/ICEAA.2014.6903935",
+  "abstract": "The Domain Green's Function Method (DGFM) is a Method-of-Moments (MoM) based domain decomposition approach that is useful for the analysis of large, irregular antenna arrays. Mutual coupling between array elements is accounted for with the formulation of an active impedance matrix equation for each of the domains/array elements. The active current distribution on the entire array geometry is then obtained by solving these smaller matrix equations pertaining to the elements. The active impedance matrix calculation entails a summation of the MoM matrix diagonal and off-diagonal sub-matrices. For arrays containing a large number of elements this summation can lead to matrix fill times similar to that of the global MoM calculation. To mitigate this significant computational overhead, while still maintaining a sufficient degree of accuracy, the adaptive cross approximation (ACA) algorithm is applied to accelerate this part of the DGFM.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "293"
+ },
+ {
+  "title": "Guided Modes in Layered Semiconductor Terahertz Structures",
+  "profile_url": "https://ieeexplore.ieee.org/document/5485044/",
+  "doi": "10.1109/JQE.2010.2047379",
+  "abstract": "In this paper, we present a simple and robust method for calculating the dispersion relation of guided modes in layered media with conducting interfaces in the terahertz frequency range. The procedure is based on the transfer matrix method and utilizes a Nelder-Mead simplex algorithm for the solution of the resulting transcendental equations. By applying a semi-analytical approach, the algorithm shows very good convergence behavior even for structures containing metallic layers. Analytic forms of the transcendental equations for transverse electric and transverse magnetic polarization for systems with one to four boundaries are presented. Conducting interfaces can, for instance, be used to describe a 2-D electron gas or a planar metamaterial. We demonstrate the performance of this method by examples which are of current technological interest. These include surface waves bound to surface carriers on p-InAs, a parallel plate waveguide and plasma oscillations in a high electron mobility transistor structure.",
+  "paper_citation": "12",
+  "patent_citation": "",
+  "full_text_views": "672"
+ },
+ {
+  "title": "Missing Data Imputation: A Fuzzy K-means Clustering Algorithm over Sliding Window",
+  "profile_url": "https://ieeexplore.ieee.org/document/5358917/",
+  "doi": "10.1109/FSKD.2009.407",
+  "abstract": "Fuzzy set theory is motivated by the practical needs to manage and process uncertainty inherent in real world problem solving. It is useful in applications to data mining, conflict analysis, and so on. Although ignored by much of the related work, the high rate and unbounded nature of data make the sliding window indispensable. In this paper, we present a fuzzy k-means clustering algorithm over sliding window for the missing value imputation of incomplete data to improve the data quality. The experiments show that our missing data imputation algorithm tends to be more tolerant of imprecision and uncertainty and can lead to a better performance with accuracy guarantees.",
+  "paper_citation": "17",
+  "patent_citation": "",
+  "full_text_views": "914"
+ },
+ {
+  "title": "Indexing evolving events from tweet streams",
+  "profile_url": "https://ieeexplore.ieee.org/document/7498413/",
+  "doi": "10.1109/ICDE.2016.7498413",
+  "abstract": "Tweet streams provide a variety of real-time information on dynamic social events. Although event detection has been actively studied, most of the existing approaches do not address the issue of efficient event monitoring in the presence of a large number of events detected from continuous tweet streams. In this paper, we capture the dynamics of events using four event operations: creation, absorption, split and merge.We also propose a novel event indexing structure, named Multi-layer Inverted List (MIL), for the acceleration of large-scale event search and update. We thoroughly study the problem of nearest neighbour search using MIL based on upper bound pruning. Extensive experiments have been conducted on a large-scale tweet dataset. The results demonstrate the promising performance of our method in terms of both efficiency and effectiveness.",
+  "paper_citation": "8",
+  "patent_citation": "",
+  "full_text_views": "373"
+ },
+ {
+  "title": "Exploiting frequency diverse array processing to improve SAR image resolution",
+  "profile_url": "https://ieeexplore.ieee.org/document/4721083/",
+  "doi": "10.1109/RADAR.2008.4721083",
+  "abstract": "Cross-range resolution in spotlight synthetic aperture radar (SAR) is primarily a function of the angular extent (Deltathetas) over which data is collected. In [1], the authors proposed a method for improving cross-range resolution for a given Deltathetas by use of frequency diverse array (FDA) techniques. The goal was to exploit an apparent increase in Deltathetas to improve cross-range resolution while retaining benefits of shorter synthetic apertures and integration times using a linear FDA. This paper extends those efforts and introduces the application of FDA techniques to improve range resolution.",
+  "paper_citation": "37",
+  "patent_citation": "",
+  "full_text_views": "764"
+ },
+ {
+  "title": "Tunable dispersion slope compensation for WDM systems using a single non-channelized third-order-chirped FBG",
+  "profile_url": "https://ieeexplore.ieee.org/document/1036569/",
+  "doi": "10.1109/OFC.2002.1036569",
+  "abstract": "We demonstrate a novel technique for tunable dispersion slope compensation that relies on a single nonchannelized chirped fiber Bragg grating (FBG). This grating is unique in that it is written such that the time delay as a function of wavelength is a third-order profile that covers several WDM channels over a continuous bandwidth of many nanometers. The dispersion range provided by the grating for the WDM channels can be up to 400 ps/nm, enabling dispersion slope compensation.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "110"
+ },
+ {
+  "title": "A novel launch power determination strategy for physical layer impairment-aware (PLI-A) lightpath provisioning in mixed-line-rate (MLR) optical networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/7566207/",
+  "doi": "10.1109/WiSPNET.2016.7566207",
+  "abstract": "In mixed-line-rate (MLR) networks, various data rates, on varied wavelengths, exist on a fiber. In MLR networks, end-to-end lightpaths can be established with the desired line rate; requiring advanced modulation formats for higher data rates. However, along the route, the signals experience different physical layer impairments (PLIs), and their quality also worsens. The transmission signal quality is affected by the launch power, which must be high for lesser noise at the receiver, and must also be low, such that the PLIs do not start to distort the signal. Further, higher launch power also disrupts the existing lightpath and its neighbours. We propose a weighted strategy for provisioning PLI-aware (PLI-A) lightpaths in MLR networks. Through the simulations, we compare and demonstrate that the proposed strategy demonstrates better performances than our previously proposed algorithm (i.e. PLI-Average (PLI-A)), and existing approaches.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "159"
+ },
+ {
+  "title": "On constructing a knowledge management pyramid model",
+  "profile_url": "https://ieeexplore.ieee.org/document/1506440/",
+  "doi": "10.1109/IRI-05.2005.1506440",
+  "abstract": "In this knowledge-based economy, knowledge has become an important asset to an organization and, consequently, knowledge management has emerged, as issue managers have to deal with Peter F. Drucker (1993) said that knowledge would be the only competitive resource for companies in the future. This is an era in which knowledge plays a dominant role in our daily business lives. Intellectual capital has gradually taken the place of traditional tangible capital in many business organizations. However, practitioners are often puzzled about where they stand, how well they are doing, and what they should do next. This paper aims to construct a knowledge management maturity model as a means to help answer these and related questions. There are three components in the proposed model: maturity levels, knowledge management processes, and knowledge management capabilities or enabling infrastructures. The maturity levels are based on the capability maturity model (CMM) of SEI. This model divides the knowledge management process into four main sub-processes: knowledge creation, knowledge storage, knowledge sharing, and knowledge application, emphasizing the need for continuous process improvement. Furthermore, knowledge management enablers are integrated into KMMM to describe how it supports the practices at each maturity level. The applicability of this model is evaluated through case studies, which also serve to illustrate how knowledge management practices among organizations are compared, and what maturity paths organizations can follow. Three banks were taken for cases study through in depth interview with their senior managements. By analyzing data gathered through the process described above, the conclusion of this study is induced.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "553"
+ },
+ {
+  "title": "Large negative uniaxial magnetic anisotropy in epitaxially strained nickel ferrite films",
+  "profile_url": "https://ieeexplore.ieee.org/document/8007730/",
+  "doi": "10.1109/INTMAG.2017.8007730",
+  "abstract": "Spinel ferrites are magnetic materials which have been actively investigated from the viewpoints of both fundamental research and application.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "186"
+ },
+ {
+  "title": "V2G electric vehicle charging scheduling for railway station parking lots based on binary linear programming",
+  "profile_url": "https://ieeexplore.ieee.org/document/7513989/",
+  "doi": "10.1109/ENERGYCON.2016.7513989",
+  "abstract": "This paper proposes a V2G charging scheduling scheme for energy invoice minimization of railway station parking lots hosting plug-in electric vehicles. Using a two layer optimization technique the daily load profile of the railway station is reduced in order to increase the load factor and minimizing the annual energy invoice (AEI) of the station. Binary linear programming is used as second layer for charging/discharging scheduling problem. The final results shows interests of using the proposed approach conducting its impact on minimizing annual optimum subscribed power, maximum demand power and annual energy invoice.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "473"
+ },
+ {
+  "title": "Differential flatness based control of a rotorcraft for aggressive maneuvers",
+  "profile_url": "https://ieeexplore.ieee.org/document/6095098/",
+  "doi": "10.1109/IROS.2011.6095098",
+  "abstract": "We propose a new method to control a multi-rotor aerial vehicle. We show that the system dynamics are differentially flat. We utilize the differential flatness of the system to provide a feed forward input. The system model derived allows for arbitrary changes in yaw and is not limited to small roll and pitch angles. We demonstrate in hardware the ability to follow a highly maneuverable path while tracking a time-varying heading command.",
+  "paper_citation": "23",
+  "patent_citation": "",
+  "full_text_views": "984"
+ },
+ {
+  "title": "Digital flight control - scenario for the 90's",
+  "profile_url": "https://ieeexplore.ieee.org/document/762651/",
+  "doi": "10.1109/ACE.1990.762651",
+  "abstract": "In the last decade, considerable progress has been made in the sphere of aircraft control. The arrival of powerful and reliable microprocessors has encouraged their usage for the Implementation of different control laws. Those processors are configured redundantly to achieve a high degree of reliability for fall-safe operation. This paper highlights the evolation of the concept of digital flight control, a few case studies, as well as Issues Involved in the design of such a system . Mention of some of the contemporary implementations and prospects for the future is also made.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "54"
+ },
+ {
+  "title": "Iris Recognition Using Possibilistic Fuzzy Matching on Local Features",
+  "profile_url": "https://ieeexplore.ieee.org/document/5997319/",
+  "doi": "10.1109/TSMCB.2011.2163817",
+  "abstract": "In this paper, we propose a novel possibilistic fuzzy matching strategy with invariant properties, which can provide a robust and effective matching scheme for two sets of iris feature points. In addition, the nonlinear normalization model is adopted to provide more accurate position before matching. Moreover, an effective iris segmentation method is proposed to refine the detected inner and outer boundaries to smooth curves. For feature extraction, the Gabor filters are adopted to detect the local feature points from the segmented iris image in the Cartesian coordinate system and to generate a rotation-invariant descriptor for each detected point. After that, the proposed matching algorithm is used to compute a similarity score for two sets of feature points from a pair of iris images. The experimental results show that the performance of our system is better than those of the systems based on the local features and is comparable to those of the typical systems.",
+  "paper_citation": "34",
+  "patent_citation": "",
+  "full_text_views": "2095"
+ },
+ {
+  "title": "A Three-Dimensional Encoding Genetic Algorithm for Job Shop Scheduling",
+  "profile_url": "https://ieeexplore.ieee.org/document/4425473/",
+  "doi": "10.1109/CISW.2007.4425473",
+  "abstract": "In so many combinatorial optimization problems, job shop scheduling problems have earned a reputation for being difficult to solve. GA has demonstrated considerable success in providing efficient solutions to many non-polynomial-hard optimization problems. In the field of job shop scheduling, GA has been intensively researched, and there are nine kinds of methods were proposed to encoding chromosome to represent a solution. In this paper, we proposed a novel genetic chromosome encoding approach, in this encoding method, the operation of crossover and mutation was done in three-dimensional coded space. 5 selected benchmark problems were tried with the proposed three- dimensional encoding GA for validation and the results are encouraging.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "133"
+ },
+ {
+  "title": "Vibration Analysis of a Reactor Driven by an Inverter Power Supply Considering Electromagnetism and Magnetostriction",
+  "profile_url": "https://ieeexplore.ieee.org/document/5257228/",
+  "doi": "10.1109/TMAG.2009.2024638",
+  "abstract": "To design a new model to reduce the noise of a reactor under inverter power supply, the cause of noise should be investigated. We carry out vibration analysis of a single phase of a reactor while considering electromagnetism and magnetostriction to clarify the mechanism of noise generation in the reactor. In this analysis, magnetostriction is modeled three-dimensionally with equivalent nodal forces. First, the nodal forces in the cores of reactor due to the electromagetism and magnetostriction are calculated using the flux distribution obtained from magnetic field analysis. To determine the dominant cause of noise, the spatial distributions of displacements generated by both nodal forces are then obtained by static structure analysis and they are compared in detail. Moreover, the actual movements of the cores are calculated by vibration analysis. Finally, the effect of the hardness of the cores on noise generation is calculated and measured. It is shown that the hardness of the insulator inserted in gaps between cores affects the vibration and it seems to have an optimal value. Moreover, the analyzed results are proved by measurement.",
+  "paper_citation": "27",
+  "patent_citation": "",
+  "full_text_views": "787"
+ },
+ {
+  "title": "Connection service and management using mobile agents",
+  "profile_url": "https://ieeexplore.ieee.org/document/830445/",
+  "doi": "10.1109/NOMS.2000.830445",
+  "abstract": "In this paper, an architectural framework is proposed to integrate service and network management activities in order to provide an end-to-end QoS-driven connection through the use of mobile agent technology. The architecture is a collaborative framework bringing together the object-oriented technologies, mobile agent paradigm, telecommunication management standards such as TMN (Telecommunication Management Network) and TINA-C (Telecommunication Information Networking Architecture-Consortium), and the networking technologies around the middleware solutions. The middleware solutions are CORBA, WEB and Java.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "36"
+ },
+ {
+  "title": "Evaluation of feature extraction methods for motor imagery-based bcis in terms of robustness to slight changes of electrode locations",
+  "profile_url": "https://ieeexplore.ieee.org/document/6506636/",
+  "doi": "10.1109/IWW-BCI.2013.6506636",
+  "abstract": "In this study, various feature extraction methods for motor-imagery-based BCI were evaluated in terms of robustness to slight changes in electrode locations. EEG signals were recorded from three reference electrodes (Fz, C3, and C4) and from six additional electrodes located close to the reference electrodes. The performance of four different feature extraction methods [power spectral density (PSD), phase locking value (PLV), a combination of PSD and PLV, and cross-correlation (CC)] were evaluated in terms of robustness to electrode location changes as well as regarding absolute classification accuracy. The quantitative evaluation results demonstrated that the use of either PSD- or CC-based features led to higher classification accuracy than the use of PLV-based features, whereas PSD-based features showed much higher sensitivity to changes in EEG electrode location than CC- or PLV-based features. There results suggest that CC can be a promising feature extraction method in motor-imagery-based BCI studies as it provides high classification accuracy along with being little affected by slight changes in the EEG electrode locations.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "304"
+ },
+ {
+  "title": "Polarization controlled emission on gold nanogrooves and nanowires",
+  "profile_url": "https://ieeexplore.ieee.org/document/8646132/",
+  "doi": "10.1109/ICSEE.2018.8646132",
+  "abstract": "The rapid growing interest in the field of plasmonics comes from advance nanotechnologies involving nanophotonics applications. The surface plasmon polaritons (SPP) exited by light on metallic nano grooves arrays (NGA) and nanowires (NWs), play a role of an intermediary between photonics and electronics. We report on the experimental demonstration of polarization controlled SPP propagation, leading to tailored directional coupling in a periodic plasmonic NGAs and NWs. The SPP emission and propagation, in Au NGAs and Au NWs is modulated by the incident light polarization. Our results establish a basis for the developments of innovative optical devices, which are useful in telecommunications and other nanophotonic devices.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "339"
+ },
+ {
+  "title": "Analytical model of human body when exposed to high frequency electromagnetic fields",
+  "profile_url": "https://ieeexplore.ieee.org/document/4129863/",
+  "doi": "10.1109/SOFTCOM.2006.329709",
+  "abstract": "Analytical model of human body is used to calculate the electric field and current density induced in human body when it is exposed to high frequency electromagnetic fields (50-200 MHz). Especially, of interest are frequencies used by radio amateurs (50-200 MHz). Formulas used in this study are derived by using a cylindrical model of human body. Tabulations and graphical representations illuminate the results. The intent of this work is to draw more attention on possible health effects that RF fields from radio amateur antennas might have on human body",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "142"
+ },
+ {
+  "title": "Cerebral temperature varies across circadian phases in humans",
+  "profile_url": "https://ieeexplore.ieee.org/document/4650301/",
+  "doi": "10.1109/IEMBS.2008.4650301",
+  "abstract": "The 24-hour rhythm of core body temperature (CBT) is commonly used in humans as a tool to assess the oscillation of the central endogenous circadian pacemaker. The invasive nature of the rectal sensor used to collect CBT makes it difficult to use in ambulatory conditions. Here we validate the use of a newly developed brain temperature (BT) sensor against that of a standard rectal temperature sensor using a 72-hour ultra-rapid sleep-wake (URSW) cycle procedure. A significant circadian variation of both body temperature recordings was observed from which a phase and amplitude was reliably determined. These results indicate that BT can be refined as a non-invasive alternative to CBT measurements in the evaluation of circadian phase in field conditions.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "128"
+ },
+ {
+  "title": "On the Radial Scalability of Magnetic Hysteresis Couplers",
+  "profile_url": "https://ieeexplore.ieee.org/document/9425669/",
+  "doi": "10.1109/WEMDCD51469.2021.9425669",
+  "abstract": "In many areas of industrial engineering, electromagnetic couplers are becoming a widespread solution, leading to the replacement of their mechanical counterparts. An interesting type of electromagnetic couplers is represented by hysteresis ones, which guarantee a constant torque from zero to synchronous speed, low torque ripple and a simple mechanical configuration. This paper presents a scalability analysis for hysteresis couplers. After a brief re-call of the performance evaluation method, several design optimizations based on finite element analysis, simplified hysteresis model and stochastic algorithms are carried out in order to analyze the effects of the external radial dimensions in the design of hysteresis couplers and draw general design guidelines.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "24"
+ },
+ {
+  "title": "Blind fractionally-spaced equalization of digital cable TV",
+  "profile_url": "https://ieeexplore.ieee.org/document/534835/",
+  "doi": "10.1109/SSAP.1996.534835",
+  "abstract": "This paper describes the design requirements for a QAM demodulator chip developed to be part of a set top convertor for digital cable television. The chip demodulates 64- and 256-QAM signal at a maximum bit rate of 44 Mb/s and uses blind acquisition techniques so that no training or pilot signal need be sent by the transmitter.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "58"
+ },
+ {
+  "title": "Building the quietest space on earth: Precision optical systems for advanced LIGO",
+  "profile_url": "https://ieeexplore.ieee.org/document/7788987/",
+  "doi": "",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "76"
+ }
+]

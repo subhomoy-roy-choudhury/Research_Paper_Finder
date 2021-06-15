@@ -1,0 +1,227 @@
+[
+ {
+  "title": "A Driver Assistance System Based on Mobile Device",
+  "profile_url": "https://ieeexplore.ieee.org/document/6805946/",
+  "doi": "10.1109/GCIS.2013.49",
+  "abstract": "The paper aims at providing an intelligent driver assistance system on mobile devices, which is mainly composed of the two parts - off road warning and distance warning of front vehicles. In this application, the paper proposes an efficient lane and front vehicles detection and tracking method which has been experiments on mobile phones. The method is proved to be efficient and practical even though the compute capacity is limited on mobile phones.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "106"
+ },
+ {
+  "title": "Effectiveness of Requirements Elicitation Techniques: Empirical Results Derived from a Systematic Review",
+  "profile_url": "https://ieeexplore.ieee.org/document/1704061/",
+  "doi": "10.1109/RE.2006.17",
+  "abstract": "This paper reports a systematic review of empirical studies concerning the effectiveness of elicitation techniques, and the subsequent aggregation of empirical evidence gathered from those studies. The most significant results of the aggregation process are as follows: (I) interviews, preferentially structured, appear to be one of the most effective elicitation techniques; (2) many techniques often cited in the literature, like card sorting, ranking or thinking aloud, tend to be less effective than interviews; (3) analyst experience does not appear to be a relevant factor; and (4) the studies conducted have not found the use of intermediate representations during elicitation to have significant positive effects. It should be noted that, as a general rule, the studies from which these results were aggregated have not been replicated, and therefore the above claims cannot be said to be absolutely certain. However, they can be used by researchers as pieces of knowledge to be further investigated and by practitioners in development projects, always taking into account that they are preliminary findings",
+  "paper_citation": "136",
+  "patent_citation": "",
+  "full_text_views": "4788"
+ },
+ {
+  "title": "The origins of ubiquitous computing research at PARC in the late 1980s",
+  "profile_url": "https://ieeexplore.ieee.org/document/5387055/",
+  "doi": "10.1147/sj.384.0693",
+  "abstract": "Ubiquitous computing began in the Electronics and Imaging Laboratory of the Xerox Palo Alto Research Center. This essay tells the inside story of its evolution from “computer walls” to “calm computing.”",
+  "paper_citation": "58",
+  "patent_citation": "",
+  "full_text_views": "414"
+ },
+ {
+  "title": "Breakdown for the Camassa–Holm Equation Using Decay Criteria and Persistence in Weighted Spaces",
+  "profile_url": "https://ieeexplore.ieee.org/document/8205351/",
+  "doi": "10.1093/imrn/rnr218",
+  "abstract": "We exhibit a sufficient condition in terms of decay at infinity of the initial data for the finite time blowup of strong solutions to the Camassa–Holm equation: a wave breaking will occur as soon as the initial data decay faster at infinity than the solitons. In the case of data decaying slower than solitons we provide persistence results for the solution in weighted L\np\n-spaces for a large class of moderate weights. Explicit asymptotic profiles illustrate the optimality of these results.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": ""
+ },
+ {
+  "title": "Additional Two-Capacitor Basic Compensation Topologies for Resonant Inductive WPT Links",
+  "profile_url": "https://ieeexplore.ieee.org/document/9037106/",
+  "doi": "10.1109/TPWRD.2020.2981013",
+  "abstract": "The letter reveals two additional basic compensation topologies for resonant inductive wireless power transfer links (supplementary to the existing four) created by placing both compensation capacitors either on primary or secondary side, leaving the opposite coil uncompensated. This produces parallel-series/none and none/series-parallel topologies, with the latter being more practical due to its suitability to operation with typically utilized voltage-source inverters.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "369"
+ },
+ {
+  "title": "High-roll rate experiments on a delta wing in transonic flow",
+  "profile_url": "https://ieeexplore.ieee.org/document/960272/",
+  "doi": "10.1109/ICIASF.2001.960272",
+  "abstract": "The report deals with some of the experimental test setups and recent results from the wind tunnel tests in the transonic wind tunnel of the DLR project called 'Aerodynamic Simulation of Unsteady Manoeuvres' (AeroSUM). AeroSUM is an interdisciplinary project involving the Institute of Aerodynamics and Flow Technology and the Institute of Flight Research as well as the Transonic Wind Tunnel in Gottingen. The main focus of the project is the numerical simulation of unsteady manoeuvres of fighter aircraft. It will be achieved by solving the time dependent Navier-Stokes equations simultaneously with the inertial equations of the motion of the aircraft. For the validation of these methods it is necessary to establish a dynamic data set investigating a wind tunnel model carrying out dynamic movements. States of critical flow, in which e.g. the topologies of flow change, must be investigated as well.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "80"
+ },
+ {
+  "title": "Efficient computation scheme for the kinematics and inverse dynamics of a satellite-based manipulator",
+  "profile_url": "https://ieeexplore.ieee.org/document/220181/",
+  "doi": "10.1109/ROBOT.1992.220181",
+  "abstract": "The authors propose an efficient computation scheme for the kinematics and inverse dynamics of a space manipulator. The simulation of the manipulator by using the equation of motion directly requires intensive calculation. The scheme proposed in the paper uses the kinematic conditions of the adjoined links and their derivatives with respect to time. The linear and angular velocities and accelerations of the links are separated into two parts, one dependent on the motion of the satellite and the other the remainder whose values are determined by a recursive algorithm. The conservation laws of the total linear and angular momentums and the conditions for the total force and torque balance are used to determine the satellite body's linear and angular velocities and accelerations. These, in turn, make it possible to solve the kinematics and inverse dynamics of a satellite-based manipulator. The amount of calculations for the kinematics and inverse dynamics is proportional to the number of manipulator links.<\n>",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "49"
+ },
+ {
+  "title": "Long distance optical frequency transfer over fiber: Predicting the frequency stability from the fiber noise",
+  "profile_url": "https://ieeexplore.ieee.org/document/4623094/",
+  "doi": "10.1109/FREQ.2008.4623094",
+  "abstract": "We have recently demonstrated the coherent transfer of an optical signal over a 251 km link of optical fiber by use of the standard Doppler-cancellation approach to remove the effects of the fiber-link noise. The fundamental limit to the frequency instability on the transmitted optical frequency is set by residual phase noise on the optical frequency resulting from the unavoidably imperfect Doppler cancellation of the fiber-link noise. Here we demonstrate that it is possible to quantitatively predict the phase noise and instability of the Doppler-cancelled transmitted optical frequency directly from the measured fiber-link noise. The ability to predict the frequency instability from the measured fiber noise can be a useful tool in evaluating whether a coherent fiber optic link is operating at its fundamental limit, or whether there is additional excess noise from the measurement system present in the link.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "158"
+ },
+ {
+  "title": "A new compact and high efficiency resonant converter",
+  "profile_url": "https://ieeexplore.ieee.org/document/7468218/",
+  "doi": "10.1109/APEC.2016.7468218",
+  "abstract": "This paper explores a new resonant converter which features compact size, high efficiency, and compatibility with self-driven synchronous rectifiers. The proposed resonant converter and the LLC series resonant converter (LLC-SRC) are in the same three-element resonant converter category and these two converters both consist of 2 inductors and one capacitor in their resonant tanks. While the LLC-SRC converter has all of its resonant elements on the input side, the proposed resonant converter has one of its resonant inductors on the output side. Utilizing the output resonant inductor allows the proposed resonant converter to implement self-driven synchronous rectifiers. When comparing the series resonant inductor in the LLC-SRC, the output inductor in the proposed resonant converter generally has lower cost and smaller size in voltage-step down applications. Operational analysis of the proposed resonant converter is made through sinusoidal approximation. A 250W prototype of the proposed resonant converter is built to verify the analysis made in this paper and evaluate its performance. With the same soft-switching characteristics as the LLC-SRC has, the proposed resonant converter can achieve 95.7% efficiency in a 430V to 27.5V/9A conversion even with diode rectifiers.",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "1035"
+ },
+ {
+  "title": "Computerized Simulation of the Fluid Flow Field and the Temperature Field in a Twin-Wire Co-welding-Pool",
+  "profile_url": "https://ieeexplore.ieee.org/document/5491871/",
+  "doi": "10.1109/CCIE.2010.24",
+  "abstract": "The process of the welding pool forming, the fluid flow and the temperature field in the welding pool are simulated by computer using the quasi-steady numeric model and the welding heat input model. Further more the results of the simulations are validated by experiments.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "98"
+ },
+ {
+  "title": "Work in progress - integration of new tools and technologies in electronics teaching",
+  "profile_url": "https://ieeexplore.ieee.org/document/1408451/",
+  "doi": "10.1109/FIE.2004.1408451",
+  "abstract": "Nowadays the methods to learn electronics are changing, improving and adapting to new tools and possibilities that offer us new technologies like Internet. Simulation in electronics improves the activities in design of electronic circuits. Students can learn and design their own circuits. They can carry out, check, analyze and make their practices of the course in electronics applying several simulators with computer. Languages like VHDL present us a new form of designing and simulating digital electronics like a description language. New forms of adapting distance education like multimedia courses in Internet, new educational platforms like IPSS/spl I.bar/EE (Internet-based performance system support with educational elements) are configuring new methods of learning based in task instead of classic study's methods. The DIEEC (Electrical and Computer Engineering Department) and MIDE (methods of investigation and diagnosis in the education) of UNED (Spanish University for Distance Education) in Spain are working to adapt all new methods and possibilities of electronics in learning and to evaluate the quality of the new methods.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "90"
+ },
+ {
+  "title": "Electronic dephasing in the quantum Hall regime",
+  "profile_url": "https://ieeexplore.ieee.org/document/901939/",
+  "doi": "",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "7"
+ },
+ {
+  "title": "Research on Evolution Rule of Propagation Network for Hot Events in Chinese Microblog",
+  "profile_url": "https://ieeexplore.ieee.org/document/9141922/",
+  "doi": "10.1109/ITOEC49072.2020.9141922",
+  "abstract": "As the largest flat social platform in China, mi-croblog is the main position of public opinion dissemination. In the propagation network composed of hot event, not only the static propagation structure is worth studying, but also the dynamic evolution rule. In this paper, we propose evolution analysis methods based on staged propagation network in the light of three propagation structure studies: core group mining, opinion leader identification and participant classification. Then the evolution types are further classified to achieve the measurement of evolution stability. Experiments on four real event datasets show that the research methods of evolution rule in this paper can reflect the evolution characteristics, which are of both feasibility and practicability.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "41"
+ },
+ {
+  "title": "Author's reply",
+  "profile_url": "https://ieeexplore.ieee.org/document/1095614/",
+  "doi": "10.1109/TCOM.1982.1095614",
+  "abstract": "",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "15"
+ },
+ {
+  "title": "The machine learning of rules for combustion control in multiple burner installations",
+  "profile_url": "https://ieeexplore.ieee.org/document/49156/",
+  "doi": "10.1109/CAIA.1989.49156",
+  "abstract": "A rule-based system for the control and optimization of combustion in multiple-burner furnaces and boiler plants is described. The rules were elicited from energy engineers, coded into Prolog, and tested on the furnace of a continuous annealing line for rolled steel. The performance of one of the rules in particular is focused on and the possibility of its automatic improvement or replacement is addressed. A generic algorithm for learning control rules is introduced and its use in creating rules on simulations of multiple-burner installations is described. The performance of the automatically generated rules is then compared with that of the rule acquired from the experts. It is shown that the particular rule generated for each simulation shows comparable performance to that of the expert-elicited rule. However, the performance of the rule generated over all the simulations simultaneously, is not as good as the expert rule.<\n>",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "57"
+ },
+ {
+  "title": "Status of Tft/lcd Flat Panel Display",
+  "profile_url": "https://ieeexplore.ieee.org/document/664662/",
+  "doi": "10.1109/DRC.1991.664662",
+  "abstract": "",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "17"
+ },
+ {
+  "title": "On Increasing the Reliability of Fabrication and Handling of Large High Purity Germanium Detectors",
+  "profile_url": "https://ieeexplore.ieee.org/document/4327484/",
+  "doi": "10.1109/TNS.1974.4327484",
+  "abstract": "A technique has been developed in the fabrication of high purity germanium gamma radiation detectors which consistently allows the application of large amounts of overvoltage. A chemically grown oxide layer to which Pd metallization adheres strongly forms a rugged surface barrier. Cycling temerature and between dry nitrogen and ambient air, changing contact fixtures, storage and transferring to different cryostats result in no significant changes in the initially good I-V and noise characteristics.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "30"
+ },
+ {
+  "title": "Design and Implementation of an XML-Based Grid File Storage System with Security Features",
+  "profile_url": "https://ieeexplore.ieee.org/document/5159239/",
+  "doi": "10.1109/WETICE.2009.31",
+  "abstract": "Grid computing is currently shifting toward a new processing model known as business services. The use of Grid technology, in fact, allows business companies to achieve an higher productivity, to decrease maintenance costs and to adapt to market demands with an increased customer satisfaction. To meet these challenges, Grid computing needs to address several issues in term of Quality of Service, Service accountability and Security.Our work, built on Grid Security Infrastructure (GSI), provides new capabilities (i.e. a strong security data storage) to be used on top of different Grid middlewares. The solution is specifically implemented on gLite and accomplishes the access to data storage Grid resources in a uniform and transparent way. The proposed approach is based on XML data encapsulation to store encrypted data and metadata as well as data owners, X509v3 certificates, AES keys, data size, and file format.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "162"
+ },
+ {
+  "title": "Q-Learning Based Content Placement Method for Dynamic Cloud Content Delivery Networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/8717626/",
+  "doi": "10.1109/ACCESS.2019.2917564",
+  "abstract": "How to reduce the content placement cost of cloud content delivery networks (CCDNs) is a hot topic in recent years. Traditional content placement methods mainly reduce the cost of content placement by constructing delivery trees, but they cannot adapt to the dynamic deployment of cloud proxy servers in the CCDNs. In addition, the traditional content placement method only provides delivery paths according to local decision-making without considering global dynamics of the congestion in the CCDNs, which is also one of the main factors causing high cost of content placement. To solve these problems, we propose a content placement model based on Q-learning for the dynamic CCDNs, called Q-content placement model (Q-CPM). This Q-learning approach can lead to better routing decisions due to up-to-date and more reliable congestion values. Then, based on the Q-CPM model, an algorithm is proposed to construct the Q-adaptive delivery tree (Q-ADT). In this algorithm, local and nonlocal congestion information is propagated over network learning packets. Through this algorithm, the paths with low congestion cost will be selected and can adapt to the dynamic cloud delivery environment. The experimental results show that the method can adapt to the dynamic changes of the CCDNs flexibly and reduce the overall congestion cost of content placement effectively.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "982"
+ },
+ {
+  "title": "An efficient lpoptimization technique for the design of two-dimensional linear-phase FIR digital filters",
+  "profile_url": "https://ieeexplore.ieee.org/document/1163408/",
+  "doi": "10.1109/TASSP.1980.1163408",
+  "abstract": "An iterative optimization technique, based on the method of parallel tangents coupled with an efficient line searching technique, is proposed for the design of two-dimensional linear-phase FIR digital filters. The performance index for the optimization procedure is shown to be convex and hence this technique will always converge towards the global minimum. An important feature is that the design time increases slowly as the number of filter coefficients increases. To illustrate the technique several circular low-pass filters were designed. These filters compare favorably with filters designed using the minimax technique that was developed by Harris. The technique can also be used for the design of one-dimensional and multidimensional linear-phase FIR digital filters.",
+  "paper_citation": "42",
+  "patent_citation": "",
+  "full_text_views": "78"
+ },
+ {
+  "title": "Dispersion-managed solitons in the normal dispersion regime: a physical interpretation",
+  "profile_url": "https://ieeexplore.ieee.org/document/732456/",
+  "doi": "10.1109/ECOC.1998.732456",
+  "abstract": "We show that dispersion managed solitons exist when the average dispersion is zero or normal. With a simple model we derive the necessary map strength. This has implications for the design of the dispersion map. We have presented an analytic derivation for the critical map strength for solitons to exist in the net normal dispersion of dispersion managed systems. This analysis not only provides an intuitive explanation of this phenomenon which is beyond the usual explanation of soliton phenomena but also provides the methodology for design of dispersion managed soliton systems. The analysis can also be extended to include for example loss.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "47"
+ },
+ {
+  "title": "A Survey and Analysis of Low-Carbon Awareness and Capability of Low-Carbon Living in China",
+  "profile_url": "https://ieeexplore.ieee.org/document/6121200/",
+  "doi": "10.1109/BIFE.2011.170",
+  "abstract": "The significance of low-carbon living has been much discussed in various media. In essence, low-carbon living is an attitude. To ordinary people, whether this would be a sustainable way of living depends if their quality of life is compromised and to what degree. This paper used Online surveys and descriptive statistical methods to study the public awareness of low-carbon living and the capability thereof in China. The study examined the factors such as gender, age, living environment, occupation, etc in relation with the awareness and practice. The findings of this paper hold referential significance for promoting low-carbon awareness and practice in China. Through this it is found that the general public lacks the knowledge and basic skills in low-carbon living. This leads to the misperception that low-carbon living necessarily mean a compromised quality of life, thus hampering the popularization of low-carbon living and developing a sustainable low-carbon economy.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "104"
+ },
+ {
+  "title": "Global knowledge exchange and the low carbon economy",
+  "profile_url": "https://ieeexplore.ieee.org/document/5629110/",
+  "doi": "10.1049/cp.2010.0463",
+  "abstract": "The well documented pace of social and economic change in China brings with a series of infrastructural, technological and environmental challenges that test not only China's policymakers but those of collaborating western governments who seek to engage with China's developing internal markets. It also brings spectacular demand for materials, commodities and technology. UoN's China portfolio includes the demonstrable success of the first sino-foreign University to be established within PRC with more than 4000 students likely to register in September 2009. It also incorporates prestige offers on UoN's UK campuses the respected China Policy Institute within a young and dynamic School of Contemporary Chinese studies. This review examines the broader portfolio of links with China and concentrates on the 3 of the key challenges facing China the transition to a low carbon economy, water security and population health.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "63"
+ },
+ {
+  "title": "Recent papers by IBM authors",
+  "profile_url": "https://ieeexplore.ieee.org/document/5390182/",
+  "doi": "10.1147/rd.303.0339",
+  "abstract": "The information listed here is supplied by the Institute for Scientific Information. Reprints of the papers may be obtained by writing directly to the first author cited. Papers are listed alphabetically by author.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "13"
+ },
+ {
+  "title": "Human Activity Recognition and Temporal Action Localization Based on Depth Sensor Skeletal Data",
+  "profile_url": "https://ieeexplore.ieee.org/document/9259886/",
+  "doi": "10.1109/ASYU50717.2020.9259886",
+  "abstract": "Abundance in inertia measurement units and wide usage of depth sensors has led to the effortless acquisition of significant activity data. As a result, studies in the area of human activity recognition and datasets related to this area have risen. In this paper, skeletonized action sequence data; obtained by a depth sensor, is used to classify among twenty seven different class of activities. A three-layer Long-Short Term Memory(LSTM) architecture was used to analyze the mentioned skeleton data. LSTM cells are a special type of recurrent neural network which can remember long time relationship between sequences of related data. Also, another application was carried out using a recurrent neural network(RNN) architecture to address where a specific action occurs on a video stream. This architecture consists of four layers. Thanks to this deep learning structures; which led to the automated extraction of features, high classification accuracy rates around %93 can be achieved.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "57"
+ }
+]

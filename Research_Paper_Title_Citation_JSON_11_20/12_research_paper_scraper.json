@@ -1,0 +1,227 @@
+[
+ {
+  "title": "Efficient computation of controller partitions in multi-parametric programming",
+  "profile_url": "https://ieeexplore.ieee.org/document/1429297/",
+  "doi": "10.1109/CDC.2004.1429297",
+  "abstract": "The off-line solution to optimal control problems for linear or piecewise-affine systems with constraints has garnered much attention because the on-line implementation can be realized with a simple look-up table. Specifically, multi-parametric programming techniques can be utilized to compute a piecewise-affine feedback law off-line. Even though the computation is performed off-line, the necessary computation time may easily become excessive for larger problems. This paper identifies the computation of minimal representations of polytopes as a key driver for complexity and presents an efficient method for reducing the associated computation cost. The method utilizes bounding-boxes and ray-shooting to discard redundant hyper-planes efficiently. A case study demonstrates the computational advantages.",
+  "paper_citation": "5",
+  "patent_citation": "",
+  "full_text_views": "202"
+ },
+ {
+  "title": "Novel latent epoxy curing agent for secondary insulation in electrical rotors and stators",
+  "profile_url": "https://ieeexplore.ieee.org/document/6311529/",
+  "doi": "10.1109/TDEI.2012.6311529",
+  "abstract": "A novel multifunctional epoxy curing agent 2-((4-(4-aminophenoxy) phenylamino) (4- hydroxyphenyl)hydrazine carbothioamide(APHCTA)) containing phenolic, thiourea, primary and secondary amines was synthesized by condensation technique and characterized using FTIR, \n1\nH NMR, \n13\nC NMR spectroscopy. Thermal and curing studies were performed using Thermogravimetric analyzer (TGA) and Differential scanning calorimeter (DSC) respectively. The new compound was used as a curing agent for thermosetting epoxy resin Diglycidyl ether of Bispheol-A (DGEBA). The in built phenolic moiety accelerates the curing rate along with the amines thereby relatively lowering the curing temperature compared to the commercial aromatic curing agent such as diamino diphenyl ether (DDE) and also gives longer pot life compared to aliphatic amine such as triethyltriamine (TETRA). Cured polymer of DGEBA/APHCTA showed lower glass transition temperature(Tg) which imparts the flexibility and it also exhibits good thermal stability up to 340 °C. Activation energy (Eα) based on model free kinetics (MFK) method indicates the extent of curing of the reaction. Isothermal curing thermogram showed that the resin cures at lower temperature. Electrochemical Impedance study for the cured film of DGEBA/APHCTA coated on the copper plate exhibits good corrosion inhibition. The new curing agent containing amines, phenolic and thiourea is a potential candidate for use as a latent curing agent for single part epoxy resin for impregnation of AC motor rotors and stators.",
+  "paper_citation": "7",
+  "patent_citation": "",
+  "full_text_views": "457"
+ },
+ {
+  "title": "Intra-Retinal Layer Segmentation of Optical Coherence Tomography Using 3D Fully Convolutional Networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/8451025/",
+  "doi": "10.1109/ICIP.2018.8451025",
+  "abstract": "Optical coherence tomography (OCT) is a powerful method for imaging the retinal layers. In this paper, we develop a novel 3D fully convolutional deep architecture for automated segmentation of retinal layers in OCT scans. This model extracts features from both the spatial and the inter-frame dimensions by performing 3D convolutions, thereby capturing the information encoded in multiple adjacent frames. The proposed network is based on an encoder-decoder framework in which the convolution layers are interlaced with pooling layers in the encoder and with unpooling layers in the decoder, respectively. Consequently, a hierarchy of shrinking 3D feature maps are learned in the encoder and enlarged to the size of original input image for semantic segmentation in the decoder. The framework is validated on thirteen 3D OCTs captured by the Topcon 3D OCT with comparisons against two state-of-the-art segmentation methods including one recent 2D deep learning based approach to substantiate its effectiveness.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "611"
+ },
+ {
+  "title": "Software renovation for large software applications",
+  "profile_url": "https://ieeexplore.ieee.org/document/271934/",
+  "doi": "10.1109/TENCON.1992.271934",
+  "abstract": "Software renovation is a method to improve existing software and incorporate new features and system functions without developing entirely new software. Software architecture consists of base and non-base software. New algorithms to determine software components to be renovated are proposed. The algorithms consider the size of changed code in base and nonbase software, fault density, and sets of static and dynamic connections in large software applications. The software is renovated if the percentage of changed code and fault density exceed thresholds. If the sets of static and dynamic connections are changed and the percentage of changed code exceeds threshold, the software is also renovated.<\n>",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "31"
+ },
+ {
+  "title": "Reconfigurable A/D - D/A converter and its use in pipelined A/D converters",
+  "profile_url": "https://ieeexplore.ieee.org/document/4674847/",
+  "doi": "10.1109/ICECS.2008.4674847",
+  "abstract": "The paper describes a simplified version of a pipelined A/D converter using propagation type A/D converters. It is further shown that using the main theorem results, a reconfigurable A/D converter, which may perform either as an A/D converter or as a D/A converter, can be obtained.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "111"
+ },
+ {
+  "title": "Maintaining Surface Accuracy of Large Radio Telescopes by Active Compensation",
+  "profile_url": "https://ieeexplore.ieee.org/document/6301504/",
+  "doi": "10.7551/mitpress/6523.001.0001",
+  "abstract": "This chapter contains sections titled: Introduction, The Compensation Method, The Hardware, Compensation Control, Error Analysis, Reliability, Conclusion",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": ""
+ },
+ {
+  "title": "Anticorrelation of photoluminescence from d-band holes with hot-spot strength between two gold bipyramids",
+  "profile_url": "https://ieeexplore.ieee.org/document/8087621/",
+  "doi": "10.1109/CLEOE-EQEC.2017.8087621",
+  "abstract": "Summary form only given. Compared to bulk gold, nanoparticles show significantly higher quantum yield of photoluminescence (PL) from d-band hole recombination [1]. It makes them attractive for cell imaging and biosensing. The underlying mechanism of the PL is a subject of intensive debates, although there are numerous reports on single-photon and multi-photon-induced PL of plasmonic particles and nanoparticle systems. Here, we experimentally and numerically show that the hot-spot intensity between two gold bipyramids anticorrelates with the one-photon photoluminescence from the dimers, where the plasmonic coupling is adjusted mechanically by seesawing the bipyramids and by varying the interparticle distance with the tip of an atomic force microscope [2]. This mechanical manipulation allows us not only to directly control the interparticle distance, but also to control the strength of the hot-spot in the gap of a dimer.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "27"
+ },
+ {
+  "title": "Self-Powered Piezo-Floating-Gate Smart-Gauges Based on Quasi-Static Mechanical Energy Concentrators and Triggers",
+  "profile_url": "https://ieeexplore.ieee.org/document/6882137/",
+  "doi": "10.1109/JSEN.2014.2351398",
+  "abstract": "Changes in physical processes like ambient temperature or pressure variations occur at frequencies that are significantly lower than 1 Hz. This poses a challenge for designing self-powered sensors that monitor these quasi-static physical processes and at the same time scavenge operational energy for sensing, computation, and storage from the signal being monitored. In this paper, we present a novel paradigm for designing a self-powered sensor/data logger that exploits the physics of negative-stiffness mechanical energy concentrators with the physics of our previously reported piezoelectricity driven impact ionized hot-electron injection (p-IHEI)-based sensors. The operational principle is based on the sudden transitions from unstable mode branch switching during the elastic postbuckling response of slender columns, which are used to generate high-frequency deformations as an input to the p-IHEI-based sensor. The experimental results demonstrate that the proposed self-powered sensor based on an integrated circuit fabricated in a 0.5-μm CMOS technology can count and record the number of quasi-static input events with frequencies spanning less than 1 Hz.",
+  "paper_citation": "20",
+  "patent_citation": "",
+  "full_text_views": "536"
+ },
+ {
+  "title": "A Millimeter-Wave Antenna Amplitude and Phase Measurement System",
+  "profile_url": "https://ieeexplore.ieee.org/document/6142046/",
+  "doi": "10.1109/TAP.2012.2186218",
+  "abstract": "We describe the design and application of a system for measuring the magnitude and phase of antenna radiation patterns in the 182-194 GHz frequency range. A heterodyne receiver comparing antenna and reference signals is designed from readily available components and incorporated into a 12-m anechoic chamber. The chamber is used with or without a compact-range reflector for compact-range or far-field measurement of antennas up to 0.6 m in diameter. The measured phase variation of the system, when idle, averages 0.3° over 227 s and 4.5° over 30 min. The amplitude stability is better than ±0.15 dB over a 63-h period. Verification of the system is obtained through comparison with other measurements and calculated results on horn and pillbox antennas. The applications of the system are illustrated through its use in characterizing the magnitude and phase radiation patterns of a new beam-scanning pillbox antenna for a 186-GHz imaging system.",
+  "paper_citation": "13",
+  "patent_citation": "",
+  "full_text_views": "1289"
+ },
+ {
+  "title": "An effective SAT-solving mechanism with backtrack controlled by FDL",
+  "profile_url": "https://ieeexplore.ieee.org/document/6015919/",
+  "doi": "",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "43"
+ },
+ {
+  "title": "Photovoltaic system simulation model for steady-state microgrid energy management application",
+  "profile_url": "https://ieeexplore.ieee.org/document/8895506/",
+  "doi": "10.1109/ISGT-LA.2019.8895506",
+  "abstract": "The high penetration of Distributed Energy Resources (DERs) creates the necessity of having mathematic models that can accurately represent the variable and intermittent nature of its resources, which are normally based on renewable energy such as photovoltaic systems. Since the DERs are located near the consumer, at the distribution side of the network, it creates a challenge in the operation and control of the distribution system. This challenge can be addressed by microgrids, which are the new paradigm for defining the operation of the distribution system with high penetration of DERs. This paper presents a photovoltaic simulation model which can analyze the photovoltaic system response to particular weather condition. The model can be applied in a steady-state microgrid energy management system. The model was simulated, and the results were analyzed. Different cases were applied, and the results were high satisfactory in comparison with the ones presented in the literature.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "87"
+ },
+ {
+  "title": "Collisions of Bragg grating solitons in a semilinear dual-core system with dispersive reflectivity",
+  "profile_url": "https://ieeexplore.ieee.org/document/7323660/",
+  "doi": "10.1109/IPCon.2015.7323660",
+  "abstract": "The existence of moving Bragg grating solitons, their stability and various outcomes of collisions in a semilinear dual-core system in the presence of dispersive reflectivity are investigated.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "29"
+ },
+ {
+  "title": "A Gradient of Radioactive Contamination in Dolon Village Near the SNTS and Comparison of Computed Dose Values with Instrumental Estimates for the 29 August, 1949 Nuclear Test",
+  "profile_url": "https://ieeexplore.ieee.org/document/8155415/",
+  "doi": "10.1269/jrr.47.A149",
+  "abstract": "Spatial distributions of soil contamination by \n137\nCs (89 sampling points) and \n239+240\nPu (76 points) near and within Dolon village were analyzed. An essential exponential decrease of contamination was found in Dolon village: the distance of a half reduction in contamination is about 0.87-1.25 km (in a northwest-southeast direction from the supposed centerline of the radioactive trace). This fact is in agreement with the available exposure rate measurements near Dolon (September 1949 archive data): on the basis of a few measurements the pattern of the trace was estimated to comprise a narrow 2 km corridor of maximum exposure rate. To compare computed external doses in air with local dose estimates by retrospective luminescence dosimetry (RLD) the gradient of radioactive soil contamination within the village was accounted for. The computed dose associated with the central axis of the trace was found to be equal to 2260 mGy (calculations based on archive exposure rate data). Local doses near the RLD sampling points (southeast of the village) were calculated to be in the range 466-780 mGy (averaged value: 645+/-70 mGy), which is comparable with RLD data (averaged value 460+/-92 mGy with range 380-618 mGy). A comparison of the computed mean dose in the settlement with dose estimates by ESR tooth enamel dosimetry makes it possible to estimate the “upper level” of the “shielding and behavior” factor in dose reduction for inhabitants of Dolon village which was found to be 0.28+/-0.068.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": ""
+ },
+ {
+  "title": "STUDIO-monostatic backscatter sounder father of NOSTRADAMUS French O.T.H. radar project-new results",
+  "profile_url": "https://ieeexplore.ieee.org/document/389898/",
+  "doi": "10.1109/ICASSP.1994.389898",
+  "abstract": "In the late 1960s, two new techniques appeared, aimed at reducing the radiated peak power. The first technique was developed in the U.S., based on a bistatic system, using linear FMCW. The second technique was developed in France, a monostatic system using pulse code modulation and alternate transmit-receive periods. This technique is now used in the French OTH radar project NOSTRADAMUS. This paper describes the basic principles applied in STUDIO, a pre-cursor to NOSTRADAMUS, illustrated with some results showing, in particular, how high resolution spectral analysis techniques can be used to explore the spatial coherence of ionospheric structures.<\n>",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "123"
+ },
+ {
+  "title": "Software reliability model selection",
+  "profile_url": "https://ieeexplore.ieee.org/document/170245/",
+  "doi": "10.1109/CMPSAC.1991.170245",
+  "abstract": "Model selection based on a predictive performance measure is compared to model selection based on maximum likelihood. Both procedures exhibit unstable relative performance when predictive performance is measured over time periods that may contain overly small proportions of total failures. Both procedures may be stabilized by bounding this proportion away from zero. In that case, both procedures exhibit similar predictive performance relative to the other. This provides evidence that model selection based on the commonly used maximum likelihood approach may in fact have good predictive performance.<\n>",
+  "paper_citation": "5",
+  "patent_citation": "",
+  "full_text_views": "46"
+ },
+ {
+  "title": "A System for Contextual Search",
+  "profile_url": "https://ieeexplore.ieee.org/document/4573158/",
+  "doi": "10.1109/IWSCA.2008.20",
+  "abstract": "In this paper, we present a system that takes an input document and searches semantically-related documents on the Web. Relatedness is measured based on two criteria. One is to check whether some representative words inside the input document appear in candidate documents. The other is to check whether words that describe the contextual information about the input document appear in candidate documents.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "47"
+ },
+ {
+  "title": "The contribution of the IGM and minihaloes to the 21-cm signal of reionization",
+  "profile_url": "https://ieeexplore.ieee.org/document/8223209/",
+  "doi": "10.1111/j.1365-2966.2009.15261.x",
+  "abstract": "We study the statistical properties of the cosmological 21-cm signal from both the intergalactic medium (IGM) and minihaloes, using a reionization simulation that includes a self-consistent treatment of minihalo photoevaporation. We consider two models for minihalo formation and three typical thermal states of the IGM – heating purely by ionization, heating from both ionizing and Lyα photons and a maximal ‘strong heating’ model. We find that the signal from the IGM is almost always dominant over that from minihaloes. In our calculation, the differential brightness temperature, δT\nb\n, of minihaloes is never larger than 2 mK. Although there are indeed some differences in the signals from the minihaloes and from the IGM, even with the planned generation of radio telescopes it will be unfeasible to detect them. However, minihaloes significantly affect the ionization state of the IGM and the corresponding 21-cm flux.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": ""
+ },
+ {
+  "title": "Particle Swarm Optimization of a Multi-Coil Transverse Flux Induction Heating System",
+  "profile_url": "https://ieeexplore.ieee.org/document/5754772/",
+  "doi": "10.1109/TMAG.2010.2086439",
+  "abstract": "In this paper the optimization of a transverse flux induction heating device by means of a parameter-free, self-adaptive particle swarm optimizer is presented. The novelty of this work is represented by the fact that concentric multi-coil induction heaters have never been optimized before in their full three-dimensional complexity. The main technical challenge of the problem consists in designing a single configuration capable of heating strips of different widths while satisfying geometrical, electrical and heating process constraints. It will be shown that a system consisting of three coils can successfully heat strips of widths between 600 mm and 800 mm with the required uniformity.",
+  "paper_citation": "12",
+  "patent_citation": "",
+  "full_text_views": "770"
+ },
+ {
+  "title": "Study on the participating strategy of China in the international energy security cooperation",
+  "profile_url": "https://ieeexplore.ieee.org/document/6586527/",
+  "doi": "10.1109/ICMSE.2013.6586527",
+  "abstract": "Energy security is a global and comprehensive issue. As the establishment and development of international energy market, the previous thinking model of ensuring energy security by restricting on supply of energy has been changed. The research in this field has shifted to the establishment of mechanisms such as cooperation or pricing mechanism by which, policies of different countries can be coordinated; self-sufficiency of each country in energy supply will be improved; common energy saving measures may be adopted and the information of the international energy market can be shared by all and etc. This paper, by understanding of the new situation of international energy security, learning from international experiences and combining with China's own feature, aims at analyzing the new situation encountered by China in the field of energy security from the perspective of international cooperation, generalizing and concluding the status quo, its problems and challenges facing China so as to to present participating strategy of China in the international cooperation of energy security, such as promoting the establishment of energy security mechanism of China in the context of international cooperation, enhancing bilateral cooperation mechanism and international cooperation in low-carbon and clean energy.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "84"
+ },
+ {
+  "title": "Epipolar Geometry Guided Highly Robust Structured Light 3D Imaging",
+  "profile_url": "https://ieeexplore.ieee.org/document/9404823/",
+  "doi": "10.1109/LSP.2021.3073266",
+  "abstract": "Structured light (SL) based three-dimensional (3D) imaging technology has been widely employed in many fields of computer vision. However, currently available SL based depth sensors are sensitive to imaging noises, which severely limits the performance of subsequent advanced vision tasks. In this letter, we propose a robust and practical SL illumination pattern coding method based on epipolar geometry. The proposed pattern can effectively alleviate coding redundancy in traditional global random speckle SL patterns and make the stereo matching more robust to noise. Meanwhile, this coding strategy supplies sufficient non-local similar blocks, which inspires us to propose a uni-direction block-stacking 3D filtering algorithm to further improve the 3D imaging quality. To verify the proposed algorithms, we developed a prototype using the off-the-shelf projector and camera. Both simulation and real scene experimental results show that the proposed methods can achieve high-quality 3D imaging performance under different noisy conditions.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "40"
+ },
+ {
+  "title": "Epoxy-hBN nanocomposites: A study on space charge behavior and effects upon material",
+  "profile_url": "https://ieeexplore.ieee.org/document/7962062/",
+  "doi": "10.1109/TDEI.2017.006216",
+  "abstract": "The emergence of nano dielectrics for specialized high voltage applications sparked off a variety of research activities, which proved that nano-fillers are capable of improving the electrical, thermal and mechanical properties of polymers. This paper primarily investigates the effect of addition of hBN (hexagonal boron nitride) nanoparticles into an epoxy polymer base by increasing fill-grade, from 0.2 to 5 % by volume, from two different standpoints: (a) characterizing the electrical space charge (S.C.) accumulation threshold under DC electrical fields, and, (b) demonstrating the alterations in material properties of the modified polymeric materials, from the unfilled polymer. Objective (a) is experimentally investigated by the pulsed electro-acoustic (PEA) technique, well known for determining spatial charge distribution in dielectrics. Objective (b) is investigated by determining the ultrasonic velocity response of the modified composites and unfilled polymer. The obtained results suggest a relation between electrical threshold fields for S.C. accumulation & fill-grades, as well as the fact that incorporating stiff filler materials into brittle polymer bases leads to a tougher composite (capable of withstanding greater breaking stress levels), but with reduced ductility.",
+  "paper_citation": "8",
+  "patent_citation": "",
+  "full_text_views": "465"
+ },
+ {
+  "title": "Parametric Design for Superconducting Synchronous Motor With 3D Equivalent Magnetic Circuit Network Model",
+  "profile_url": "https://ieeexplore.ieee.org/document/4277548/",
+  "doi": "10.1109/TASC.2007.897207",
+  "abstract": "This paper proposes an effective parametric design for high temperature superconducting (HTS) synchronous motors with 3D equivalent magnetic circuit network (EMCN) method. Proposed design process consists of 5 steps which are electric design, mechanical design, characteristic analysis for field and armature, and motor characteristic analysis. Especially, in order to predict the performance of HTS synchronous motors, the variation of output power characteristics according to the variation of back electromotive force (BEMF) and inductance is analysed in electric design. Reliability of proposed design process and developed program is verified through the comparison of the results of commercial program using 3D finite element analysis (FEA) method.",
+  "paper_citation": "12",
+  "patent_citation": "",
+  "full_text_views": "440"
+ },
+ {
+  "title": "A passive coding resonant wireless SAW temperature sensor array",
+  "profile_url": "https://ieeexplore.ieee.org/document/1426309/",
+  "doi": "10.1109/ICSENS.2004.1426309",
+  "abstract": "This paper proposes a passive coding resonant SAW wireless sensor for the purpose of constructing a sensor array or multiple sensor system. The sensor consists of a SAW delay line, a SAW resonator and a necessary passive impedance match between the two SAW devices. The SAW delay line is used to code the sensory element for identification through its delay time and the resonator functions as a sensory cell. A sensor array consisting of such sensory cells can operate in the frequency band just for a single sensor. The delay time can be designated in a rather wide range so that the array can address as many as required sensory cells simply by time-division through delay time. A single sensory cell consists of different kinds of SAW devices, and the devices may be integrated together on a single piezoelectric substrate in manufacturing or may be simply combined together using separate devices. Thus the scheme provides the flexibility and simplicity to organize an array or a multiple sensor system.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "194"
+ },
+ {
+  "title": "Towards characterizing Bluetooth discovery in a vehicular context",
+  "profile_url": "https://ieeexplore.ieee.org/document/7835935/",
+  "doi": "10.1109/VNC.2016.7835935",
+  "abstract": "Bluetooth has, in recent years, gained more and more momentum. New commodity objects and wearables implementing Bluetooth Smart technology (Low Energy) are released everyday. In particular, the ever increasing number of discoverable devices both inside and outside a populated area gives us an encouraging insight on future research directions for this technology. In this paper, based on a sensing system developed as an Android application, we evaluate Bluetooth Classic and Low Energy discovery characteristics from a vehicular perspective. By recording information about devices nearby (e.g. the number of discovered devices, their signal strength, manufacturer information) and the GPS location we can derive interesting information about a driver's situation, as well as his/her environment. Presented results indicate that the amount of discovered devices and signal strengths are dependent on velocity and road category. Finally, future work and discussions address potential use-case applications based only on Bluetooth discovery, such as low energy and privacy friendly road and traffic context awareness. The sensing system used in this article is free online under the MIT License.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "286"
+ },
+ {
+  "title": "An Improved Distributed Secondary Control Scheme in Islanded AC Microgrids",
+  "profile_url": "https://ieeexplore.ieee.org/document/9235340/",
+  "doi": "10.1109/ECCE44975.2020.9235340",
+  "abstract": "Following the hierarchical control architecture, this paper investigates the diffusion algorithm based distributed secondary control in islanded AC microgrids. The principle of diffusion algorithm is introduced first and then diffusion algorithm-based distributed secondary control strategies are analyzed in details. Compared to the conventional consensus algorithm employed in the secondary control, it is shown that diffusion algorithm shows a faster convergence and a smaller deviation from the nominal value. A three-node islanded AC MG is simulated and the results confirm that the proposed diffusion-based secondary control outperforms consensus-based approach in terms of voltage/frequency restoration.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "92"
+ }
+]

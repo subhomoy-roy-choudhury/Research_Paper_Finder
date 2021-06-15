@@ -1,0 +1,227 @@
+[
+ {
+  "title": "Down Converter Characterization in a Synthetic Instrument Context",
+  "profile_url": "https://ieeexplore.ieee.org/document/4062327/",
+  "doi": "10.1109/AUTEST.2006.283598",
+  "abstract": "This paper provides an overview of the need for a common set of specification parameters to characterize a down converter in a synthetic instrument (SI). It then identifies and briefly discusses a core set of specification parameters that the DOD Synthetic Instrumentation Frequency Translation Device Working Group (SI FTD WG) has identified as \"best specification practices\" for both characterizing and specifying a down converter. The paper then provides an in-depth technical discussion of two of the less understood down converter related intermediate frequency (IF) output parameters: group delay and phase linearity.",
+  "paper_citation": "5",
+  "patent_citation": "",
+  "full_text_views": "14520"
+ },
+ {
+  "title": "Feature Extraction and Research Based on MRI Image of Cerebral Hemorrhage",
+  "profile_url": "https://ieeexplore.ieee.org/document/9239772/",
+  "doi": "10.1109/ICCNEA50255.2020.00082",
+  "abstract": "MRI is a kind of biological magnetic spin imaging technology. Making full use of MRI images is of great significance for improving the accuracy of medical image diagnosis process for the diagnosis of diseases. In the diagnosis of cerebral hemorrhage, the location and size of the hemorrhage area are meaningful indicators for diagnosing the severity of cerebral hemorrhage. In order to assist the doctor's diagnosis, we have proposed an automatic detection method based on the combination of morphology and threshold segmentation to calculate the location and size of the bleeding point according to the characteristics of the image of different sequences in the magnetic resonance image. : (1) Pre-process the MRI image; (2) Remove the skull part by morphology and leave only the brain soft tissue image; (3) Use Oust and morphology to extract the suspected lesion parts in the brain image; (4) Finally, The longitudinal relaxation time (T1 image) and transverse relaxation time (T2 images) were fused to locate the bleeding point. The experimental results show that the algorithm has high feasibility and accurate positioning of bleeding points.MRI is a kind of biological magnetic spin imaging technology. Making full use of MRI images is of great significance for improving the accuracy of medical image diagnosis process for the diagnosis of diseases. In the diagnosis of cerebral hemorrhage, the location and size of the hemorrhage area are meaningful indicators for diagnosing the severity of cerebral hemorrhage. In order to assist the doctor's diagnosis, we have proposed an automatic detection method based on the combination of morphology and threshold segmentation to calculate the location and size of the bleeding point according to the characteristics of the image of different sequences in the magnetic resonance image. : (1) Pre-process the MRI image; (2) Remove the skull part by morphology and leave only the brain soft tissue image; (3) Use Oust and morphology to extract the susp...",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "695"
+ },
+ {
+  "title": "A study of coping stress strategies on psychological well-being during the COVID-19 pandemic in Jabodetabek Area",
+  "profile_url": "https://ieeexplore.ieee.org/document/9307566/",
+  "doi": "10.1109/ICISS50791.2020.9307566",
+  "abstract": "Large-Scale Social Limitations-related policies enacted by the Provincial Government of the Special Capital Region of Jakarta evoked an adaptation process to changes in their usual life patterns. Such adaptation processes are suspected to create new problems, which might become stressors. This research aims to perceive the effect of coping strategies on the psychological being of Jabodetabek (Jakarta, Bogor, Depok, Tangerang, Bekasi) citizens during the Large- Scale Social Limitations period. Results showed that there was a significant relationship between coping strategies and psychological well-being (p=0.000<; 0.005). Research also found that most respondents cope by employing the emotion-focused coping system. It was strongly suspected that citizens were able to cope and manage stressors during the pandemic by doing self-improvement activities and trying to connect with their social network (friendship or work-related) with existing technological platforms. On the other hand, it was also suspected that the high number of respondents with emotion-focused coping was a result of feelings of helplessness in controlling problems arising during the pandemic, such as local government policies and socioeconomic impacts.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "1242"
+ },
+ {
+  "title": "Realization of single-moded broadband air-guiding photonic bandgap fibers",
+  "profile_url": "https://ieeexplore.ieee.org/document/1661684/",
+  "doi": "10.1109/LPT.2006.879546",
+  "abstract": "In this letter, we propose a novel type of air-guiding photonic bandgap fiber, which exhibits an effectively single-mode operation with a low confinement loss over a wide wavelength range, extended from 1460 to 1840 nm. For several realistic structural parameters, the wavelength dependence of the dispersion as well as the confinement loss properties are investigated through a full-vector modal solver based on the finite-element method. In particular, we optimize the structure so as to exhibit the following performance: effectively single-mode operation from 1460 to 1840 nm, with corresponding confinement loss of the fundamental air-guided mode of 8.8times10\n-5\n dB/km, and enhancement of the confinement loss of the higher order mode of 43 dB/m for ten-ring structure",
+  "paper_citation": "12",
+  "patent_citation": "",
+  "full_text_views": "1994"
+ },
+ {
+  "title": "Luminous and dark matter in the Milky Way",
+  "profile_url": "https://ieeexplore.ieee.org/document/8162974/",
+  "doi": "10.1046/j.1365-8711.2001.04581.x",
+  "abstract": "Axisymmetric models of the Milky Way exhibit strong interrelations between the Galactic constants [the Sun's distance to the Galactic Centre (R\n0\n), and the local rotation speed (θ\n0\n)], the local stellar column density [Σ∗(R\n0\n)] and the shortest-to-longest axis ratio of the dark matter halo (q). In this paper we present simple analytical approximations that allow for an efficient search through the vastness of parameter space, and apply this approximation to investigate the consequences of the uncertain gaseous velocity dispersion (σ\ng\n) on the constraints imposed by the thickness of the Milky Way's gas layer. The extra degree of freedom does not significantly alter the conclusions drawn in a previous paper on the shape of the Milky Way's dark matter halo. A significant contribution to the total gas pressure by cosmic rays and magnetic fields beyond the optical disc is thus ruled out. We find that the Milky Way's dark halo is close to spherical if R\n0\n≳7.1 kpc, while a significantly flattened dark matter halo is possible only if our distance to the Galactic Centre is smaller than ∼6.8 kpc.Thus, if R\n0\n is larger than ∼7 kpc, or θ\n0\n≳170 km s\n−1\n, we can rule out two dark matter candidates that require a highly flattened dark matter halo: (1) decaying massive neutrinos, and (2) a disc of cold molecular hydrogen.It is possible to construct a self-consistent axisymmetric model of the Galaxy based on the IAU-recommended values for the Galactic constants (R\n0\n=8.5 kpc, θ\n0\n=220 km s\n−1\n) only in the unlikely case that the effective gaseous velocity dispersion is ∼19 per cent larger than observed, and if the local stellar column density is less than about 18 M\n⊙\n pc\n−2\n. If we assume that the halo is oblate and a value of Σ∗ of 35±5 M\n⊙\n pc\n−2\n, we can rule out Galactic models with R\n0\n≳8.0 kpc and θ\n0\n≳200 km s\n−1\n.Combining the best kinematical and star-count estimates of Σ∗, we conclude that Σ∗ probably lies between 25 and 45 M\n⊙\n pc\n−2\n. We find that Kuijken & Gilmo...",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "3"
+ },
+ {
+  "title": "Leader selection in wireless sensor networks — An energy efficient approach",
+  "profile_url": "https://ieeexplore.ieee.org/document/6959141/",
+  "doi": "10.1109/CIEC.2014.6959141",
+  "abstract": "Wireless Sensor Networks have found its application in numerous domains. Limited energy of the sensor nodes is the main constraint in operation of the network. Several energy efficient routing protocols have been proposed to deal with this problem. In this paper we propose a leader selection algorithm for these routing protocols to enhance the network lifetime to a greater extent. Distance of the node from base station, degree of connectivity of the node and trust level of the node is individually analyzed and is linearly combined with weights associated with each parameter. This gives the overall potential function of a node to become a leader. The number of rounds after which leader selection takes place is also equated. Through simulation the algorithm is compared with traditional energy-distance based method for routing protocols LBEERA, OREC, PEGASIS and SHORT. Significant improvement of network lifetime is obtained using this leader selection algorithm. Highest improvement of more than 8% increase in network lifetime is observed when distance of the node from the base station is given a higher linear combination weight.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "2196"
+ },
+ {
+  "title": "Reduction of complex safety models based on Markov chains",
+  "profile_url": "https://ieeexplore.ieee.org/document/6219050/",
+  "doi": "10.1109/DDECS.2012.6219050",
+  "abstract": "This paper presents a method how to reduce safety models based on Markov chains. The safety model is used to calculate the probability and rate of an event leading to the hazard state - situation, where safety of a modeled system is violated, so the system may cause material loss or mortality. The reduction method allows us to prove that the rate of the event is sufficiently small hence the hazard state may be neglected. The real safety model of railway station signaling and interlocking equipments is used as a case study.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "1126"
+ },
+ {
+  "title": "Alpha-Beta Sampling for Pairwise Ranking in One-Class Collaborative Filtering",
+  "profile_url": "https://ieeexplore.ieee.org/document/8970859/",
+  "doi": "10.1109/ICDM.2019.00114",
+  "abstract": "This paper introduces Alpha-Beta Sampling (ABS) strategy, which is particularly intended for the sampling problem of pairwise ranking in one-class collaborative filtering (PROCCF). Specifically, ABS strategy places more emphasis on such training examples, including positive item with a lower preference score and negative items with a higher preference score for each gradient step. Then, we provide the corresponding proofs for the ABS strategy from both gradient and ranking perspectives. First, we prove that sampled training examples by ABS strategy can update the model parameters with a large magnitude and analyze two instantiations by combining two specific pairwise algorithms. Second, it can be proved that ABS strategy is equivalent to optimizing for ranking-aware evaluation metrics like Normalized Discounted Cumulative Gain (NDCG). Furthermore, ABS strategy can be very general and applicable in a lot of pairwise structures of pairwise algorithms. Based on ABS strategy, we provide an effective sampling algorithm to dynamically draw items for each SGD update. Finally, we evaluate the ABS strategy by conducting sampling tasks in two representative pairwise algorithms. The experiment results show that the ABS strategy performs significantly better than the baseline strategies.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "596"
+ },
+ {
+  "title": "A Mini-MIPS microprocessor for adiabatic computing",
+  "profile_url": "https://ieeexplore.ieee.org/document/7738678/",
+  "doi": "10.1109/ICRC.2016.7738678",
+  "abstract": "This paper examines adiabatic logic for computation, and presents a design for a MIPS processor implemented in CMOS. Adiabatic reversible logic was examined in the 1980s and 1990s but in that era power dissipation was a secondary concern, and the trade-off of reduced computational speed for reduced power was deemed unacceptable. Now, power dissipation and the associated heat are the major obstacles limiting progress in integrated circuits, particularly processors. In modern processors trading performance for reduced power dissipation is already done using techniques such as multi-core and dark silicon, so adiabatic logic may now be an attractive approach. To evaluate the adiabatic approach, this paper uses the figure of merit of the product of switching energy, delay time, and area (EDA). Using this figure of merit, adiabatic logic is shown to be advantageous when additional constraints are considered, such as maximum allowed power density. As a proof of concept circuit, a simplified MIPS microprocessor was designed using adiabatic logic based on split-rail charge recovery logic and Bennett clocking. New design and verification tools were developed using structural Verilog and extensions of ModelSim to provide needed capabilities are not available in commercial packages. The design is implemented using a standard cell design.",
+  "paper_citation": "8",
+  "patent_citation": "",
+  "full_text_views": "1516"
+ },
+ {
+  "title": "ORION: an advanced accelerator facility at SLAC",
+  "profile_url": "https://ieeexplore.ieee.org/document/987340/",
+  "doi": "10.1109/PAC.2001.987340",
+  "abstract": "Extending the center-of-mass energy frontier for high-energy physics depends on the research and development that is conducted now in the area of advanced accelerator physics and technology. In this article, we present the design and beam dynamics simulations for the emittance-compensated, RF photoinjector of the ORION Facility.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "372"
+ },
+ {
+  "title": "Does reform of non-tradable shares change liquidity premium? Empirical study from China a share market",
+  "profile_url": "https://ieeexplore.ieee.org/document/5882343/",
+  "doi": "10.1109/ICEBEG.2011.5882343",
+  "abstract": "After reform of non-tradable shares to complete, along with limits sells the stock in batches going on the market, the increase of tradable shares proportion has the remarkable influence on liquidity level in China A shares market, thus also changed the liquidity premium. This paper uses panel data model, selects two liquidity variable from different angle, tests and analyzes the liquidity premium before and after the reform. The result shows that: the liquidity premium exist in market before and after the reform; because of the market liquidity condition improving, negative effect between illiquidity and expected return strengthen, namely stocks with low liquidity have higher expected return.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "228"
+ },
+ {
+  "title": "Techniques for rapid initialization in in-vehicle traffic simulators",
+  "profile_url": "https://ieeexplore.ieee.org/document/5429699/",
+  "doi": "10.1109/WSC.2009.5429699",
+  "abstract": "On-line in-vehicle traffic simulation has been proposed as a means to provide predictions of future states of a traffic network based on current traffic conditions. The area covered by an in-vehicle simulation may change dynamically during the vehicle's journey. This paper is concerned with the issue of initializing the state of new regions that are added to a running microscopic traffic simulation. A warm-up period is required where the new road segments must be populated with simulated vehicles. Techniques that convert vehicle flow rate and queue length information to vehicle positions and speeds are proposed to minimize this warm-up period. These techniques are evaluated and compared with respect to estimated travel times of vehicles traveling through different paths in the road network under different traffic conditions. Travel time predictions are compared to a microscopic simulation of the entire region.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "623"
+ },
+ {
+  "title": "Optical gain and green/red vertical cavity surface emitting lasing from cdse-based colloidal nanocrystal quantum dot thin films",
+  "profile_url": "https://ieeexplore.ieee.org/document/5950137/",
+  "doi": "",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "371"
+ },
+ {
+  "title": "Neurofuzzy prediction for visual tracking",
+  "profile_url": "https://ieeexplore.ieee.org/document/1433868/",
+  "doi": "10.1109/ICEEE.2004.1433868",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "379"
+ },
+ {
+  "title": "A Model Predictive Control approach to micro-slip control of Automated Manual Transmission systems",
+  "profile_url": "https://ieeexplore.ieee.org/document/7963506/",
+  "doi": "10.23919/ACC.2017.7963506",
+  "abstract": "In this paper, we consider a Model Predictive Control (MPC) approach to micro-slip clutch control for driveline shuffle attenuation in vehicles with Automated Manual Transmission system. In particular, we introduce an original MPC formulation that effectively takes into account the performance tradeoff between the clutch slip regulation and the torsional oscillation attenuation. Within this formulation, saturation constraints on the clutch torque input as well as the positiveness of the slipping speed needed to avoid gear engagement during the slip are effectively handled. A linear model of the actuator-driveline system is employed to cast the underlying MPC optimization problem as a quadratic programme that, thanks to the effective actually available solvers, allows a fast online implementation of the controller on real transmission control unit platforms. Extensive simulation results and preliminary experimental vehicle tests are presented to show the effectiveness of the proposed approach.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "1228"
+ },
+ {
+  "title": "Impact of illusory resistance on finger walking behavior",
+  "profile_url": "https://ieeexplore.ieee.org/document/7223415/",
+  "doi": "10.1109/VR.2015.7223415",
+  "abstract": "We aim to enable additional sensation when using an anthropomorphic finger motion interface. To do so, we applied a conventional method to generate pseduo-haptics. To control the amount of scroll resulting from finger displacement on a display, illusory resistance or pseudo friction was confirmed by subjective evaluation. We first clarified that this illusory resistance influences finger walking behavior such as stride or speed. An additional experiment conducted in public space verified this influence.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "510"
+ },
+ {
+  "title": "Data management system for monitoring camera in emergency",
+  "profile_url": "https://ieeexplore.ieee.org/document/1196591/",
+  "doi": "10.1109/SICE.2002.1196591",
+  "abstract": "In a case of emergency, we need to grasp the situation and make correct assessment quickly. The picture taken from monitoring camera is important information in the emergent situation. In our research, we attempt to build a support system for identifying the picture of the monitoring camera by dealing with the pictures as spatio-temporal data. We proposed a method, which displays those pictures on one virtual large wall. For this presentation, the search key in our system is the location and the size of this large screen and from which direction to look. First we developed a general algorithm to index spatio-temporal data to get an idea for developing the algorithm for this search key.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "346"
+ },
+ {
+  "title": "Temporal transcoding of H.264/AVC video to the scalable format",
+  "profile_url": "https://ieeexplore.ieee.org/document/5586733/",
+  "doi": "10.1109/IPTA.2010.5586733",
+  "abstract": "In this work, a novel implementation of a video transcoder that converts a video sequence encoded with the H.264/AVC standard to a temporally scalable H.264/SVC stream is achieved with the use of a pixel-domain heterogeneous architecture. The input H.264/AVC stream is fully decoded by the transcoder. Macroblock coding modes are extracted from the input stream and are reused to encode the output stream. A set of new motion vectors is computed from the input stream coded motion vectors, and are mapped to either the hierarchical B-frame or zero-delay referencing structures employed by H.264/SVC. These new motion vectors are further subjected to a 3 pixel refinement. As a result, a significant decrease in computational complexity is achieved, while maintaining a close to optimum compression efficiency.",
+  "paper_citation": "7",
+  "patent_citation": "",
+  "full_text_views": "279"
+ },
+ {
+  "title": "Electrode fabrication using conductive nano-ink and microfluidic technology for bio-applications",
+  "profile_url": "https://ieeexplore.ieee.org/document/6492397/",
+  "doi": "10.1109/MHS.2012.6492397",
+  "abstract": "Printed electronics technology, which is used to economically prepare printing conductive patterns onto flexible materials, is both fundamental and crucial for the successful integration of electronics with textiles or fluidics. Conductive channels can be prepared using conventional printing technologies and conductive inks. These preparation methods would cost less, and they are convenient for prototyping of microdevices. The use of hydrophilic organic-inorganic hybrid nanoparticles (NPs), dispersed in water, enables the simplification of the electrode preparation process at room temperature. In this study, we developed a transparent breadboard and NP microelectrodes in the microfluidic channel to measure the number of particles. The electrode fabrication in the microfluidic channel can be acquired using conventional laboratory equipment without the need for expensive ultra-vacuum deposition instruments. We integrated the equipment with electrical measurement systems to count cells and/or microparticles. By using a parallel electric-circuit model (diluted case) or Langmuir isotherm model (saturated case), the particle concentration between two NP electrodes can be analyzed by measuring the capacitance of the total circuit. The microfluidic fabrication of electrodes and electrical measurement technologies may be potentially applied to the technology for micro-nano fluidics and bio-applications such as cell counting or ion sensing.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "353"
+ },
+ {
+  "title": "Machine Protection System for Concurrent Operation of RHIC and BLIP",
+  "profile_url": "https://ieeexplore.ieee.org/document/1590902/",
+  "doi": "10.1109/PAC.2005.1590902",
+  "abstract": "The Brookhaven 200MeV linac is a multipurpose machine used to inject low intensity polarized protons for RHIC (Relativistic Heavy Ion Collider), as well as to inject high intensity protons to BLIP (Brookhaven Linac Isotope Producer), a medical isotope production facility. If high intensity protons were injected to RHIC by mistake, administrative radiation limits could be exceeded or sensitive electronics could be damaged. In the past, the changeover from polarized proton to high intensity proton operation has been a lengthy process, thereby never allowing the two programs to run simultaneously. To remedy this situation and allow concurrent operation of RHIC and BLIP, an active interlock system has been designed to monitor current levels in the AGS using two current transformers with fail safe circuitry and associated electronics to inhibit beam to RHIC if high intensity currents are detected.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "157"
+ },
+ {
+  "title": "User Coordination for Fast Beam Training in FDD Multi-User Massive MIMO",
+  "profile_url": "https://ieeexplore.ieee.org/document/9310693/",
+  "doi": "10.1109/TWC.2020.3045922",
+  "abstract": "Massive multiple-input multiple-output (mMIMO) communications are one of the enabling technologies of 5G and beyond networks. While prior work indicates that mMIMO networks employing time division duplexing have a significant capacity growth potential, deploying mMIMO in frequency division duplexing (FDD) networks remains problematic. The two main difficulties in FDD networks are the scalability of the downlink reference signals and the overhead associated with the required uplink feedback for channel state information (CSI) acquisition. To address these difficulties, most existing methods utilize assumptions on the radio environment such as channel sparsity or angular reciprocity. In this work, we propose a novel cooperative method for a scalable and low-overhead approach to FDD mMIMO under the so-called grid-of-beams architecture. The key idea behind our scheme lies in the exploitation of the near-common signal propagation paths that are often found across several mobile users located in nearby regions, through a coordination mechanism. In doing so, we leverage the recently specified device-to-device communications capability in 5G networks. Specifically, we design beam selection algorithms capable of striking a balance between CSI acquisition overhead and multi-user interference mitigation. The selection exploits statistical information, through so-called covariance shaping. Simulation results demonstrate the effectiveness of the proposed algorithms, which prove particularly well-suited to rapidly-varying channels with short coherence time.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "239"
+ },
+ {
+  "title": "Channel pre- and post-equalization in uplink OFCDM systems with mobility",
+  "profile_url": "https://ieeexplore.ieee.org/document/1264385/",
+  "doi": "10.1109/PIMRC.2003.1264385",
+  "abstract": "In this paper, we propose an up-link orthogonal frequency and code division multiplexing (OFCDM) mobile cellular system that uses channel pre-equalization at the mobile terminal (MT) and adaptive detection at the base station (BS). Assuming a time division duplex that may offer channel reciprocity between down- and up-links, a low-complexity channel pre-equalization avoids explicit channel estimation at the BS with a very good performance for low MT velocities. A data-aided adaptive detection at the BS starting directly in a tracking mode thanks to pre-equalization can compensate for the increasing mismatch between channel pre-equalization and actual channel response caused by large velocities all along the uplink frame. Simulation results using a 4G realistic scenario show that the proposed uplink OFCDM system offers a good performance with a high spectral efficiency, as it is able to transmit large data rates with mobility and no need of pilot symbols.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "204"
+ },
+ {
+  "title": "Filters with monotonic amplitude-frequency response",
+  "profile_url": "https://ieeexplore.ieee.org/document/759524/",
+  "doi": "10.1109/MWSCAS.1998.759524",
+  "abstract": "The polynomial low-pass filters monotonic in the pass-band amplitude-frequency responses are proposed. The characteristics are intermediate between the Butterworth and Papoulis filters (with these two classes as limiting), and can be obtained starting from the filters of fifth order. The number of the intermediate characteristics increases with the filter order. Decreasing the pass-band flatness degree one can obtain additional attenuation in the stop-band.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "151"
+ },
+ {
+  "title": "Dynamic Monitoring and Decision Systems for Enabling Sustainable Energy Services",
+  "profile_url": "https://ieeexplore.ieee.org/document/5654527/",
+  "doi": "10.1109/JPROC.2010.2089478",
+  "abstract": "This paper concerns the role of smart grids comprising man-made electric power networks and their supporting information communications technology (ICT) as enablers of sustainable energy services. A proposed socio-ecological energy system (SEES) framework used to characterize the core-level subsystems (resources, users, and governance) in terms of second-level and deeper level variables is motivated by the more general multilevel nested socio-ecological system (SES) framework. Second-level and deeper level variables are introduced as a means of characterizing how sustainable a SEES is likely to be by assessing their characteristics. Given vast spatial and temporal complexities in a typical SEES, it becomes necessary to enhance the physical power network with just-in-time (JIT), just-in-place (JIP), and just-in-context (JIC) functionalities. These, in turn, support sustainable energy services by aligning temporal, spatial, and contextual characteristics of resources and users. We refer to the ICT implementation in support of these functionalities as dynamic monitoring and decision systems (DYMONDS). The tradeoffs between the ability of the SEES to ensure sustainable services and the complexity of the supporting smart grid are discussed for several representative energy system architectures.",
+  "paper_citation": "50",
+  "patent_citation": "",
+  "full_text_views": "2575"
+ },
+ {
+  "title": "Common mode voltage cancellation in PWM motor drives with balanced inverter topology",
+  "profile_url": "https://ieeexplore.ieee.org/document/7794023/",
+  "doi": "10.1109/IECON.2016.7794023",
+  "abstract": "This paper proposes a novel inverter topology for canceling the common mode voltage of motor drives, and thus reducing or eliminating the ground leakage current, bearing current, and common mode electromagnetic interference. The proposed topology splits one of the switches on each phase-leg of a conventional inverter into two half-voltage rated switches, and creates two complementary sets of balanced three phase output voltages, whose common mode voltages cancel each other in the driven motor, and is named as “balanced inverter”. The balanced inverter topology does not involve additional passive components, modification of the modulation strategy, or increase of the total device rating. Theoretical analysis, simulation, and testing results are presented to verify this concept.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "755"
+ }
+]

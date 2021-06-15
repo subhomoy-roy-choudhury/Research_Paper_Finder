@@ -1,0 +1,227 @@
+[
+ {
+  "title": "Simulation of digital message transfer with MIL-STD protocols across HF radio networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/473987/",
+  "doi": "10.1109/MILCOM.1994.473987",
+  "abstract": "The model of the digitized battlefield utilizes communications networks that automatically execute data transfers between functional areas-combat, combat support and combat service support. With evolving technology and standards, high frequency (HF) radio networking offers one avenue to support tactical and global communications requirements for quick responses to sudden contingencies and for rapid deployments. Standardized ALE procedures, improved signal-processing modems, and interoperable message transfer protocols provide basic elements to create adaptive, automated HF radio networks to support information exchange among Command, Control, Communications and Intelligence (C4I) systems. Unlike other communications services, however, dynamic ionospheric conditions, heavy utilization and inadvertent jamming make the HF channel a hostile one, where links between nodes are subject to frequent failure. These factors yield significantly degraded performance without adaptive, dynamic management. The occurrence of self-jamming under heavy load conditions adds further complexity to performance analysis and prediction. Assessment of network design relative to optimized performance presents a challenging problem. This paper describes computer simulation predictions which provide a basis for assessment of HF radio networks that operates with the MIL-STD procedures and protocols. The simulation model extends earlier work for MIL-STD-188-141A Automatic Link Establishment (ALE) with an implementation of MIL-STD-187-721 for HF network access. It also implements the message format provisions of MIL-STD-188-220 for the data link protocol to enhance battlefield interoperability and compatibility to support the exchange of digital information. It adds to simulation efforts on HF radio network performance. The purpose of this study is to assess the integration of these MIL-STD protocols and the network performance under heavy message load. The results are applied to network management...",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "139"
+ },
+ {
+  "title": "A research platform for multi-agent dialogue dynamics",
+  "profile_url": "https://ieeexplore.ieee.org/document/1374810/",
+  "doi": "10.1109/ROMAN.2004.1374810",
+  "abstract": "Dialogue agents are often designed with the tacit assumption that at any time, there is only one agent and one human, and that their communication channel is exclusive. We are interested in evaluating complications that arise when multiple heterogeneous dialogue agents interact with one or more human interlocutors, and their communication channel is necessarily shared. In This work we describe a multi-agent dialogue test-bed that we have implemented to study such dialogue coordination issues. We also describe an initial pilot study that uses this test-bed to experiment with a very simple addressee disambiguation algorithm.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "34"
+ },
+ {
+  "title": "A Usable Authentication System Based on Personal Voice Challenge",
+  "profile_url": "https://ieeexplore.ieee.org/document/7815208/",
+  "doi": "10.1109/CBD.2016.042",
+  "abstract": "User authentication is a major approach to guarantee the security of online or cloud services when using user devices such as tablets or mobile phones to access remote servers. Usability is an important issue that greatly influences the acceptance of a user authentication mechanism. Nowadays, a very common way for user authentication is based on the match of the user's password with the registered one or using fingerprint. However, both of them have several weak points regarding usability, e.g., not usable for users to remember many credentials for different service access and need occupy user hands. In this paper, we explore a secure voice authentication system for usable identification and authentication without the need of any manual inputs. The users are free from remembering any passwords. It aims to improve the usability of user authentication based on personal voice challenge and overcome the weakness of existing authentication methods. Implementation further shows its effectiveness.",
+  "paper_citation": "7",
+  "patent_citation": "",
+  "full_text_views": "418"
+ },
+ {
+  "title": "Geometrical and physical models for the recovery of quantitative information from medical image analysis",
+  "profile_url": "https://ieeexplore.ieee.org/document/1048293/",
+  "doi": "10.1109/ICPR.2002.1048293",
+  "abstract": "Summary form only given. The development of methods to accurately and reproducibly recover useful quantitative information from medical images is often hampered by uncertainties in handling these data related to image acquisition parameters, the variability of normal human anatomy and physiology, the presence of disease or other abnormal conditions, and a variety of other factors. Several image analysis strategies are presented that make use of models based on geometrical and physical/biomechanical information to help constrain the range of possible solutions in the presence of such uncertainty. Included are approaches for image segmentation, object motion tracking, shape/volume measurement, and deformation analysis. These ideas are presented in the context of three problem/application areas within the general field of organ/tissue-level medical image analysis: (i) the characterization of cardiac function from noninvasive 4D image data, (ii) the analysis of neuro-anatomical structure from magnetic resonance images, and (iii) the development of an approach that compensates for brain shift in the image data during image-guided neurosurgery. The talk will include a description of the problem areas and visual examples of the image datasets being used, an overview of the mathematical techniques involved and a presentation of results obtained when analyzing patient image data using these methods.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "77"
+ },
+ {
+  "title": "Business process verification using a Formal Compositional Approach and Timed Automata",
+  "profile_url": "https://ieeexplore.ieee.org/document/6670616/",
+  "doi": "10.1109/CLEI.2013.6670616",
+  "abstract": "Several firms are defining their Business Processes (BPs) using the standard Business Process Model and Notation (BPMN). BPs modelled with BPMN are maintained and used by different workers within a company, thus the correctness of critical BPs should be validated and verified. In this work we present how Model Checking verification technique for software has been integrated within a Formal Compositional Verification Approach (FVCA) and Timed Automata (TA) to allow the automatic verification of critical BPs modelled with BPMN. The use of our FVCA support business analysts and designers in the formal specification of BP-task model with TA. The application of the FVCA is aimed at guaranteeing the correctness of the BP-task model with respect to initial properties specification derived from business rules. In order to show a practical use of our proposal and Uppaal tool, one instance of an enterprise-project related to Customer Relationship Management business is discussed.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "119"
+ },
+ {
+  "title": "Implicit Deadline Calculation for Seller Agent Bargaining in Information Marketplaces",
+  "profile_url": "https://ieeexplore.ieee.org/document/4606680/",
+  "doi": "10.1109/CISIS.2008.115",
+  "abstract": "Present and future Web business models involve the trading of information goods. Information marketplaces can be considered as places where users search and retrieve information goods. Such places appear to be very interesting information retrieval models. Furthermore, software agent technology could help users and providers to work in such open environments providing a variety of advantages. Users as well as information providers could be represented by intelligent agents that work autonomously. The representatives of users assume the role of information buyers while the representatives of information sources could be referred to as sellers. In this paper, we examine a scenario where agents representing entities involved in an information marketplace bargain over the prices of information goods. Bargaining originates in game theory (GT). The rationale is that some entities contest to gain as much profit as possible in an open environment. We study the sellerspsila side. Sellers involved in a number of games with buyers, are trying to achieve as greater prices as possible in order to gain more profit from each game. We present a theoretical model of deadline computation for which sellers are participating in the game. Over this time limit it is useless for sellers to continue the game while buyers reject the proposed prices.",
+  "paper_citation": "11",
+  "patent_citation": "",
+  "full_text_views": "41"
+ },
+ {
+  "title": "Metal-alloyed “cold” secondary emission cathode",
+  "profile_url": "https://ieeexplore.ieee.org/document/8289674/",
+  "doi": "10.1109/IVEC.2017.8289674",
+  "abstract": "A short review of metal-alloy palladiumbarium cathode properties used in magnetron microwave amplifiers has been presented. The devices of this class only use secondary electron emission cathode. In order to avoid the device excitation, thermionic emission must be excluded, so, cathode works in the so-called “cold” mode. Physical properties of metal-alloyed (Pd-Ba) secondary electron emission cathodes are shortly discussed.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "47"
+ },
+ {
+  "title": "Influence of sea surface roughness on electromagnetic waves propagation in presence of evaporation duct",
+  "profile_url": "https://ieeexplore.ieee.org/document/5438435/",
+  "doi": "",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "259"
+ },
+ {
+  "title": "MinPeak: An intelligent scheduler for non-preemptive appliances in smart grid",
+  "profile_url": "https://ieeexplore.ieee.org/document/8070021/",
+  "doi": "10.1109/TENCONSpring.2017.8070021",
+  "abstract": "Minimizing peak load consumption has been one of the primary objectives behind most of the research work conducted on demand side management in smart grid domain. Demand side management uses different techniques to curtail consumers' load consumption during peak-hour periods and tries to schedule various deferrable appliances to operate during off-peak hours. In this paper, we propose MinPeak algorithm to schedule deferrable appliances with the objective of reducing peak load demand. The problem is solved as a strip-packing problem, where all the appliances, characterized by their power consumption and execution time units, are packed or scheduled within a certain scheduling time horizon or width of a strip. We have conducted a comprehensive simulation study using existing benchmark data sets and compared the proposed algorithm with some of the well known heuristics for strip packing problem. The results are very encouraging in terms of reducing peak load demand and overall efficiency of the system.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "175"
+ },
+ {
+  "title": "A Dynamic Service Composition Model Based on Constraints",
+  "profile_url": "https://ieeexplore.ieee.org/document/4293843/",
+  "doi": "10.1109/GCC.2007.7",
+  "abstract": "As a way to compose separate services together to fulfill a function, service workflow is widely accepted and applied in different applications. One key issue in service workflow is how to configure the general service workflow into a specialized one that can satisfy user's individual requirements. A service composition model based on constraints is introduced in the paper. In this model user's requirement is modeled as constraints, which is further categorized into constraint related to static quality index and dynamic quality index type. The configuration engine can search the service according to the constraint model so that an abstract service workflow can be transformed into the concrete service workflow by binding each activity with concrete service. The framework for service composition together with how to represent the user's requirement as constraints and the configuration process are introduced.",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "65"
+ },
+ {
+  "title": "High In-content InP-substrate based GaInAsN and GaInAsN QW diode lasers emitting in the 2.2 to 2.3 /spl mu/m wavelength range",
+  "profile_url": "https://ieeexplore.ieee.org/document/1442604/",
+  "doi": "10.1109/ICIPRM.2004.1442604",
+  "abstract": "We report on the growth and characterization of high In-content quaternary Ga/sub 1-x/In/sub x/As/sub 1-y/N/sub y/ (0.78 < x < 1,y < 0.02), grown by plasma assisted molecular beam epitaxy on InP-substrates. First, the incorporation of nitrogen in high In-content GaInAsN was analyzed by Raman spectroscopy, revealing that already a small amount of Ga in the GaInAsN alloy (x>0.92) leads to an almost complete change from pure In-N bonding to nitrogen atoms bonded to at least on Ga-neighbor. Next, strained Ga/sub 0.22/In/sub 0.78/As/sub 0.99/N/sub 0.01//Al/sub 0.48/In/sub 0./$ d5/sub 2/As QWs were optimized for long-wavelength emission. In this way room-temperature photoluminescence could be achieved at a wavelength of 2.3 /spl mu/m for 11 nm wide QWs. Finally, Ga/sub 0.22/In/sub 0.78/As/sub 0.99/N/sub 0.01/ QW-diode lasers were realized, employing lattice matched Al/sub 0.15/Ga/sub 0.32/In/sub 0.53/As as the material for the barriers as well as for the separate confinement layers. InP was used for the cladding layers. Ridge waveguide lasers were fabricated without any post-growth thermal annealing. These devices showed pulsed lasing up to a heat sink temperature of 190 K, for which lasing was at 2.23 /spl mu/m. Higher operating temperatures as well as cw-operation were inhibited by the high threshold current density of almost 2 kA/cm/sup 2/ at 190 K, but room-temperature electroluminescence could be observed at wavelengths up to 2.4 /spl mu/m. As annealing studies on GaInAsN QW-test structures indicate, post-growth annealing of the laser material will lead to a significant improvement in laser performance.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "26"
+ },
+ {
+  "title": "Detecting Pickpocket Suspects from Large-Scale Public Transit Records",
+  "profile_url": "https://ieeexplore.ieee.org/document/8357468/",
+  "doi": "10.1109/TKDE.2018.2834909",
+  "abstract": "Massive data collected by automated fare collection (AFC) systems provide opportunities for studying both personal traveling behaviors and collective mobility patterns in urban areas. Existing studies on AFC data have primarily focused on identifying passengers' movement patterns. However, we creatively leveraged such data for identifying pickpocket suspects. Stopping pickpockets in the public transit system has been crucial for improving passenger satisfaction and public safety. Nonetheless, in practice, it is challenging to discern thieves from regular passengers. In this paper, we developed a suspect detection and surveillance system, which can identify pickpocket suspects based on their daily transit records. Specifically, we first extracted a number of useful features from each passenger's daily activities in the transit system. Then, we took a two-step approach that exploits the strengths of unsupervised outlier detection and supervised classification models to identify thieves, who typically exhibit abnormal traveling behaviors. Experimental results demonstrated the effectiveness of our method. We also developed a prototype system for potential uses by security personnel.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "1294"
+ },
+ {
+  "title": "Improving Intra-Cellular Security Using Air Monitoring with RF Fingerprints",
+  "profile_url": "https://ieeexplore.ieee.org/document/5506229/",
+  "doi": "10.1109/WCNC.2010.5506229",
+  "abstract": "Improved intra-cellular security is addressed using device-specific RF fingerprints to mitigate malicious network activity that can occur through unauthorized use of digital identities. In air monitoring applications where physical equipment constraints are not overly restrictive, RF fingerprinting remains a viable option for providing regional intra-cellular security for systems such as cellular telephone and last mile WiMax networks. Proof-of-concept results are provided for GSM signals given they are readily available in most areas. Recent RF fingerprinting work has demonstrated average device classification accuracies (serial number identification) of 92% using OFDM-based 802.11a preamble responses at SNR = 6 dB. The goal here was to determine if similar performance could be achieved using RF fingerprints extracted from near-transient and midamble regions of GSM signals. This was done using instantaneous phase responses from each region to form RF statistical fingerprints that are subsequently classified using Fisher-based MDA/ML processing. Considering all GSM device permutations from four different manufacturers, near-transient RF fingerprinting provided nearly 13% improvement in classification performance when compared with midamble RF fingerprinting and achieved average classification performance consistent with the 802.11a benchmark of 92% correct classification at SNR = 6 dB.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "607"
+ },
+ {
+  "title": "Phase-locked loop design for flexible mode tracking",
+  "profile_url": "https://ieeexplore.ieee.org/document/1273121/",
+  "doi": "10.1109/TENCON.2003.1273121",
+  "abstract": "This paper describes the design of PLL to track sinusoid flexible mode signals in flexible satellites. The phase detector of the PLL is associated with a low pass filter which is usually not shown in literature. Specifications of the low pass filter are developed based on the frequency of the flexible modes. Subsequently, the filter order is designed with the desired suppression at high frequency. The control loop filter is designed to force the phase error to zero avoiding interaction with the phase detector. Simulation studies show tracking of frequency uncertainty up to /spl plusmn/ 50% deviations with noisy signals with PLL designed for 30% uncertainty in frequency. A robust design has been achieved meeting the desired performance goals.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "85"
+ },
+ {
+  "title": "SeekBin: An automated tool for analyzing thread level speculative parallelization potential",
+  "profile_url": "https://ieeexplore.ieee.org/document/6048489/",
+  "doi": "10.1109/ICET.2011.6048489",
+  "abstract": "Thread level speculation (TLS) is an emerging parallel computing paradigm to enable parallelization with minimal programmer interaction on state-of-the-art multi-core systems. However, when applied indiscriminately, thread squashing and re-execution can incur significant overhead and TLS may result in performance degradation compared to sequential code. A thorough analysis of code for potentially available parallelism is crucial for choosing between speculative or non-speculative execution. In this paper, we present the outcome of an empirical study on a collection of sequential applications to determine what type of parallelism is available and whether it is beneficial to use TLS. We developed a tool, named SeekBin, which observes Java classes at load time for opportunities of parallelism in the bytecode. SeekBin uses profiler feedback and emits data about actually called methods only, which can be used to determine suitability of applying TLS.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "84"
+ },
+ {
+  "title": "Efficiency, correlation, and diversity gain of UWB multiport self-grounded bow-tie antenna in rich isotropic multipath environment",
+  "profile_url": "https://ieeexplore.ieee.org/document/6518360/",
+  "doi": "10.1109/IWAT.2013.6518360",
+  "abstract": "The paper studies the performance of a novel ultra-wideband multiport self-grounded bow-tie antenna and presents simulated embedded radiation efficiencies and correlation at each antenna port, and the diversity gain of the antenna in rich isotropic multipath environment.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "312"
+ },
+ {
+  "title": "Miniaturized laser-based photoacoustic sensor of trace gases",
+  "profile_url": "https://ieeexplore.ieee.org/document/5441562/",
+  "doi": "10.1109/ULTSYM.2009.5441562",
+  "abstract": "A photoacoustic resonant cell intended for laser sensing of trace gases is represented. The cell is adapted so as to enhance the gas-detection performance and, simultaneously, to reduce the cell size. The cell design provides an efficient cancellation of the window background (a parasite response due to absorption of laser beam in the cell windows) and acoustic isolation from the environment for an acoustic resonance of the cell. The useful photoacoustic response from a detected gas, window background and noise are analyzed in experiments as functions of the modulation frequency for a prototype photoacoustic cell with the internal volume ~ 0.5 cm\n3\n. The minimal detectable absorption for the prototype is estimated to be ~ 1.2·10\n-8\n cm\n-1\n W Hz\n-1/2\n.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "112"
+ },
+ {
+  "title": "Research on acoustic source localization using time difference of arrival measurements",
+  "profile_url": "https://ieeexplore.ieee.org/document/6273317/",
+  "doi": "10.1109/MIC.2012.6273317",
+  "abstract": "Time difference of arrival (TDOA) technology has been widely used in positioning and navigation system recently. This paper first introduces and analyzes the basic principle of acoustic source localization using time difference of arrival (TDOA) measurements. Time difference measurement is a key problem in TDOA location method for its accuracy directly determines the position estimation accuracy of the location system. Generalized cross-correlation (GCC) method can weaken the impact of noise on the delay estimation accuracy so this method is adopted in the paper to obtain TDOA measurement by detecting the peak position of the correlation function of two signals. Through the analysis of TDOA location algorithm, an improved Taylor algorithm with 10 iterations is proposed to solve the location coordinate of the acoustic source. This algorithm can achieve a higher accuracy with relatively smaller calculation. In order to forecast system performance, MATLAB simulations are realized for an acoustic source localization system using microphone array. Finally, the implementation of location system and actual test results are presented. In the actual environment, positioning errors are within 3 cm with microphone array element spacing of 50 cm and it is shown the implemented system can be applied to acoustic source localization.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "815"
+ },
+ {
+  "title": "Robust Nonlinear Fusion of Inertial and Visual Data for position, velocity and attitude estimation of UAV",
+  "profile_url": "https://ieeexplore.ieee.org/document/4209381/",
+  "doi": "10.1109/ROBOT.2007.363617",
+  "abstract": "This paper presents a coupled observer that uses accelerometer, gyrometer and vision sensors to provide estimates of pose and linear velocity for an aerial robotic vehicle. The observer is based on a non-linear complimentary filter framework and incorporates adaptive estimates of measurement bias in gyrometers and accelerometers commonly encountered in low-cost inertial measurement systems. Asymptotic stability of the observer estimates is proved as well as bounded energy of the observer error signals. Experimental data is provided for the proposed filter run on data obtained from an experiment involving a remotely controlled helicopter.",
+  "paper_citation": "46",
+  "patent_citation": "",
+  "full_text_views": "1117"
+ },
+ {
+  "title": "Low-power adaptive pseudo noise code acquisition for spread-spectrum systems",
+  "profile_url": "https://ieeexplore.ieee.org/document/1045305/",
+  "doi": "10.1109/TWC.2002.804187",
+  "abstract": "A novel pseudo noise code acquisition combined with the newly proposed adaptive sampling rate and threshold control (ASTC) algorithm is derived for low-power spread-spectrum systems with complementary metal-oxide-semiconductor implementations. Low-power performance can be achieved by reducing the sampling rate of the proposed system while maintaining the system performance. The sampling rate is dynamically updated due to the change of the channel noise level. Under the assumptions that the channel is additive white Gaussian noise slow-fading channel, up to 74.3% reduction in power consumption compared to the conventional fixed-sampling rate and fixed-threshold architecture is demonstrated with insignificant increase of system complexity. The proposed architecture can be applied to the design of low-power and controllable-performance spread-spectrum communication systems.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "138"
+ },
+ {
+  "title": "Estimation of solar radiation on inclined surface and design method for an autonomous photovoltaic system. Application to Algeria",
+  "profile_url": "https://ieeexplore.ieee.org/document/7454931/",
+  "doi": "10.1109/IRSEC.2015.7454931",
+  "abstract": "Algeria has a large solar energy potential (the first in the Mediterranean Sea). This deposit makes it suitable for the installation of solar energy conversion systems, especially photovoltaic (PV) systems. The design of these systems is an important step, its optimization, as well as optimization of the various parameters of the system, is a crucial step. In our work, after estimating hourly solar radiation, we have optimized the design of a photovoltaic installation in the region \"Zenata\" (Tlemcen), western Algeria, focusing on the panel's efficiency, total capture area, and total battery capacity. We used the concept of hourly solar usability to develop a design method through several stages.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "127"
+ },
+ {
+  "title": "Agile assembly architecture: an agent based approach to modular precision assembly systems",
+  "profile_url": "https://ieeexplore.ieee.org/document/614353/",
+  "doi": "10.1109/ROBOT.1997.614353",
+  "abstract": "This paper presents our initial thoughts on the design of an architecture for highly flexible, modular, and distributed precision assembly systems. Through the use of a unified design, simulation, programming, and monitoring environment coupled with self-representing cooperative agents, this architecture will significantly simplify the process of factory design and deployment. Our demonstration of this architecture takes the form of a \"table top\" sized assembly system targeted at the partial assembly of high-density magnetic storage devices.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "143"
+ },
+ {
+  "title": "Application of ANP in selection of converters for wave farm systems",
+  "profile_url": "https://ieeexplore.ieee.org/document/8360595/",
+  "doi": "10.1049/cp.2016.1470",
+  "abstract": "The present study is an attempt to propose an objective methodology to identify suitable converters for the utilizing as wave farms so that optimal utilization under minimum constraints can be achieved. In this aspect analytical network process (ANP) was utilized for the first time to select the converters for using in wave farms in a specific location so that maximum utilization of ocean energy can be possible. In total twenty one parameters were used to select more suitable converters for using in wave farm. The objectivity of the method provides as reliable methodology for selection of converters.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "16"
+ },
+ {
+  "title": "Study on electromagnetic influence of 750kV AC transmission lines on multiple buried pipelines",
+  "profile_url": "https://ieeexplore.ieee.org/document/7522725/",
+  "doi": "10.1109/APEMC.2016.7522725",
+  "abstract": "Due to the electric power industry and oil and gas industry have a close principle to the preferential transmission route. The electromagnetic impact of power transmission line is increasingly prominent. To explore the electromagnetic effect of electric power line on the multi buried metal pipeline, the mechanism of the electromagnetic effect of the AC transmission line to the oil gas pipeline is analyzed and the simulation model of the electromagnetic effect of 750kV AC line to the multi buried oil gas pipeline is built in the electromagnetic simulation software CDEGS, which is based on the method of moments. Aim at Qiaowan 750kV AC transmission line, the paper analyzed the electromagnetic effect of the power frequency current, single-phase short-circuit fault current and the lighting current on the oil gas pipeline. At last, the influence of the interference voltage of the 750kV AC transmission engineering to the buried oil gas pipeline is obtained and the shortest safe distance from the tower and underground pipelines and related protection measures is put forward.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "210"
+ },
+ {
+  "title": "New voltage controlled diode for power rail and regulator ESD protection",
+  "profile_url": "https://ieeexplore.ieee.org/document/7936299/",
+  "doi": "10.1109/IRPS.2017.7936299",
+  "abstract": "A novel diode structure is successfully designed for the first time to protect the power line against the ESD stress condition in the high voltage (HV) CMOS technology nodes. Controlled by the voltage difference between V\nDD\n and signal, the depletion regions of two HV-NW's can shut off or turn on the current path to the ground (GND) of the diode depending on whether it is under normal operation mode or ESD event.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "449"
+ }
+]

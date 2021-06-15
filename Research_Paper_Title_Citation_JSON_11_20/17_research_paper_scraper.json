@@ -1,0 +1,227 @@
+[
+ {
+  "title": "A Low Cost and Easy Implement Highway Accident Detection Model Based on Big Data",
+  "profile_url": "https://ieeexplore.ieee.org/document/8982583/",
+  "doi": "10.1109/IUCC/DSCI/SmartCNS.2019.00125",
+  "abstract": "With the rapid growth of motor vehicles and highway construction, car accident becomes a major problem. Fast detection of an accident can save human life, reduce rescue time and public resources. In this paper, we propose a fast and implementable model for highway accident detection based on big data method and mobile operators' call data. To avoid the cost of infrastructure construction, sensor installation and data collection barriers between different departments, this model only uses the mobile operators' measurement report (MR) data to build the model, without any additional installation of traffic sensors, cameras, or any other detection equipment. This model creates a fingerprint map for a road with direction and location labels. Then this model uses the logistic regression (LR) algorithm to determine a passing mobile vehicle's location based on the map and MR data, alarm with different degree raised after a decision rule include the vehicle's location, velocity and velocity reduction, as well as emergency alarm suggestion for the following vehicles.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "69"
+ },
+ {
+  "title": "Feature selection and optimization method based on CWT",
+  "profile_url": "https://ieeexplore.ieee.org/document/8242492/",
+  "doi": "10.1109/ICSPCC.2017.8242492",
+  "abstract": "Wavelet transform is widely used in feature extraction and pattern recognition, the choice of wavelet basis directly affects the processing result. This paper constructs feature vector based on the continuous wavelet transform coefficients, The method of selecting the best wavelet base is extracted combined the general characteristics with distance criterion and proposed two feature optimization methods. Three types of actual underwater acoustic targets signal is used to validate the optimization method. The classification results show that the two methods can improve the recognition accuracy under the optimal wavelet basis. For different characteristics, the optimization effect is different.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "196"
+ },
+ {
+  "title": "Feedback: How does it impact software engineers?",
+  "profile_url": "https://ieeexplore.ieee.org/document/6223008/",
+  "doi": "10.1109/CHASE.2012.6223008",
+  "abstract": "Feedback happens all the time in software development environments, but little is known about the impact it has. Motivation theory identifies feedback as an important factor, but doesn't consider the impact of different feedback characteristics. We present the results of a scenario-based study with 16 software engineers. Our study suggests that positive feedback has an impact on job satisfaction while negative feedback impacts behaviour. Motivation and productivity were found to be linked in just 20% of positive feedback scenarios.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "150"
+ },
+ {
+  "title": "Initial perceptions of professional facilitators regarding GDSS impacts: a study using the grounded-theory approach",
+  "profile_url": "https://ieeexplore.ieee.org/document/183413/",
+  "doi": "10.1109/HICSS.1992.183413",
+  "abstract": "Eight experienced facilitators or process consultants participated in a laboratory study of GDSS use. They were interviewed using an approach consistent with the ground-theory methodology, and their comments and observations subjected to preliminary content analysis. Several areas of substantive concern for GDSS research were identified, and will serve as a basis for a stage two study of facilitator/GDSS interactions. These efforts are seen as required for the generation of theory in this new area of research which involves the interdisciplinary cooperation of behavioral and information scientists.<\n>",
+  "paper_citation": "10",
+  "patent_citation": "",
+  "full_text_views": "18"
+ },
+ {
+  "title": "Rules discovery: Transfer and generalization",
+  "profile_url": "https://ieeexplore.ieee.org/document/4586326/",
+  "doi": "10.1109/RIVF.2008.4586326",
+  "abstract": "This paper presents a study about human transfer of learning between isomorphs and on the conditions of rule discovery that could be of help for machine learning. When faced with a new problem, the human learner uses the knowledge s/he already possesses in order to mentally represent and manipulate the objects s/he has to deal within the process of problem solving. We propose that familiar domain knowledge provide concepts as useful biases for discovering general rules when solving isomorphic problems as well as problems which entail a larger problem space. Results of two experiments using isomorphic versions of the ldquorule discoveryrdquo Nim game, and versions that entail a larger problem space, suggest that participants use the even concept in the familiar domain according to external representations that can either predictably favor or impair learning and transfer in a foreseeable way.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "22"
+ },
+ {
+  "title": "Algal bloom turns ocean red",
+  "profile_url": "https://ieeexplore.ieee.org/document/7404622/",
+  "doi": "10.23919/OCEANS.2015.7404622",
+  "abstract": "In October of 2014 a large algal bloom formed off the coast of North Carolina near the Pea Island National Park, turning the waters red. In response to this unusual and potentially toxic bloom, students from the Phytofinders team of First Flight High School (FFHS) in Kill Devil Hills, NC, travelled south to collect water samples. Their goal was to examine and identify the genera or species of the organism(s) populating the spreading bloom. The analysis, reported in this paper, revealed that the bloom and resulting discoloration of the coastal waters were due to Mesodinium rubrum. This ciliate is well known for turning the waters red during mass blooms, but it has no other known harmful effects. While the observations and analysis of the Phytofinders had established that the bloom was unlikely to contain harmful constituents, the release of Barnacle, a protected loggerhead sea turtle that had completed a rehabilitation program at the North Carolina Aquarium, was delayed as a precaution.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "37"
+ },
+ {
+  "title": "AMC - A framework for modelling and comparing matching systems as matching processes",
+  "profile_url": "https://ieeexplore.ieee.org/document/5767940/",
+  "doi": "10.1109/ICDE.2011.5767940",
+  "abstract": "We present the Auto Mapping Core (AMC), a new framework that supports fast construction and tuning of schema matching approaches for specific domains such as ontology alignment, model matching or database-schema matching. Distinctive features of our framework are new visualisation techniques for modelling matching processes, stepwise tuning of parameters, intermediate result analysis and performance-oriented rewrites. Furthermore, existing matchers can be plugged into the framework to comparatively evaluate them in a common environment. This allows deeper analysis of behaviour and shortcomings in existing complex matching systems.",
+  "paper_citation": "24",
+  "patent_citation": "",
+  "full_text_views": "307"
+ },
+ {
+  "title": "A 56Gb/s burst-mode NRZ optical receiver with 6.8ns power-on and CDR-Lock time for adaptive optical links in 14nm FinFET CMOS",
+  "profile_url": "https://ieeexplore.ieee.org/document/8310286/",
+  "doi": "10.1109/ISSCC.2018.8310286",
+  "abstract": "The increasing bandwidth demand in data-centers requires wireline transceivers supporting >50Gb/s/lane data-rates with low power consumption. Because link utilization in data-centers is <;10% for 99% of the links [1] a promising way to reduce power consumption is fine-grained power gating, where the link is powered off during idle time. For rapid on/off functionality to be efficient with short data bursts, the link needs to wake up within a few ns, which is challenging at high speeds. Burst mode operation was previously demonstrated at 25Gb/s with 18.5ns lock-time [2] without power cycling.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "1794"
+ },
+ {
+  "title": "Research on Floating-Point Encryption Based on Extended CryptDB",
+  "profile_url": "https://ieeexplore.ieee.org/document/8686973/",
+  "doi": "10.1109/FSKD.2018.8686973",
+  "abstract": "The following topics are dealt with: learning (artificial intelligence); data mining; fuzzy set theory; optimisation; pattern classification; genetic algorithms; convolutional neural nets; feature extraction; image classification; decision making.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "65"
+ },
+ {
+  "title": "AODV based adaptive distributed hybrid multipath routing for mobile AdHoc network",
+  "profile_url": "https://ieeexplore.ieee.org/document/7975230/",
+  "doi": "10.1109/ICICCT.2017.7975230",
+  "abstract": "Characteristics of Mobile ad hoc networks are high mobility and frequent link failures that result in low throughput and high end-to-end delay. Multipath routing is an attractive option to reduce the number of route discoveries due to such broken paths so that alternate paths are available. Existing approaches to multipath routing employs pre-computed routes determined during phase of route discovery. Disadvantage of these solutions, however, is high mobility because lack of maintenance of alternate paths. Hence, precisely when needed, the routes are often broken. Further data traffic distribution is not adaptive defeating the purpose of multipath routing. To overcome theses problems, we present an AODV based adaptive distributed hybrid multipath (ADHM) routing solution. In a reactive path setup phase, between the source and destination of a data session, multiple paths are built. Data are stochastically spread over the different paths, according to their estimated quality. During the course of the session, paths are continuously monitored and improved in a proactive way. Link failures are dealt with locally. Extensive use of periodic update packets is employed which sample full paths between source and destination nodes in a Monte Carlo way. Simulation results show that the proposed solution results in significant performance improvement.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "282"
+ },
+ {
+  "title": "Octilinear layouts for metro map visualization",
+  "profile_url": "https://ieeexplore.ieee.org/document/6741398/",
+  "doi": "10.1109/BIGCOMP.2014.6741398",
+  "abstract": "Octilinear design has been a feature of metro maps since the last century. However, it is only recent that layout of metro maps has been automated. In this paper, we explore ways to automate the layout of metro maps. In addition, we review another trend of integrating annotations for aiding travelers, while maintaining the octilinear layout. Finally, as personal navigational devices and platforms emerge, we discuss dynamic applications of this design and its future direction.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "214"
+ },
+ {
+  "title": "In-chip overlay metrology in 90 nm production",
+  "profile_url": "https://ieeexplore.ieee.org/document/1513386/",
+  "doi": "10.1109/ISSM.2005.1513386",
+  "abstract": "We have inserted, measured and demonstrated good metrology performance on in-die overlay targets on product wafers. It is shown that scanner aberration induced pattern placement errors (PPE) can be measured, simulated and validated by CD-SEM, but the magnitude of the effect on late generation scanners is small - of the order of /spl sim/1.5 nm peak to peak across the slit. It is observed that in-die overlay data contains additional sources of variation beyond PPE and the results have been verified by SEM. It is demonstrated that current practices based on linear models do not capture in-die variations which significantly impacts model residuals. Currently, in-die target insertion is an insurance policy which enables in-die trouble shooting when process issues are suspected and will potentially improve lot dispositioning in the future.",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "329"
+ },
+ {
+  "title": "Acceleration-Level Multi-Criteria Optimization for Remedying Joint-Angle Drift of Redundant Manipulators on Complex Path Tracking",
+  "profile_url": "https://ieeexplore.ieee.org/document/8754767/",
+  "doi": "10.1109/ACCESS.2019.2926703",
+  "abstract": "In this paper, to remedy the joint-angle drift problem of redundant manipulators at the acceleration level, a multi-criteria optimization motion planning (MCOMP) scheme is proposed and investigated for redundant manipulators. In addition, the proposed scheme considers physical constraints and guarantees values of the joint-velocity and joint-acceleration to approach zero at the end of the path-tracking task. The proposed scheme is reformed into one standard quadratic program problem, which is then solved by the simplified linear variational inequalities-based primal-dual neural network (S-LVI-PDNN). Furthermore, three tracking path computer simulations (i.e., “Nut line” pattern, “Peach” pattern, and Chinese character “tu” pattern) are illustrated, which verify the validity and advantage of the proposed scheme. Finally, the physical experiment based on the JACO\n2\n manipulator further verifies the practicability of the proposed scheme for solving the joint-angle drift of redundant manipulators.",
+  "paper_citation": "7",
+  "patent_citation": "",
+  "full_text_views": "445"
+ },
+ {
+  "title": "Flash crowd prediction in Twitter",
+  "profile_url": "https://ieeexplore.ieee.org/document/8014676/",
+  "doi": "10.1109/ICACCS.2017.8014676",
+  "abstract": "Computers have made their way into all realms of human actions. The emergence of high-speed networks and the popularization of mobile devices resulted in the increase of the number of accesses to online content on the Internet. Powerful servers have become inevitable as they support huge data processing. Flash crowd occurs due to popular content which attracts large crowd that demands immediate and instantaneous service which the server(s) find challenging. Research solutions till date propose dynamic substitution of resources or server(s) which is not cost effective. Our objective is to predict popular content that addresses the bottleneck's caused to server(s) by flash crowd. We develop a generic model that tracks trending topics in Twitter by extracting features through sentiment analysis, sarcasm analysis, trend analysis, emotional divergence, hash tag processing and predicts flash crowd through Naïve bayes classifier We benchmark the precision and recall of Naïve bayes classifier with KNN classifier to gauge its performance and throughput. The model depicts infectious rate which in turn helps in Flash crowd prediction in real time.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "175"
+ },
+ {
+  "title": "The use of support vector machine and genetic algorithms to predict protein function",
+  "profile_url": "https://ieeexplore.ieee.org/document/6377994/",
+  "doi": "10.1109/ICSMC.2012.6377994",
+  "abstract": "In Bioinformatics, the prediction of protein function is considered a very important task but also difficult. Using a set of enzymes represented by Hydrolase, Isomerase, Ligase, Lyase, Transferase and Oxidoreductase classes, previously used by Dobson et al., this paper proposes a self-learning process able to predict their classes, based on their primary and secondary structures, through a Support Vector Machine (SVM) classifier and genetic algorithm. An SVM can be characterized as a supervised machine learning algorithm capable of resolving linear and non-linear classification problems. During the learning process, both the training data and the corresponding output are presented to the SVM to allow its parameters to be adjusted. This study utilized genetic algorithms - optimization heuristics often used to estimate parameters - to adjust the main parameters of the classifier such as kernel function type and parameter C, which provides the relationship between the training error and the margin of separation between classes. In this specific prediction problem, the results indicate that the best function is an RBF where width is 6.1 and C is 6.9. Using these parameters, the classifier obtains an average accuracy of 79.74%.",
+  "paper_citation": "5",
+  "patent_citation": "",
+  "full_text_views": "233"
+ },
+ {
+  "title": "A new linguistic feature for Automated Essay Scoring",
+  "profile_url": "https://ieeexplore.ieee.org/document/5666251/",
+  "doi": "10.1109/IUCS.2010.5666251",
+  "abstract": "This study reviews the features used in the previous Automated Essay Scoring (AES) system, and attempts to develop a new linguistic feature-thematic feature for AES systems. According to Functional Grammar, theme is the point of departure for message, the element with which the clause is concerned. The thematic structure is an important method to promote essay coherence, and to present the message structure of essays. In order to find out whether the thematic feature distinguish the differences between those essays that were rated as high and those rated as low, or the feature is a valid predictor for AES system, we conduct a correlation analysis on the AES corpus, which consists of 2,000 expert-graded College English Test essays. Based on the statistical analysis, we extract the RB-PRP ratio as the formalized form of the thematic feature. Findings of the study indicate that the thematic feature has a significant positive correlation with the human-assigned essay scores. And the performance results indicate that the thematic feature promotes the performance of the AES baseline system. The findings of the study also indicate that linguistic research in traditional linguistic area is valuable for constructing a statistical model in the area of natural language processing (NLP), especially in the process of selecting intelligent linguistic features which are predictable for NLP systems.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "264"
+ },
+ {
+  "title": "Modeling Global Spatial–Temporal Graph Attention Network for Traffic Prediction",
+  "profile_url": "https://ieeexplore.ieee.org/document/9316302/",
+  "doi": "10.1109/ACCESS.2021.3049556",
+  "abstract": "Accurate and efficient traffic prediction is the key to the realization of intelligent transportation system (ITS), which helps to alleviate traffic congestion and reduce traffic accidents. Due to the complex dynamic spatial-temporal dependence between traffic networks, traffic prediction is extremely challenging. In previous studies, convolution neural network (CNN) and graph convolution network (GCN) were used to model spatial correlation. However, the non-Euclidean correlation of road network reduces the effect of convolution operator modeling. In addition, only considering the traffic interaction around the concerned points simplifies the influence of traffic network. In order to address the above problems, this article proposes an end-to-end global spatial-temporal graph attention network (GST-GAT), which uses the “global interaction + node query” to model the dynamic spatial-temporal correlation of traffic. In the encoder, the long short-term memory (LSTM) component flexibly transforms the traffic dynamic spatial-temporal graph into feedforward differentiable features. Global traffic interaction is proposed to summarize traffic network context changes and integrate all node features at each moment through a forward calculation. Then, each node computes the influence of traffic global interaction on a single node in parallel, and the spatial-temporal interaction information is adaptive fused by gating fusion mechanism. Finally, the end-to-end network structure is used to train the rich mixed feature coding to generate the traffic prediction status of each node. Experiments on public transportation data sets show that GST-GAT performs better than previous work in terms of accuracy and inference speed.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "669"
+ },
+ {
+  "title": "An interactive pre- and post-processor for the piecewise-sinusoid thin-wire method of moments code",
+  "profile_url": "https://ieeexplore.ieee.org/document/1149982/",
+  "doi": "10.1109/APS.1987.1149982",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "26"
+ },
+ {
+  "title": "Radio Coordination",
+  "profile_url": "https://ieeexplore.ieee.org/document/1670420/",
+  "doi": "10.1109/JRPROC.1929.221833",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "13"
+ },
+ {
+  "title": "Application of mobile solar OFF-grid Generator in irrigation system — Case study",
+  "profile_url": "https://ieeexplore.ieee.org/document/8171710/",
+  "doi": "10.1109/PEE.2017.8171710",
+  "abstract": "The paper presents multi-purpose mobile solar generator with modular structure, which provides power supply for both, single and three-phase consumers, in symmetrical, as well as unsymmetrical conditions. The additional feature of this device - pressure control in irrigation systems with three-phase centrifugal pump, is analyzed in details. The concept of irrigation systems based on the use of sprinklers is applied on a land plot with vegetables. Special attention is paid to the synthesis of PI pressure controller on the basis of a detailed mathematical models of the specific pumping system and mobile solar generator. The paper presents the results of measurements which were obtained in the real conditions on a land plot with irrigation system, with a critical review of the results obtained from the simulation model.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "103"
+ },
+ {
+  "title": "Optical 3R regenerator using wavelength converters based on electroabsorption modulator for all-optical network applications",
+  "profile_url": "https://ieeexplore.ieee.org/document/839042/",
+  "doi": "10.1109/68.839042",
+  "abstract": "The optical 3R regenerator using electroabsorption modulators was evaluated at 10 Gbit/s in terms of the all-optical network application. Its reset of impairments induced by the fiber transmission was confirmed by carrying out the multiple recirculating loop experiment. The experimental result shows that the transmission distance could be extended by almost 1.5 times compared to the case when it was not used, inserting the optical regenerator between the two recirculating loops.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "104"
+ },
+ {
+  "title": "Investigation of coupling based on liquid crystal in two end-coupled microstrip resonators",
+  "profile_url": "https://ieeexplore.ieee.org/document/5734045/",
+  "doi": "10.1109/ISTEL.2010.5734045",
+  "abstract": "A new tunable planar coupled resonator structure based on nematic liquid crystals (LC) substrate for applications at mm-wave frequencies is presented. The proposed structure allows the use of electric field bias to align the LC molecules, offering direct control over the dielectric properties (anisotropy) of the LC substrate. The structure is designed for use of a LC mixture commonly referred to as E7. Symmetrical and asymmetrical couplings are investigated using this coupled resonator structure. In both cases, coupling tunability of about 20% is achieved in the 30 - 40 GHz range. The proposed structure can also be exploited to realize miniaturized tunable filters with wide tuning range at mm-wave frequencies.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "135"
+ },
+ {
+  "title": "A balanced clock network design algorithm for clock delay, skew, and power optimization with slew rate constraint",
+  "profile_url": "https://ieeexplore.ieee.org/document/1217776/",
+  "doi": "10.1109/SMELEC.2002.1217776",
+  "abstract": "A heuristic algorithm for optimized clock network design is presented. The algorithms for optimization of clock skew, delay, and power considering slew rate constraint for a balanced IC clock tree are implemented using a modified method of cautious approach. Algorithms developed are verified with the model of a real chip, i.e. post layout model of an FPGA chip. HSpice simulations at 115/spl deg/C, with CMOS 0.35 /spl mu/m models and parameters show a 60% reduction in the clock slew rate and a 23% improvement in the power dissipation when compared to the results of the initial, unoptimized chip.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "127"
+ },
+ {
+  "title": "Experimental verification of performance of a switched reluctance motor made of permendur",
+  "profile_url": "https://ieeexplore.ieee.org/document/5607918/",
+  "doi": "10.1109/ICELMACH.2010.5607918",
+  "abstract": "This paper experimentally verifies the performance of a switched reluctance (SR) motor made of permendur. The permendur, which is an alloy created by mixing 49% cobalt with iron, has extremely high saturation flux density and very low core loss. Two types of 12/8-pole SR motors which have the same dimensions but different core material; one is conventional non-oriented Si steel and the other is permendur, are made on a trial basis to compare. As a result of experiment, the SR motor made of permendur demonstrates the better performance as compared to the conventional one in regard to torque, rotational speed, and efficiency characteristics.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "157"
+ },
+ {
+  "title": "LQR_based consensus algorithms of muti-agent systems with a prescribed convergence speed",
+  "profile_url": "https://ieeexplore.ieee.org/document/7007323/",
+  "doi": "10.1109/CGNCC.2014.7007323",
+  "abstract": "This paper studies the consensus problem of muti-agent systems with identical linear invariant dynamics. Both with and without a leader situation are considered. The controllers are designed with static relative output feedback. The communication topology is assumed to be fixed and contain a directed spanning tree. An optimal design method is introduced to design feedback gain so that the system can converge to the consensus value with a prescribed convergence speed.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "155"
+ }
+]

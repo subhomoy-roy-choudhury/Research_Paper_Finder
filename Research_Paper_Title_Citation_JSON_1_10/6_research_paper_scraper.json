@@ -1,0 +1,227 @@
+[
+ {
+  "title": "Comparative Study of Novel Tubular Partitioned Stator Permanent Magnet Machines",
+  "profile_url": "https://ieeexplore.ieee.org/document/7239571/",
+  "doi": "10.1109/TMAG.2015.2476558",
+  "abstract": "Permanent magnet (PM) tubular machines have been applied to many applications, since they offer high force density with no end winding and no net attractive force between the mover and the stator. In this paper, two novel PM tubular machines named partitioned stator interior PM (PS-IPM) and partitioned stator surface-mounted PM (PS-SPM) tubular machines are proposed. Both the proposed machines are optimized for maximum thrust force, and their electromagnetic performance has been compared. It is found that the PS-IPM tubular machine has higher thrust force capability and better magnet utilization compared with the PS-SPM tubular machine. However, due to lower cogging force, the PS-SPM tubular machine has fewer thrust force ripples. Furthermore, the effect of the cross-coupling magnetic saturation on PM flux linkage, and the d-axis and q-axis inductances for both the proposed machines is investigated. It is demonstrated that the PM flux linkage and the d-axis and q-axis inductances are affected by the cross-coupling magnetic saturation. Moreover, the force-velocity characteristics of the proposed machines are calculated and compared. It is observed that both the machines have good constant power operation capability.",
+  "paper_citation": "17",
+  "patent_citation": "",
+  "full_text_views": "1065"
+ },
+ {
+  "title": "Wireless OFDM-OQAM with a Small Number of Subcarriers",
+  "profile_url": "https://ieeexplore.ieee.org/document/4489069/",
+  "doi": "10.1109/WCNC.2008.38",
+  "abstract": "Orthogonal frequency division multiplexing based on offset quadrature amplitude modulation (OFDM-OQAM) is a multicarrier signaling technique which trades off robustness for spectral efficiency when compared to conventional OFDM with a cyclic prefix. In this paper, a novel matrix model for passband OFDM-OQAM signaling with a small number of subcarriers over a multipath frequency selective fading channel is presented. Specifically, in OFDM-OQAM a frequency selective channel is divided into many smaller but still frequency selective overlapping channels, so approximating the frequency response of a subchannel by the channel frequency response sampled at the subcarrier frequency may be inadequate. Channel effects may be better characterized if the frequency response of each subchannel is represented as a Taylor expansion at the subcarrier frequency. Simulation results show how the matrix model implemented by means of this approximation is a suitable model for OFDM-OQAM with a small number of subcarriers.",
+  "paper_citation": "11",
+  "patent_citation": "",
+  "full_text_views": "432"
+ },
+ {
+  "title": "A numerical approach to estimate the actual demand of utility power in case of systematic data scarcity",
+  "profile_url": "https://ieeexplore.ieee.org/document/7307365/",
+  "doi": "10.1109/ICEEICT.2015.7307365",
+  "abstract": "For proper electricity generation planning and scheduling of operation of the power plants, the actual demand is a must know. But it is almost impossible to determine the actual demand of electricity in Bangladesh due to shortage of organized data. In this research, a statistical method has been presented to estimate the total demand of Bangladesh in a typical peak hour in 2011. This procedure is acceptable for a power system like that in Bangladesh where bona fide particulars is absent.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "43"
+ },
+ {
+  "title": "Probabilistic analysis of voltage bands stressed by electric mobility",
+  "profile_url": "https://ieeexplore.ieee.org/document/6162773/",
+  "doi": "10.1109/ISGTEurope.2011.6162773",
+  "abstract": "This contribution proposes a method to analyze the capabilities of low voltage grids to meet the demands of additional loads due to electric mobility. Probabilistic load models for both the domestic and electric vehicle loads are developed to give insight into the stochastic nature of load distribution and voltage bands. The results not only provide the maximum voltage deviations, but their probability of occurrence during a given period of time. With this information, a recommendation for future grid planning can be developed, which takes into account the increasing load caused by electric mobility. Furthermore, a load management system is proposed to reduce maximum load thus avoiding costs for increasing feeder capacities.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "206"
+ },
+ {
+  "title": "Comments on \"A Least Mean Squares CUBIC Algorithm for On-Line Differential of Sampled Analog Signals\"",
+  "profile_url": "https://ieeexplore.ieee.org/document/1674852/",
+  "doi": "",
+  "abstract": "",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "15"
+ },
+ {
+  "title": "Improved small target detection for IR point target",
+  "profile_url": "https://ieeexplore.ieee.org/document/5324903/",
+  "doi": "10.1109/ICIMW.2009.5324903",
+  "abstract": "In the target detection algorithm based on the bivariate cubic facet fitting (BCFF), the target position can be selected so that the position has the maximum value or energy value of the filtered result. However, in the cluttered environment, it may generate a large number of clutters. In this paper, we propose the target detection algorithm which applies the maximum local contrast as the target selection method. Our proposed algorithm can considerably improve the detection rate more than the method using the maximum energy value.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "216"
+ },
+ {
+  "title": "Multi-dimensional Evaluation of Haswell's Transactional Memory Performance",
+  "profile_url": "https://ieeexplore.ieee.org/document/6970658/",
+  "doi": "10.1109/SBAC-PAD.2014.33",
+  "abstract": "This paper presents an extensive performance study of the implementation of Hardware Transactional Memory (HTM) in the Haswell generation of Intel x86 core processors. This study evaluates the strengths and weaknesses of this new architecture exploring several dimensions in the space of Transactional Memory (TM) application characteristics using the Eigenbench [1] and the CLOMP-TM [2] benchmarks. This detailed performance study provides insights on the constraints imposed by the Intel's Transaction Synchronization Extension (Intel's TSX) and introduces a simple, but efficient policy for guaranteeing forward progress on top of the besteffort Intel's HTM and also was critical to achieving performance. The evaluation also shows that there are a number of potential improvements for designers of TM applications and software systems that use Intel's TM and provides recommendations to extract maximum benefit from the current TM support available in Haswell.",
+  "paper_citation": "5",
+  "patent_citation": "",
+  "full_text_views": "167"
+ },
+ {
+  "title": "Variability Immune FinFET-Based Full Adder Design in Subthreshold Region",
+  "profile_url": "https://ieeexplore.ieee.org/document/5738477/",
+  "doi": "10.1109/ICDECOM.2011.5738477",
+  "abstract": "Subthreshold logic is an efficient technique to achieve ultralow energy per operation for low-to-medium throughput applications. To improve switching performance, energy/switching, and also the robustness of the subthreshold logic for the implementation of 1-bit static full adder, we propose the use of sub-FinFET (sub-threshold voltage FinFET) transistors. The power, speed and energy evaluation has been carried out using extensive simulation on HSPICE circuit simulator. The simulation results are based on 32 nm CMOS Berkeley Predictive Technology Model (BPTM).",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "548"
+ },
+ {
+  "title": "An Efficient Approach Based on UAV Orthographic Imagery to Map Paddy With Support of Field-Level Canopy Height From Point Cloud Data",
+  "profile_url": "https://ieeexplore.ieee.org/document/8370063/",
+  "doi": "10.1109/JSTARS.2018.2829218",
+  "abstract": "Unmanned aerial vehicle technology which is capable of acquiring the centimeter-level orthographic images provides a promising way to map the paddy rice extent. However, crop spectral mixture is still the major that limits the performance of paddy rice identification when using the spectral information alone. In order to eliminate the influence of spectral mixture on crop mapping accuracy, an innovative method was proposed to produce field-level canopy height data by calculating the elevation difference between the vegetated and nonvegetated parcels. We applied support vector machine on four types of datasets: 1) Pixel-based Spectral Features (PSF); 2) PSF and Canopy Height Features; 3) Object-based Spectral Features (OSF); and 4) Object-based Spectral Features and Canopy Height Features (OSCHF). The results showed that the full-class classification accuracy from OSCHF was the highest with an overall accuracy of 94.04% and Kappa of 0.91, which was significantly higher than result using OSF, and the accuracy of PSF was the worst. The OSF could eliminate speckle noise problem to some extent, but grapes and trees were still to some extent misclassified as paddy rice due to similar spectrum. Fortunately, these confusions were effectively avoided by including the canopy height.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "473"
+ },
+ {
+  "title": "Second-order Divided Difference Filter with Application to Ballistic Target Tracking",
+  "profile_url": "https://ieeexplore.ieee.org/document/4593885/",
+  "doi": "10.1109/WCICA.2008.4593885",
+  "abstract": "In this paper, we propose a second-order divided difference (DD2) filter for ballistic target tracking in the re-entry phase. The DD2 filter linearizes the nonlinear dynamic and measurement functions by using a second-order interpolation formula to approximate the derivatives of nonlinear functions. We compare the new method, extended Kalman filter (EKF) and unscented Kalman filter (UKF) using a Monte Carlo simulation approach. The simulation results show that DD2 filter outperform EKF and UKF in terms of estimation accuracy and filtering credibility. We conclude that the DD2 filter is a strong candidate for the ballistic target tracking problem being studied.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "268"
+ },
+ {
+  "title": "Event-driven dynamic job shop scheduling execution based on improved genetic algorithm and ontology",
+  "profile_url": "https://ieeexplore.ieee.org/document/8243936/",
+  "doi": "10.1109/CAC.2017.8243936",
+  "abstract": "This paper proposes an improved Genetic Algorithm (IGA) - combined with ontology module to solve dynamic job shop scheduling problem (DJSSP). The objective function of this scheduling problem is to minimize a weighted sum method of maximum complete time (makespan) and mean waiting time to periodically plan production. This scheduling method is applied to a flexible manufacturing system. A reschedule strategy is utilized to solve dynamic disturbances happened during manufacturing process. Experimental results show that schedule can be repaired efficiently and correctly without obviously affecting the scheduling performance.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "350"
+ },
+ {
+  "title": "Cost Reduction through SLA-driven Self-Management",
+  "profile_url": "https://ieeexplore.ieee.org/document/6061084/",
+  "doi": "10.1109/ECOWS.2011.23",
+  "abstract": "A main challenge for service providers is managing service-level agreements (SLAs) with their customers while satisfying their business objectives, such as maximizing profits. Most current systems fail to consider business objectives and thus to provide a complete SLA management solution. This work proposes an SLA-driven management solution that aims to maximize the provider's profit by reducing resource costs as well as fines owning to SLA violations. Specifically, this work proposes a framework that comprises multiple, configurable control loops and supports automatically adjusting service configurations and resource usage in order to maintain SLAs in the most cost-effective way. The framework targets services implemented on top of large-scale distributed infrastructures, such as clouds. Experimental results demonstrate its effectiveness in maintaining SLAs while reducing provider costs.",
+  "paper_citation": "5",
+  "patent_citation": "",
+  "full_text_views": "182"
+ },
+ {
+  "title": "Experiences with Online Education During the COVID-19 Pandemic–Stricken Semester",
+  "profile_url": "https://ieeexplore.ieee.org/document/9219045/",
+  "doi": "10.1109/ELMAR49956.2020.9219045",
+  "abstract": "Due to the COVID-19 pandemic that bursted out this year, online education has become a main type of education and an entire education system was forced to make a switch from classrooms to World Wide Web. The impact of the students receiving education online for the entire semester on their final grade was analysed and the results are shown in the paper. These results are obtained by analysing the academic course Mathematical Analysis 2, held online at the Faculty of Electrical Engineering and Computing, University of Zagreb, Croatia, in the summer semester of 2020. Furthermore, the number of views of the lectures in relation to the time left until the final exam was checked in order to investigate the students' studying habits. Unsurprisingly, the most noticeable effect here is the last minute cramming. Nevertheless, the overall results show the pros and cons of online education, as well as the huge potential that online education has, even when performed at the current state.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "1676"
+ },
+ {
+  "title": "C-band wavelength conversion in ultrasmall silicon-on-insulator waveguides",
+  "profile_url": "https://ieeexplore.ieee.org/document/1573163/",
+  "doi": "10.1109/CLEO.2005.202097",
+  "abstract": "We demonstrate four-wave mixing to achieve C-band wavelength conversion in ultrasmall SOI waveguides. This work exploits silicon's large Raman /spl chi//sup (3)/ to further achieve active on-chip functionality. Initial experiments are compared with theoretical calculations.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "35"
+ },
+ {
+  "title": "High performance monolithically integrated InP photoreceivers",
+  "profile_url": "https://ieeexplore.ieee.org/document/328211/",
+  "doi": "10.1109/ICIPRM.1994.328211",
+  "abstract": "Monolithically integrated photoreceivers, which combine InGaAs photodetectors with field-effect- or heterojunction bipolar-transistor preamplifiers on InP substrates achieve high speed and high sensitivities up to the 1 to 10 Gb/s range. They are rapidly becoming the receivers of choice for high performance fiber optical communication at gigabit-rates in the 1.3 to 1.6 micrometer wavelengths range.<\n>",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "24"
+ },
+ {
+  "title": "On the Performance of Network Coding with Protection Cycles",
+  "profile_url": "https://ieeexplore.ieee.org/document/5963305/",
+  "doi": "10.1109/icc.2011.5963305",
+  "abstract": "A meshed network with N transport paths can be effectively protected against single link failures using network coding and protection cycles (p-cycles). This so called 1+N protection scheme provides instantaneous recovery from single link failures. The performance of this scheme has thus far been considered for a network with unit traffic demands, and the reported results were based on simulations. In this paper, we give an analytical upper bound on the required transport capacity for 1+N protection in full-meshed networks with unit traffic demands. Next, we consider networks with uniform and exponentially distributed traffic demands, and derive more realistic bounds for the achievable network performance of 1+N protection in full-meshed networks.We will show analytically that the gains decrease significantly relative to a unit-traffic demand distribution, independent of the protection mechanism used.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "140"
+ },
+ {
+  "title": "A New Slicing Method for AMF Model with Topology Structure",
+  "profile_url": "https://ieeexplore.ieee.org/document/8074453/",
+  "doi": "10.1109/ICESS.2016.19",
+  "abstract": "In this paper, a slicing method for AMF model is proposed. This method combines region growing surface reconstruction with a topology structure slicing method for AMF model. We perform half-edge match in the region growing reconstruction process to obtain the topology structure of the triangular mesh model. Then, the topology relation between adjacent facets is preserved in an AMF file which is extensible, and a slicing process based on these topology information is accomplished. Our method integrates the slicing process of 3D printing with topology structure reconstruction, reducing the deviation brought by step-by-step operations. Compared with the slicing approaches based on STL files, experiments show that our method improves the slicing efficiency without decreasing the accuracy.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "133"
+ },
+ {
+  "title": "RBFNN-Based Fractional-Order Control of High-Speed Train With Uncertain Model and Actuator Failures",
+  "profile_url": "https://ieeexplore.ieee.org/document/8882338/",
+  "doi": "10.1109/TITS.2019.2937203",
+  "abstract": "In this paper, the position/velocity tracking control problem of high speed train(HST) is investigated with considering some inevitable factors such as the input nonlinearity due to different notches of traction/braking forces, aerodynamic resistance, in-train force, external disturbance and unknown actuator failures, which lead to the uncertainty and nonlinearity of HST. Aiming at the system characteristics of HST, a set of integer-order control methods based on the excellent approximation ability of Radial Basis Function Neural Network(RBFNN) are established firstly, and motivated by them, a kind of RBFNN-based fractional-order control methods are proposed by utilizing the genetic attenuation properties of fractional calculus(FC) in order to improve the control performance in the work. It should be pointed out that all the developed methods are able to deal with uncertainties and nonlinearities as well as actuator failures without the need for any “trail and error” process. The feasibility and effectiveness of the proposed control methods are verified by Lyapunov theoretical analysis and numerical simulation studies. Besides, the control performance of integer-order control system and fractional-order control system is compared and analyzed, and the results show that the fractional-order control system is superior.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "362"
+ },
+ {
+  "title": "Investigation of three-phase AC-DC-AC multilevel nine-leg converter",
+  "profile_url": "https://ieeexplore.ieee.org/document/7310492/",
+  "doi": "10.1109/ECCE.2015.7310492",
+  "abstract": "In this paper, a reversible multilevel nine-leg converter for three-phase applications is investigated. This topology can be applied in line voltage regulator, power factor correction (PFC) and uninterrupted power supplies (UPS). It is composed of three single-phase three-leg converters with a leg shared by both load and grid sides. Suitable modelling, a pulse-width modulation (PWM) strategy based on vector approach and a control system are developed. The proposed PWM and control strategies are suitable to balance the DC-link voltages and to optimize of the harmonic distortion, reducing switching stress and power losses. Simulation results are used to compare the studied configuration with a conventional solution in terms of harmonic distortion and semiconductor losses. Experimental results are presented to validate the theoretical considerations and were obtained by using IGBTs with dedicated drives and a digital signal processor (DSP) with appropriated plug-in boards and sensors.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "175"
+ },
+ {
+  "title": "Distributed Classification of Multiple Observation Sets by Consensus",
+  "profile_url": "https://ieeexplore.ieee.org/document/5599901/",
+  "doi": "10.1109/TSP.2010.2086450",
+  "abstract": "We consider the problem of distributed classification of multiple observations of the same object that are collected in an ad hoc network of vision sensors. Assuming that each sensor captures a different observation of the same object, the problem is to classify this object by distributed processing in the network. We present a graph-based problem formulation whose objective function captures the smoothness of candidate labels on the data manifold formed by the observations of the object. We design a distributed average consensus algorithm for estimating the unknown object class by computing the value of the smoothness objective function for different class hypotheses. It initially estimates the objective function locally based on the observation of each sensor. As the distributed consensus algorithm progresses, all observations are gradually taken into account in the estimation of the objective function. We illustrate the performance of the distributed classification algorithm for multiview face recognition in an ad hoc network of vision sensors. When the training set is sufficiently large, the simulation results show that the consensus classification decision is equivalent to the decision of a centralized system that has access to all observations.",
+  "paper_citation": "31",
+  "patent_citation": "",
+  "full_text_views": "1099"
+ },
+ {
+  "title": "A Relevant Analysis of Natural Deduction",
+  "profile_url": "https://ieeexplore.ieee.org/document/8142247/",
+  "doi": "10.1093/logcom/8.6.809",
+  "abstract": "We study a framework, RLF, for defining natural deduction presentations of linear and other relevant logics. RLF consists in a language together, in a manner similar to that of LF, with a representation mechanism. The language of RLF, the λλ\nκ\n-calculus, is a system of first-order linear dependent function types which uses a function κ to describe the degree of sharing of variables between functions and their arguments. The representation mechanism is judgements-as-types, developed for linear and other relevant logics. The λλ\nκ\n-calculus is a conservative extension of the λΠ-calculus and RLF is a conservative extension of LF.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": ""
+ },
+ {
+  "title": "Satellite Data Fusion of Multiple Observed XCO2 using Compressive Sensing and Deep Learning",
+  "profile_url": "https://ieeexplore.ieee.org/document/9323861/",
+  "doi": "10.1109/IGARSS39084.2020.9323861",
+  "abstract": "Providing climate data records to infer seasonal and interannual variations from multiple heterogeneous sources is a challenging data fusion. We combine the Compressive Sensing (CS) and Deep Learning (DL) into a single framework for fusing data from multiple sensors to improve spatial and temporal resolution for long term analysis. CS is used as an initial guess to combine data from multiple sources. DL models, using Long Short-Term Memory Neural Network (LSTM/RNN), Convolutional Neural Network (CNN), refine and further improve the data fusion from CS algorithm's output. The proposed framework has been tested the using daily global observations from two satellites the NASA Orbiting Carbon Observatory-2 (OCO-2) and the JAXA Greenhouse gases from Orbiting Satellites (GOSAT). Our framework achieves lower errors and high correlation compared with the original data. The quality of fused data is evaluated by comparing again AmeriFlux ground station's datasets. Long term trends using fused data over the United States indicate an increase of 8 parts per million (ppm) annually in XCO2 over four years with Root Mean Square Errors of 0.39 ppm and correlation of 0.98 compared with original data. Interannual variability of the seasonal cycle shows an increase in years 2015 - 2017, but a sharp decrease in 2018.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "31"
+ },
+ {
+  "title": "The history of exergames: promotion of exercise and active living through body interaction",
+  "profile_url": "https://ieeexplore.ieee.org/document/7067100/",
+  "doi": "10.1109/SeGAH.2014.7067100",
+  "abstract": "Exergames have become an important allied for many professionals of health field: physiotherapist, physical education teachers, physicians and many others. This new generation of video games has this special name because it combines exercise (with the prefix “exer”) and games. Also, exergames can be used as a resource to support the development of motor skills, promotion of an active living and healthy lifestyle, sports skills learning or simply as a tool to increase caloric expenditure. Indeed, the entertainment features presented as in any other digital game can hold a very important role to make the users more active during their leisure activities, instead of sedentary lifestyle, commonly perceived in the modern society. Within this innovation perspective for video games, this study aims to present the evolution of different interfaces, prototypes and patterns where exergames were designed with the focus on an Active Living development against the typical sedentary style of the former video games in the past. Through the conception of promotion of Exercise in this type of digital games, this paper will also show as results, how conceptions were invented since the decade of 1980 until the current era of exergames.",
+  "paper_citation": "10",
+  "patent_citation": "",
+  "full_text_views": "384"
+ },
+ {
+  "title": "Mathematical Modeling of Driver Speed Control With Individual Differences",
+  "profile_url": "https://ieeexplore.ieee.org/document/6573359/",
+  "doi": "10.1109/TSMC.2013.2256854",
+  "abstract": "The quantitative prediction and understanding of a driver's speed control is an essential component in preventing speeding and designing of vehicle systems. Driver speed control is a complex behavior of longitudinal vehicle control consisting of speed perception, decision making, motor control, vehicle dynamics modeling, and individual driver differences. However, there are few existing models that can integrate all of these aspects in a cohesive manner. To address this problem, this paper introduces a mathematical model for a driver's speed control with analytical solutions based on human cognitive mechanisms in driving. This model includes an integrated queuing network-model human processor structure and the rule-based decision field theory. This new model consequently can predict several aspects of driver speed control behavior at the same time, such as driving speed, throttle/brake pedal angle, acceleration, and the frequency of speedometer inspection. A laboratory session involving a driving simulator is conducted to validate the current model. The model accounted for over 99% of the experimental speed of the average driver, and over 95% of the experimental speed for the majority of individual drivers.",
+  "paper_citation": "19",
+  "patent_citation": "",
+  "full_text_views": "3591"
+ },
+ {
+  "title": "Unbalanced short-circuit calculation by phase coordinates",
+  "profile_url": "https://ieeexplore.ieee.org/document/500821/",
+  "doi": "10.1109/EMPD.1995.500821",
+  "abstract": "This paper demonstrates a direct approach for fault current calculations without using symmetrical components. By representing a polyphase network in phase-coordinates, i.e. phase voltages, currents and impedances, the unbalanced fault currents can also be analyzed and calculated. The proposed approach is direct and can be implemented easily by solving a set of linear system equations. Identical results for both methods are obtained in a sample network. The following faults are analyzed: phase-to-earth with/without impedance; phase-to-phase fault with/without impedance; two-phase-to-earth fault; and a three-phase fault.",
+  "paper_citation": "5",
+  "patent_citation": "",
+  "full_text_views": "321"
+ }
+]

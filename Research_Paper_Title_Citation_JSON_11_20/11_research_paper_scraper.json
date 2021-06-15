@@ -1,0 +1,227 @@
+[
+ {
+  "title": "An architecture and compiler for scalable on-chip communication",
+  "profile_url": "https://ieeexplore.ieee.org/document/1308206/",
+  "doi": "10.1109/TVLSI.2004.830919",
+  "abstract": "A dramatic increase in single chip capacity has led to a revolution in on-chip integration. Design reuse and ease of implementation have became important aspects of the design process. This paper describes a new scalable single-chip communication architecture for heterogeneous resources, adaptive system-on-a-chip (aSOC) and supporting software for application mapping. This architecture exhibits hardware simplicity and optimized support for compile-time scheduled communication. To illustrate the benefits of the architecture, four high-bandwidth signal processing applications including an MPEG-2 video encoder and a Doppler radar processor have been mapped to a prototype aSOC device using our design mapping technology. Through experimentation it is shown that aSOC communication outperforms a hierarchical bus-based system-on-chip (SoC) approach by up to a factor of five. A VLSI implementation of the communication architecture indicates clock rates of 400 MHz in 0.18-/spl mu/m technology for sustained on-chip communication. In comparison to previously-published results for an MPEG-2 decoder, our on-chip interconnect shows a runtime improvement of over a factor of four.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "596"
+ },
+ {
+  "title": "Operational Research in Multi Space Debris Removal Using Space Maneuver Vehicle",
+  "profile_url": "https://ieeexplore.ieee.org/document/8623496/",
+  "doi": "10.1109/CAC.2018.8623496",
+  "abstract": "This paper investigates the operational research in active debris removal and focuses on the orbit control in multi debris removal. Far-range trajectory is the crucial phase which guides chaser to proximity of target debris in sequence and provides precondition for further rendezvous control. Far-range trajectory can be divided into two modes depending on velocity requirement at the engagement instant. A novel mode, fly-by trajectory, is firstly proposed for far-range trajectory control corresponding to debris capture by compact with whipple material. Compared with general rendezvous and capture mode, there is no requirement on relative velocity in fly-by mode. At last, hybrid optimization algorithm is applied to far-range trajectory optimization based on multi-revolution Lambert algorithm. Simulations are conducted with three scenarios to illustrate effectiveness of proposed concept. This paper summarizes relevant work in this field and presents our new research in far-range orbit control.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "110"
+ },
+ {
+  "title": "A study of lead-acid battery efficiency near top-of-charge and the impact on PV system design",
+  "profile_url": "https://ieeexplore.ieee.org/document/564417/",
+  "doi": "10.1109/PVSC.1996.564417",
+  "abstract": "Knowledge of the charge efficiency of Pb-acid batteries near top-of-charge is important to the design of small PV power systems. In order to know how much energy is required from the photovoltaic array in order to accomplish the task of meeting load, including periodic full battery charge, a detailed knowledge of the battery charging efficiency as a function of state of charge is required, particularly in the high state-of-charge regime, as PV power systems are typically designed to operate in the upper 20 to 30% of battery state-of-charge. This paper presents the results of a process for determining battery charging efficiency near top-of-charge and discusses the impact of these findings on the design of small PV power systems.",
+  "paper_citation": "37",
+  "patent_citation": "",
+  "full_text_views": "1280"
+ },
+ {
+  "title": "Mapping by adaptive threshold method for dimension reduction of content-based indexing and retrieval features",
+  "profile_url": "https://ieeexplore.ieee.org/document/7078478/",
+  "doi": "",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "20"
+ },
+ {
+  "title": "S-Learning: A Biomimetic Algorithm for Learning, Memory, and Control in Robots",
+  "profile_url": "https://ieeexplore.ieee.org/document/4227239/",
+  "doi": "10.1109/CNE.2007.369634",
+  "abstract": "S-learning is a sequence-based learning algorithm patterned on human motor behavior. Discrete-time and quantized sensory information is amassed in real-time to form a dynamic model of the system being controlled and its environment. No explicit model is provided a priori, nor any hint about what the structure of the model might be. As the core of a Brain-Emulating Cognition and Control Architecture (BECCA), S-Learning provides a mechanism for human-inspired learning, memory, and control in machines. In a simulation of a point-to-point reaching task, S-Learning demonstrates several attributes of human motor behavior, including learning through exploration and task transfer.",
+  "paper_citation": "5",
+  "patent_citation": "",
+  "full_text_views": "94"
+ },
+ {
+  "title": "Screening (Shielding) Effect of a Chaff Cloud",
+  "profile_url": "https://ieeexplore.ieee.org/document/5408853/",
+  "doi": "10.1109/TAES.1967.5408853",
+  "abstract": "",
+  "paper_citation": "8",
+  "patent_citation": "",
+  "full_text_views": "191"
+ },
+ {
+  "title": "Social Action in Socially Situated Agents",
+  "profile_url": "https://ieeexplore.ieee.org/document/8780530/",
+  "doi": "10.1109/SASO.2019.00021",
+  "abstract": "Two systems pursuing their own goals in a shared world can interact in ways that are not so explicit - such that the presence of another system alone can interfere with how one is able to achieve its own goals. Drawing inspiration from human psychology and the theory of social action, we propose the notion of employing social action in socially situated agents as a means of alleviating interference in interacting systems. Here we demonstrate that these specific issues of behavioural and evolutionary instability caused by the unintended consequences of interactions can be addressed with agents capable of a fusion of goal-rationality and traditional action, resulting in a stable society capable of achieving goals during the course of evolution.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "134"
+ },
+ {
+  "title": "Novel Audio Features for Music Emotion Recognition",
+  "profile_url": "https://ieeexplore.ieee.org/document/8327886/",
+  "doi": "10.1109/TAFFC.2018.2820691",
+  "abstract": "This work advances the music emotion recognition state-of-the-art by proposing novel emotionally-relevant audio features. We reviewed the existing audio features implemented in well-known frameworks and their relationships with the eight commonly defined musical concepts. This knowledge helped uncover musical concepts lacking computational extractors, to which we propose algorithms - namely related with musical texture and expressive techniques. To evaluate our work, we created a public dataset of 900 audio clips, with subjective annotations following Russell's emotion quadrants. The existent audio features (baseline) and the proposed features (novel) were tested using 20 repetitions of 10-fold cross-validation. Adding the proposed features improved the F1-score to 76.4 percent (by 9 percent), when compared to a similar number of baseline-only features. Moreover, analysing the features relevance and results uncovered interesting relations, namely the weight of specific features and musical concepts to each emotion quadrant, and warrant promising new directions for future research in the field of music emotion recognition, interactive media, and novel music interfaces.",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "1311"
+ },
+ {
+  "title": "Different PWM modulation techniques indexes performance evaluation",
+  "profile_url": "https://ieeexplore.ieee.org/document/268807/",
+  "doi": "10.1109/ISIE.1993.268807",
+  "abstract": "Fully digital AC drives with pulse width modulated inverters are becoming an industrial standard. For PWM inverters several strategies are used. A complete view of the most common carrier based strategies, as sinusoidal PWM, third harmonic injected PWM, discontinuous or dead band PWM and space vector PWM is presented. The authors propose a method based on 'quality factors' to evaluate the different types of modulation.<\n>",
+  "paper_citation": "8",
+  "patent_citation": "",
+  "full_text_views": "518"
+ },
+ {
+  "title": "Implementation of normalization covariance factor calculation technique to detect mechanical deformation in power transformer",
+  "profile_url": "https://ieeexplore.ieee.org/document/6471551/",
+  "doi": "10.1109/ICECE.2012.6471551",
+  "abstract": "Sweep Frequency Response Analysis (SFRA) is an effective low-voltage, off-line diagnostic tool used to find out any possible winding displacement or mechanical deterioration inside the Transformer, due to large electromechanical forces occurring from the fault currents or due to Transformer transportation and relocation. SFRA curves are considered as finger prints of a transformer. In this method, the frequency response of a transformer is taken both at manufacturing industry and concern site. Then both the response is compared to predict the fault taken place in active part. Cross Correlation Co-efficient is the most popular parameter for this comparison. But Normalization Covariance Factor can also be an effective indicator to interpret SFRA curves. In this paper, with a small discussion on SFRA technique and Normalization Covariance Factor, the effectiveness of Normalization Covariance Factor for fault detection has been represented through several case studies.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "185"
+ },
+ {
+  "title": "The wear characteristics on bearing outer ring of planetary gear in conflux planet gear train of power-shift steering transmission",
+  "profile_url": "https://ieeexplore.ieee.org/document/5979461/",
+  "doi": "10.1109/ICRMS.2011.5979461",
+  "abstract": "Aimed at the bearing outer ring of planetary gear in planetary transmission, the failure mechanism of wear between the planet gear bearing and thrust washer was investigated. The reasons for its failure and ways to reduce wear were also studied. A typical wear failure of bearing outer ring was analyzed in terms of the morphology observation with scanning electron microscopy (SEM), the metallographic analysis on radial cross section and microhardness testing. Through the comprehensive analysis of metallographic structure and microhardness, the temperature distribution of bearing outer ring was obtained. The results showed that the adhesive wear was the main wear type for thrust washer while the fatigue wear was a small part; a great axial force existed in the working mechanism, which lead to big contact stress and speed up wear; the high temperature on the friction surface could reach about 700°C and cause the tempering process in the material; Inadequate cooling effect due to lack of lubrication oil may be another main reason for the high temperature caused by wear.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "243"
+ },
+ {
+  "title": "Location Based Services and Information Privacy Concerns among Literate and Semi-literate Users",
+  "profile_url": "https://ieeexplore.ieee.org/document/6758998/",
+  "doi": "10.1109/HICSS.2014.394",
+  "abstract": "Location-based services mobile applications are becoming increasingly prevalent to the large population of semi-literate users living in emerging economies due to the low costs and ubiquity. However, usage of location-based services is still threatened by information privacy concerns. Studies typically only addressed how to mitigate information privacy concerns for the literate users and not the semi-literate users. To fill that gap and better understand information privacy concerns among different communities, this study draws upon theories of perceptual control and familiarity to identify the antecedents of information privacy concerns related to location-based service and user literacy. The proposed research model is empirically tested in a laboratory experiment. The findings show that the two location-based service channels (push and pull) affect the degree of information privacy concerns between the literate and semi-literate users. Implications for enhancing usage intentions and mitigating information privacy concerns for different types of mobile applications are discussed.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "466"
+ },
+ {
+  "title": "Study on the Calculation Strategies of Ionospheric Scintillation Index ROTI from GPS",
+  "profile_url": "https://ieeexplore.ieee.org/document/8898494/",
+  "doi": "10.1109/IGARSS.2019.8898494",
+  "abstract": "Ionospheric irregularities which is related with irregular plasma or density variations in the ionosphere can cause rapid fluctuations in amplitude and phase of Global Navigation Satellite Systems (GNSS) signals. In order to get a better strategy for ionospheric scintillation monitoring with GNSS observations, in this article, we studied the capability of ROTI (Rate of TEC Index) from different calculation strategies in reflecting the ionospheric scintillation by comparing their correlation with amplitude scintillation index in low-latitude region of China with the data from CMONOC (Crustal Movement Observation Network of China). The results indicate that various samplings all can show strong consistency with scintillation index S4 in overall and higher samplings is followed with higher correlations with S4. The contribution of calculation time interval of ROTI to the correlation with S4 depends on sampling rate. The analysis also indicates that the curve of ROTI tends to be more smooth as the time interval of calculation of ROTI increases and the ROTI in shorter time interval of calculation, e.g., 1 minute, can reveal more details compared with the curve of scintillation indices. Moreover, the ROTI maps retrieved from CMONOC can reflect the temporal and spatial evolution of ionospheric irregularities in the region of China, which is helpful to provide warning for GNSS users.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "98"
+ },
+ {
+  "title": "Range sidelobes reduction filters for WiFi-based passive bistatic radar",
+  "profile_url": "https://ieeexplore.ieee.org/document/5307164/",
+  "doi": "",
+  "abstract": "",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "485"
+ },
+ {
+  "title": "Frequency Interpolation of Jones Matrices",
+  "profile_url": "https://ieeexplore.ieee.org/document/4162572/",
+  "doi": "10.1109/LPT.2007.895052",
+  "abstract": "We estimate the frequency-dependence of the Jones matrix of an optical fiber from its values at several discrete optical frequencies and illustrate our procedures through calculations of higher order polarization-mode dispersion effects in optical fibers",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "80"
+ },
+ {
+  "title": "Design of SNACK mechanism for wireless TCP with new snoop",
+  "profile_url": "https://ieeexplore.ieee.org/document/1311333/",
+  "doi": "10.1109/WCNC.2004.1311333",
+  "abstract": "TCP is the most widely adopted transport layer communication protocol. In heterogeneous wired/wireless networks, however, the high packet loss rate over wireless links can trigger unnecessary execution of TCP congestion control algorithms, resulting in performance degradation. TCP performs poorly on wireless links with bursty losses, when it is forced to rely on limited information available from batched acknowledgements, (i.e., multiple packets are acknowledged with one acknowledgment packet). In this paper, a selective negative acknowledgement (SNACK) mechanism is designed to overcome the limitation of batched acknowledgments. A new link layer retransmission protocol, called, SNACK-NS (new snoop), is proposed. Through the detection and retransmission functions that are provided by the two protocol components of SNACK-NS, namely, SNACK-snoop and SNACK-TCP, the transmission performance of TCP over wireless network is greatly enhanced in both fixed host (FH) to mobile host (MH) and MH to FH transmissions.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "169"
+ },
+ {
+  "title": "Fast 2D Convolution Algorithms for Convolutional Neural Networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/8966288/",
+  "doi": "10.1109/TCSI.2020.2964748",
+  "abstract": "Convolutional Neural Networks (CNN) are widely used in different artificial intelligence (AI) applications. Major part of the computation of a CNN involves 2D convolution. In this paper, we propose novel fast convolution algorithms for both 1D and 2D to remove the redundant multiplication operations in convolution computations at the cost of controlled increase of addition operations. For example, when the 2D processing block size is 3×3, our algorithm has multiplication saving factor as high as 3.24, compared to direct 2D convolution computation scheme. The proposed algorithm can also process input feature maps and generate output feature maps with the same flexible block sizes that are independent of convolution weight kernel size. The memory access efficiency is also largely improved by the proposed method. These structures can be applied to different CNN layers, such as convolution with stride > 1, pooling and deconvolution by exploring flexible feature map processing tile sizes. The proposed algorithm is suitable for both software and hardware implementation.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "1113"
+ },
+ {
+  "title": "Structural and Electrical Characteristics of $ \\hbox{Lu}_{2}\\hbox{O}_{3}$ Dielectric Embedded MIM Capacitors for Analog IC Applications",
+  "profile_url": "https://ieeexplore.ieee.org/document/6175941/",
+  "doi": "10.1109/TED.2012.2189862",
+  "abstract": "In this study, we develop a high-performance metal-insulator-metal (MIM) capacitor using a high- \nk\n Lu\n2\n O\n3\n amorphous film for radio-frequency and mixed-signal applications. The Ni/ Lu\n2\nO\n3\n/TaN capacitor exhibited a high capacitance density, a low leakage-current density, and a relatively low quadratic voltage coefficient of capacitance. The leakage current at the low electric field (<; 1.4 MV/cm) was dominated by the Schottky emission, whereas the Poole-Frenkel effect plays in the high electric field. In addition, the effects of constant voltage stress on leakage current and voltage linearity were comprehensively investigated, and excellent device reliability was also demonstrated. The Ni/ Lu\n2\nO\n3\n/TaN MIM capacitor appears to be very promising for future IC technologies.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "461"
+ },
+ {
+  "title": "Tele-operated trajectory tracking of differential drive wheeled mobile robot using haptic robot",
+  "profile_url": "https://ieeexplore.ieee.org/document/8226197/",
+  "doi": "10.1109/I2CT.2017.8226197",
+  "abstract": "Tele-operation is a kind of semi-autonomous system, with the objective of allowing human to control a device in remote location. This paper proposes such a system implemented with Omni Bundle haptic device and Q-Bot 2 Mobile Robot platforms connected in a master-slave configuration respectively. The paper also provides modelling, trajectory tracking controller for both robots and communication algorithm that takes place between them, in real time with experimental results.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "240"
+ },
+ {
+  "title": "KBMS support for conceptual modeling in AI",
+  "profile_url": "https://ieeexplore.ieee.org/document/167118/",
+  "doi": "10.1109/TAI.1991.167118",
+  "abstract": "A connection between a world model about typing concepts of programming languages and an application domain model is outlined in order to conveniently generate a conceptual knowledge-base management system (KBMS) scheme for AI applications. The world model is defined in terms of a knowledge representation language and shall be incorporated into an interoperability supporting KBMS object manager. The application domain model is modeled in the same knowledge representation language. Their linkage results in a convenient generation of a conceptual KBMS schema for applications of the modeled domain. These applications can be written in different application languages and are allowed to share their individual KBMS schemata generated from the conceptual one.<\n>",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "13"
+ },
+ {
+  "title": "Event-Based  $H_{\\infty}$  Fault Detection for Buck Converter With Multiplicative Noises Over Network",
+  "profile_url": "https://ieeexplore.ieee.org/document/8620508/",
+  "doi": "10.1109/TCSI.2018.2890527",
+  "abstract": "This paper deals with the H\n∞\n fault detection (FD) problem for a class of buck converter with the transmissioninduced multiplicative noises and the event-triggered scheme under the network environment. The model of buck converter is approximated by a nonlinear model, and it is further analyzed based on the electricity knowledge. Due to the dynamic characteristics of network transmission, multiplicative noises need to be considered, which are described as a product of some uncorrelated standardized normal distribution and the transmitted signal. Meanwhile, an event-triggered mechanism is utilized for the purpose of reducing the energy consumption, and an FD observer is designed to detect the fault presented in buck converter. Some novel sufficient conditions are given in terms of linear matrix inequalities to guarantee the robust stability of the FD system, and the H\n∞\n optimal fault tracking performance index is also achieved. Finally, an illustrative example is provided to show the validity and merit of the proposed method.",
+  "paper_citation": "8",
+  "patent_citation": "",
+  "full_text_views": "584"
+ },
+ {
+  "title": "Exploiting Behavior Models for Availability Analysis of Interactive Systems",
+  "profile_url": "https://ieeexplore.ieee.org/document/6983826/",
+  "doi": "10.1109/ISSREW.2014.11",
+  "abstract": "We propose an approach for availability analysis that directly utilizes behavior models as they occur in model-based development. The main benefits of our approach are reduced effort as no dedicated availability models need to be created as well as precise results due to the inclusion of behavior interactions.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "19"
+ },
+ {
+  "title": "Runtime verification of declassification for imperative programs: Formal foundations",
+  "profile_url": "https://ieeexplore.ieee.org/document/5411980/",
+  "doi": "10.1109/CRISIS.2009.5411980",
+  "abstract": "Declassification is required for most programs which manipulate protected data to process their results. In highly-secure programs, the declassification decision must be taken explicitly, which means that data or operations which are being declassified are known. This decision is critical and must be supported by automated verifications, which determine the risk of information leakage related to a given declassification. Currently, the available techniques are based on static analysis, which perform an over-approximation of this risk. In this paper, we study how dynamic approaches can perform more precise analysis on what is declassified and where, and finally ensure the security property, which allows declassification, at runtime. The notion of dynamic analysis w.r.t. to non-leakage properties is studied from a theoretical point of view and this proof of concept is illustrated using a ¿While¿ language.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "33"
+ },
+ {
+  "title": "Research on Time-varying Sparse Channel Prediction Algorithm in Underwater Acoustic Channels",
+  "profile_url": "https://ieeexplore.ieee.org/document/9094974/",
+  "doi": "10.1109/EITCE47263.2019.9094974",
+  "abstract": "The adaptive modulation can improve the reliability of the underwater acoustic (UWA) communication systems. However, the large propagation delay of the UWA channel causes a lag of the channel state information (CSI) feedback. In order to overcome this problem, this paper studies the prediction algorithm of UWA time-varying sparse channel based on orthogonal frequency division multiplexing (OFDM) communication system/ The prediction is divided into two parts: prediction of channel amplitude gain and prediction of multipath delay, based on recursive least squares (RLS) algorithm To verify the performance of the prediction algorithm, the data of the sea experiment done in the South China Sea in 2014 was used for analysis. The results prove the feasibility of time-varying sparse channel prediction and the advantage of the prediction algorithm compared to the original algorithm.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "142"
+ },
+ {
+  "title": "Compact, widely tunable, half-lambda YIG oscillator",
+  "profile_url": "https://ieeexplore.ieee.org/document/6243735/",
+  "doi": "10.1109/FCS.2012.6243735",
+  "abstract": "We demonstrate a new YIG-tuned oscillator (YTO) design based on a planar YIG resonator that supports half-lambda standing spin wave. The fabricated YTO, with a compact size of 6 cm × 5 cm × 4 cm, has an octave tuning range of 2-4 GHz and -100 dBc/Hz phase noise measured at 10 kHz offset from a 3-GHz carrier. The planar YIG geometry makes the YTO design more cost-effective than the YIG-sphere-based YTOs, but with comparable performance.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "361"
+ }
+]

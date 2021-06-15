@@ -1,0 +1,227 @@
+[
+ {
+  "title": "Classification of Gerbera Type Flowers Based in Decision Tree Rules",
+  "profile_url": "https://ieeexplore.ieee.org/document/8730221/",
+  "doi": "10.1109/STSIVA.2019.8730221",
+  "abstract": "In this work, a 4 Gerbera flowers subtypes are classified according to their color components in petals and in the center. We proposed first the preprocessing of each image acquired in real scenario, the preprocessing is realized in two steps, the first is to crop each flower to create a database with the tag of each subtype, the second consist in removing the background using color space transformation to Hue and filter the image according to some specific values. With all the images a decision tree is created with the 70% of the images in each category, the first rule consists of identify the highest value in the histogram, if this value corresponds to green range or orange range the classification is done, nevertheless if the value corresponds to pink, the enclosing circles are estimated, then the color into the smallest circles defined the classification. The evaluation is performed using the last 30% of the images in each category, the classification will be positive if the correct subtype is predicted, if not the classification will be negative, nevertheless the classifier could predict no class based on any existence of the flower, or different flower, in this case if non-class is predicted over a different flower the classification will be positive, if not the classification will be negative. The results obtained in each category are showed in the next list, first is the name of each subtype, followed by the percentage of positive classifications. Gerbera Renato (95%), Gerbera Marinilla (99%), Gerbera Chiper (85%), Gerbera Rio Negro (78%), None/Different (74%).",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "148"
+ },
+ {
+  "title": "Circuit based quantification: back to state set manipulation within unbounded model checking",
+  "profile_url": "https://ieeexplore.ieee.org/document/1395656/",
+  "doi": "10.1109/DATE.2005.93",
+  "abstract": "A non-canonical circuit-based state set representation is used to perform quantifier elimination efficiently. The novelty of this approach lies in adapting equivalence checking and logic synthesis techniques to the goal of compacting circuit based state set representations resulting from existential quantification. The method can be efficiently combined with other verification approaches such as inductive and SAT-based pre-image verifications.",
+  "paper_citation": "8",
+  "patent_citation": "",
+  "full_text_views": "27"
+ },
+ {
+  "title": "ArcGIS Based Visualization Tool for Assessment of Earthquakes Impact",
+  "profile_url": "https://ieeexplore.ieee.org/document/7185203/",
+  "doi": "10.1109/CISIS.2015.43",
+  "abstract": "Earthquake visualization is important in order to analyze the dynamics of the Earth's crust. It reveals the tectonic plates and also, with the timeline option correctly set, it can show the continental drift. This paper presents an application developed based on ArcGIS maps and Java SDK for visualization of the biggest earthquakes in the last five years (2010-2015) respectively JFree Chart for generating charts over the selected data.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "116"
+ },
+ {
+  "title": "Engaging students through practitioner-centered software engineering",
+  "profile_url": "https://ieeexplore.ieee.org/document/7132985/",
+  "doi": "10.1109/SECON.2015.7132985",
+  "abstract": "This paper presents an experience in designing and implementing a practitioner-centered software engineering based learning model for an undergraduate software engineering course. Practitioner-centered software engineering is a one-person process developed specifically to apply cutting-edge industry techniques at each point in the software lifecycle. Usage of this model helps software engineers make accurate plans, consistently meet commitments, improve quality, predictability, productivity, and customer satisfaction, and deliver high-quality products. Using this model, students experience a software development effort from inception to final delivery. We describe the design and implementation of a practitioner-centered software engineering model for undergraduate software engineering course.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "128"
+ },
+ {
+  "title": "Educational Initiatives to Retain Hispanic/Latinx Students in Computing: A Systematic Literature Mapping",
+  "profile_url": "https://ieeexplore.ieee.org/document/9272481/",
+  "doi": "10.1109/RESPECT49803.2020.9272481",
+  "abstract": "Diversity in Computer Science and Engineering (CSE) majors has been a challenge in the US. Women, Hispanic/Latinx, Black/African American, and Native American students are minorities in CSE majors. Most universities and organizations have worked on outreach activities to these underrepresented minorities (URM). In this context, this paper presents a systematic literature mapping on educational initiatives in higher education for retention of Hispanic/Latinx students in CSE majors reported in the last ten years (2009-2018). The methodology was based on a systematic literature review protocol using four academic databases: Scopus, Web of Science, ACM Digital Library and IEEE Xplore. We found 76 papers about educational initiatives in CSE majors to retain URM students that include Hispanic/Latinx students. We classify the papers to get relevant information about institutions, type of educational initiatives, main conferences, and present these findings in this paper.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "41"
+ },
+ {
+  "title": "Multi-overlapped based global registration of UAV images",
+  "profile_url": "https://ieeexplore.ieee.org/document/6421242/",
+  "doi": "10.1109/CVRS.2012.6421242",
+  "abstract": "A new global registration method based on multi-image matching is proposed for image mosaic. In this study a manifold learning algorithm is first used to obtain multi-images matching results, on which a globally mosaic image coordinate system is then iteratively achieved and utilized to calculate global registration parameters of each image. Testing results indicate that the proposed method has a higher performance than traditional frame-to-frame registration methods in the error accumulation and registration accuracy of mosaic images.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "158"
+ },
+ {
+  "title": "Remote access laboratory for analog and digital electronic course",
+  "profile_url": "https://ieeexplore.ieee.org/document/5929152/",
+  "doi": "10.1109/EUROCON.2011.5929152",
+  "abstract": "This paper examines principles of creating automated remote access laboratories for laboratory works installation using Internet network. It describes remote access laboratory for Electronic course.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "76"
+ },
+ {
+  "title": "Aging effect on leakage current flow in wooden poles",
+  "profile_url": "https://ieeexplore.ieee.org/document/4784560/",
+  "doi": "10.1109/TDEI.2009.4784560",
+  "abstract": "Insulation degradation leading to leakage current flow through high voltage insulators could result in catastrophic failures such as pole fires and damages to nearby equipment. This paper examines the leakage current distribution originating from the high voltage conductor to various locations through the wooden pole of various age profiles. The specimens that are investigated in this paper range from a new sample to an aged pole sample of more than 20 years in service. The main results show that the aging effect on the wooden pole has great effect on the wood resistance. The decaying of the wood reduces the wood resistance and thus increases the leakage current. Thermal images showing heating of the king bolt due to leakage currents are also presented.",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "372"
+ },
+ {
+  "title": "A Framework for the Generation of Obstacle Data for the Study of Obstacle Detection by Ultrasonic Sensors",
+  "profile_url": "https://ieeexplore.ieee.org/document/9340275/",
+  "doi": "10.1109/JSEN.2021.3055515",
+  "abstract": "In addition to numerous problems faced by the Visually Impaired persons, navigation through the outdoor environment is one of them, as the terrain is unknown with surfaces filled with obstacles of different heights. Several Electronic Travel Aids are proposed in the literature, and the methodology is evaluated by placing different types of the obstacle, traveling through them blindfolded, and counting the number of times obstacles are detected or not by the system. In our view, this approach helps little for further advancing the current system as the experimental scenario is not repeatable entirely and makes it difficult to compare new research findings with any existing one. We therefore, present a model inspired by the real world settings for detecting low-lying obstacles, considering few assumptions and constraints. The simulations are also proposed based on the model to generate obstacle data any number of time. Furthermore, to validate our model and simulations, field experiments are conducted, and the results obtained are compared with the simulation result. The evaluation parameter in terms of standard deviation, accuracy, false positive, errors encountered suggest that the proposed model and simulations effectively encapsulates the real-world parameters and thus can be explored and utilized further by the research community.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "185"
+ },
+ {
+  "title": "LR based pre-coding aided spatial modulation with sub-optimal detection for V2X communications",
+  "profile_url": "https://ieeexplore.ieee.org/document/8108094/",
+  "doi": "10.1109/ISWCS.2017.8108094",
+  "abstract": "In this manuscript, a novel transmit pre-coding matrix generation method and a linear decoding scheme are proposed for the generalised pre-coding aided spatial modulation (GPSM) system. The GPSM scheme proposed recently is a new multiple input multiple output (MIMO) transmission technique, which conveys information by activating a subset of receive antennas with the aid of transmit pre-coding. This scheme seems to be suitable in V2X since the base station only transmits data to certain users/vehicles. The proposed pre-coding matrix is based on the lattice reduction (LR) principle and provides significant performance improvement over the original pre-coding design in GPSM. Furthermore, as the GPSM in large-scale antenna systems, which is a trend in future communication systems, might be too complex to be implemented with the maximum likelihood (ML) detection, a linear decoding method is proposed to reduce the implementation complexity. Our studies show that the performance degradation caused by the linear detector can be compensated by the proposed LR based pre-coding. As a result, the LR based GPSM with linear detection is capable of achieving the comparable performance as that of the original GPSM scheme employing ML detection, while with significantly decreased detection complexity.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "174"
+ },
+ {
+  "title": "Development and performance of an L-band phased array antenna for mobile satellite communications",
+  "profile_url": "https://ieeexplore.ieee.org/document/789106/",
+  "doi": "10.1109/APS.1999.789106",
+  "abstract": "The previous years have witnessed an introduction of a large number of mobile satellite (MSS) communications systems. These include a global GEO MSS system, Inmarsat, and domestic GEO MSS systems such as North-American AMSC, Japan's N-Star and the Australian Mobilesat. At present, two types of antennas can be used to access GEO MSS services. They include (1) fixed position antennas, which are used with portable transceivers; and (2) fully mobile antennas such as those installed on a land vehicle. The fixed position antennas are relatively easy to design, as they have to meet a moderate (approximately 7%) operational bandwidth and a medium (about 10 dBi) gain. There are a number of complete portable systems in the commercial market that include both a transceiver and an antenna. One inconvenience of portable systems is that they require the user be stationary with respect to the ground. This inconvenience can be overcome with a mobile antenna system. The design of such a system is more challenging as new features associated with mobility have to be incorporated. This paper presents the development and performance of a circular phased array antenna for land vehicle mobile satellite communications. This antenna is specifically aimed for use with the Australian MSS, Mobilesat. However, it can easily be modified for use with the other L-band GEO MSS systems.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "229"
+ },
+ {
+  "title": "Generalized Singular Value Decomposition for Coordinated Beamforming in MIMO Systems",
+  "profile_url": "https://ieeexplore.ieee.org/document/5684109/",
+  "doi": "10.1109/GLOCOM.2010.5684109",
+  "abstract": "In this paper we examine the use of generalized singular value decomposition (GSVD) for coordinated beamforming in MIMO systems. GSVD facilitates joint decomposition of a class of matrices arising inherently in source-to-2 destination MIMO broadcast scenarios. GSVD allows two channels of suitable dimensionality to be jointly diagonalized, i.e. to be reduced to non-interfering virtual broadcast channels, through the use of jointly determined transmit precoding and receiver reconstruction matrices. Potential applications for GSVD-based beamforming can be found in MIMO broadcasting, as well as in MIMO relaying under all amplify-and-forward, decode-and-forward, and code-and-forward relay processing schemes. Several of them are highlighted here. We also present simulation-based performance analysis results to justify the use of GSVD for coordinated beamforming.",
+  "paper_citation": "10",
+  "patent_citation": "",
+  "full_text_views": "802"
+ },
+ {
+  "title": "Defining A Distribution System for Computer-Controlled Distribution Automation",
+  "profile_url": "https://ieeexplore.ieee.org/document/4112263/",
+  "doi": "10.1109/TPAS.1983.317671",
+  "abstract": "For the purpose of implementing computer-based distribution automation, the electrical distribution system to which it is applied must be defined in digital terms for development of an accurate data base and correct and efficient control functions. This paper describes the method used in a current Ontario Hydro project, employing modular elements for system description. This is seen as one of the approaches which might lead to eventual standardization of digital representation of distribution systems and operating software for this purpose.",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "65"
+ },
+ {
+  "title": "Derivation of an Acoustic Two-Port Scattering Matrix for a Multimode Wave Applying the Single-Mode Generator",
+  "profile_url": "https://ieeexplore.ieee.org/document/8502405/",
+  "doi": "10.1109/ACOUSTICS.2018.8502405",
+  "abstract": "The paper presents the procedure of experimental derivation of an acoustic two-port scattering matrix for a multimode wave propagating, for example, in a muffler of a complicated design, applying the single-mode generator. The self-designed single-mode generator is constructed in the form of a matrix of acoustic monopoles and is capable to generate a selected single mode. The scattering matrix formalism is a new approach to analyse the acoustical systems containing one or more duct-like elements (joints) connected by some undefined elements such as, for example, acoustic mufflers of different types and so the formalism is frequently applied to analyse the phenomena of noise reduction in such systems. Experimental derivation of the scattering matrix for a wave composed of N modes demands, in general, excitation of N different sound fields at each side of the two-port first. Finally the matrix composed of the modal pressures measurements obtained for each of the exited fields must be inversed to obtain the scattering matrix. Generating single N modes the matrix of the incoming pressure data is, theoretically, diagonal which makes derivation of the scattering matrix much easier. Generation of independent sound fields in the shape of single modes ensures the matrix to be well conditioned.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "97"
+ },
+ {
+  "title": "A radio-controlled receiver for clocks/watches and alarm applications",
+  "profile_url": "https://ieeexplore.ieee.org/document/6865723/",
+  "doi": "10.1109/ISCAS.2014.6865723",
+  "abstract": "This paper presents a radio-controlled clock/alarm (RCC) receiver. The proposed RCC receiver adopts a signal transmitted technique via amplitude modulation (AM) principle. This I/Q DPS adopts a multi-phase sampled technique using a multi-phase ring oscillator. The decoding circuit can amplify the input signal and filter the noise signal to achieve high quality signal source. The low noise amplifier (LNA) circuit can receive the smaller input power. The operational frequency of all-digital clock generator (ADCG) is programmable for the broadcast frequency of local communication systems, such as the DCF77 (Germany), WWVB (US), JJY (Japan), BPC (CN), and MSF (UK). The digital loop filter of ADCG adopts a successive-approximation register (SAR) algorithm for fast locking time. This RCC receiver is implemented in a 0.18 um CMOS process and the core area of RCC receiver is 1152 × 1572 μm\n2\n. The accuracies of operational frequencies of ADCG are less than ±264 ppm for all radio broadcasting frequencies. The voltage gain of LNA is 24.44 dB to achieve the lower input power. The measured environment of clock/alarm application is set and verified for the test chip of RCC receiver.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "252"
+ },
+ {
+  "title": "Development of a multidisciplinary design course via NASA's Human-Powered Lunar Rover Design Competition",
+  "profile_url": "https://ieeexplore.ieee.org/document/736888/",
+  "doi": "10.1109/FIE.1998.736888",
+  "abstract": "A new multidisciplinary design course was developed at the University of Tennessee in the 1996-1997 academic year. Although NASA's Human-Powered Lunar Rover Design Competition was used as the \"vehicle\" for the course development, the main impetus was to provide a true multidisciplinary design experience for both engineering and nonengineering students. Groups of students from the different majors were formed to design and analyze major components of the Lunar Rover. Teamwork within and between the groups was emphasized since the various components had to be integrated to form the final design. An interesting aspect of the course was to treat the two human drivers as one of the major components. This resulted in a complete engineering analysis of the performance characteristics of the students to determine the best choice of drivers (i.e., \"engines\"). To enhance the multidisciplinary experience, technical assistance and/or financial support was provided by the Mechanical and Aerospace Engineering and Engineering Science Department as well as the Geology and Exercise Science Departments. The students completed the design, built the rover, and successfully participated in the NASA sponsored competition. Despite an initial hesitance to work with students outside their major, the class came together as a team. The course objectives and structure, results of the design process and competition, lessons learned, and future course developments are discussed in this paper.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "52"
+ },
+ {
+  "title": "Enhanced Direct Torque Control for Doubly Fed Induction Machine by Active Learning Method",
+  "profile_url": "https://ieeexplore.ieee.org/document/6125632/",
+  "doi": "",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "142"
+ },
+ {
+  "title": "Simulate the State Changing of a Descriptor System in (Almost) Zero Time Using the Normal Probability Distribution",
+  "profile_url": "https://ieeexplore.ieee.org/document/4488950/",
+  "doi": "10.1109/UKSIM.2008.116",
+  "abstract": "In number of control applications, the ability of manipulate the state vector from the input is more than vital. Thus, in the present paper, we develop analytically a methodology for the state changing of a linear control descriptor differential system based also on a linear combination of Dirac δ-function and its derivatives. Using linear algebra techniques and the generalized inverse theory, the input’s coefficients are determined. In our practical numerical application, the Dirac distribution is approximated by the normal probability distribution.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "36"
+ },
+ {
+  "title": "Towards personalized video summarization using synchronized comments and Probabilistic Latent Semantic Analysis",
+  "profile_url": "https://ieeexplore.ieee.org/document/7031296/",
+  "doi": "10.1109/GCCE.2014.7031296",
+  "abstract": "In this paper, we propose a multi-layered Probabilistic Latent Semantic Analysis (PLSA) model for personalized video summarization problem based on time synchronous comments offered by multiple users. Preliminary evaluations performed on an animation series of 624 minutes long with 12212 users show that the proposed model is able to captures the relationships among the preference of each individual user and the various video events, therefore is able to generate personalized summaries of unseen videos for different users.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "99"
+ },
+ {
+  "title": "Wavelength-interleaving bidirectional transmission system using unidirectional amplification in a 5/spl times/100 km recirculating loop",
+  "profile_url": "https://ieeexplore.ieee.org/document/1637711/",
+  "doi": "10.1109/LPT.2006.877013",
+  "abstract": "This investigation presents a novel 50-GHz interleaved bidirectional transmission system with eight wavelengths that uses four-port interleavers in a bidirectional recirculating loop. This bidirectional configuration shares optical components in the fiber network and an interleaver is utilized to enable unidirectional amplification in an erbium-doped fiber amplifier to block noise associated with Rayleigh backscattering. After bidirectional transmission through 500-km LEAF fibers in the recirculating loop, power penalties of less than 2.5 dB were achieved at 10 Gb/s for all channels",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "81"
+ },
+ {
+  "title": "Analyzing the significance of process metrics for TT&C software defect prediction",
+  "profile_url": "https://ieeexplore.ieee.org/document/6933517/",
+  "doi": "10.1109/ICSESS.2014.6933517",
+  "abstract": "In the existing studies on software prediction, the most proposed methods are usually assessed over the public datasets like NASA metrics data repository, which include a combination of code metrics merely. Obviously, the process metric is also one of the key factors that affect the defect-proneness of software modules. In this paper, life-cycle based management process metrics set and history change process metrics set have been proposed based on the characteristics of development process. In order to analyze the importance of these different metrics for predicting defects in aerospace tracking telemetry and control (TT&C) software, an improved PSO optimized support vector machine algorithm (PSO-SVM) has been presented and took into application. The experiment results over the actual TT&C projects suggest that the prediction performance can be significance improved if the 2 kinds of process metrics are included in the model.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "217"
+ },
+ {
+  "title": "Transmission of n/spl times/10-Gbps frequency-division-multiplexed channels in an ultra-dense DWDM system employing a 25-GHz optical interleaver",
+  "profile_url": "https://ieeexplore.ieee.org/document/893922/",
+  "doi": "10.1109/LEOS.2000.893922",
+  "abstract": "Using a passive optical frequency interleaver, together with optical FDM systems, we have successfully demonstrated a two-channel 25-GHz-channel-spaced 10-Gbps-per-wavelength DWDM system, BERs better than 10/sup -12/ were obtained with no observable BER floors and negligible power penalties. The optical frequency interleaver can be redesigned to be intrinsically athermal.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "44"
+ },
+ {
+  "title": "Load balancing on a hypercube",
+  "profile_url": "https://ieeexplore.ieee.org/document/153831/",
+  "doi": "10.1109/IPPS.1991.153831",
+  "abstract": "Assuming there is a hypercube with p=2/sup d/ processors and that each hypercube processor, PE(i), has L/sub i/ units of load. The load is always in integral units and may be distributed to other processors in integral units. In the load balancing problem the load is required to be redistributed so that if L'/sub i/ is the load on processor i following the redistribution, then mod L'/sub i/-L'/sub j/ mod >",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "37"
+ },
+ {
+  "title": "Software-Controlled Priority Characterization of POWER5 Processor",
+  "profile_url": "https://ieeexplore.ieee.org/document/4556744/",
+  "doi": "10.1109/ISCA.2008.8",
+  "abstract": "Due to the limitations of instruction-level parallelism, thread-level parallelism has become a popular way to improve processor performance. One example is the IBM POWER5TM processor, a two-context simultaneous-multithreaded dual-core chip. In each SMT core, the IBM POWER5 features two levels of thread resource balancing and prioritization. The first level provides automatic in-hardware resource balancing, while the second level is a software-controlled priority mechanism that presents eight levels of thread priorities. Currently, software-controlled prioritization is only used in limited number of cases in the software platforms due to lack of performance characterization of the effects of this mechanism. In this work, we characterize the effects of the software-based prioritization on several different workloads. We show that the impact of the prioritization significantly depends on the workloads coscheduled on a core. By prioritizing the right task, it is possible to obtain more than two times of throughput improvement for synthetic workloads compared to the baseline. We also present two application case studies targeting two different performance metrics: the first case study improves overall throughput by 23.7% and the second case study reduces the total execution time by 9.3%. In addition, we show the circumstances when a background thread can be run transparently without affecting the performance of the foreground thread.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "161"
+ },
+ {
+  "title": "A Standalone Receiver With Multiple Access Interference Rejection, Clock and Data Recovery, and FEC for 2-D$lambda -t$OCDMA",
+  "profile_url": "https://ieeexplore.ieee.org/document/1705505/",
+  "doi": "10.1109/LPT.2006.883252",
+  "abstract": "We demonstrate a standalone (no global clock) receiver for two-dimensional wavelength-time optical code-division multiple-access. The receiver provides the following functions: quantization (to eliminate multiple access interference), clock and data recovery, return-to-zero to nonreturn-to-zero conversion (for optical code-division multiple-access compatibility with digital logic), framing (for byte synchronization), and forward-error correction (FEC) using a (255, 239) Reed-Solomon decoder. The receiver more than doubles the number of supported users at a bit-error rate <10\n-10\n. The receiver supports an information rate of 156.25 Mb/s. We performed the measurements at a bit rate of 167.4 Mb/s and a chip rate of 1.339 Gb/s (eight chips per bit) to account for FEC overhead",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "109"
+ }
+]

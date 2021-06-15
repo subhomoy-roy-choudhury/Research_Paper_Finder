@@ -1,0 +1,227 @@
+[
+ {
+  "title": "Qualification of a Hybrid Propulsion System for a Mars Ascent Vehicle",
+  "profile_url": "https://ieeexplore.ieee.org/document/8741599/",
+  "doi": "10.1109/AERO.2019.8741599",
+  "abstract": "Technology for a hybrid-based propulsion system is being developed to support a potential Mars Sample Return campaign. A Mars Ascent Vehicle (MAV) concept for launching samples off of Mars, and delivering them to orbit for further transport to Earth may utilize hybrid propulsion due to the option's predicted favorable low temperature characteristics and high performance. However, the hybrid option is still undergoing technology development to demonstrate these benefits. Once development of a capable hybrid propulsion system is proven, further work will still be required. This will include environmental testing relative to the mission, and integration with the vehicle reaction control systems and payload. Qualification of such a system will be a significant effort. It will require specialized procurements for the propellants and environments involved, and further testing of the unique design. This paper details an estimate of the tasks required to complete development efforts from Technical Readiness Level 5 (TRL 5) through qualification. A success based program was formulated to reach the required performance metrics sufficient for a standard Preliminary Design Review (PDR). Using task level inputs from team members cost and schedule were conceived for continued progress to Critical Design Review (CDR), then through Qualification.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "122"
+ },
+ {
+  "title": "Fast collision resolution (FCR) MAC algorithm for wireless local area networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/1189032/",
+  "doi": "10.1109/GLOCOM.2002.1189032",
+  "abstract": "Development of efficient medium access control (MAC) protocols is a fundamental research issue in high-speed wireless local area networks (LANs). We focus on the throughput efficiency of medium access algorithms for high-speed wireless LANs which use carrier sense multiple access/collision avoidance (CSMA/CA). We propose an efficient distributed contention-based MAC protocol for wireless local area networks, namely, the fast collision resolution (FCR) algorithm, and show that the proposed FCR algorithm provides high throughput and low latency in wireless LANs. The performance of FCR algorithm is compared with that of the IEEE 802.11 MAC algorithm via extensive simulation studies. The results show that FCR algorithm achieves a significantly higher efficiency than the IEEE 802.11 MAC algorithm and is easy to implement in wireless LANs.",
+  "paper_citation": "10",
+  "patent_citation": "",
+  "full_text_views": "99"
+ },
+ {
+  "title": "Prosodic word boundary detection using statistical modeling of moraic fundamental frequency contours and its use for continuous speech recognition",
+  "profile_url": "https://ieeexplore.ieee.org/document/758080/",
+  "doi": "10.1109/ICASSP.1999.758080",
+  "abstract": "A new method for prosodic word boundary detection in continuous speech was developed based on the statistical modeling of moraic transitions of fundamental frequency (F/sub 0/) contours, formerly proposed by the authors. In the developed method, F/sub 0/ contours of prosodic words were modeled separately according to the accent types. An input utterance was matched against the models and was divided into constituent prosodic words. By doing so, prosodic word boundaries can be obtained. The method was first applied to the boundary detection experiments of the ATR continuous speech corpus. With mora boundary locations given in the corpus, total detection rate reached 91.5%. Then the method was integrated into a continuous speech recognition scheme with unlimited vocabulary. A few percentage improvement was observed in mora recognition for the above corpus. Although all the experiments were done in closed conditions due to the corpus availability, the results indicated the usefulness of the proposed method.",
+  "paper_citation": "8",
+  "patent_citation": "",
+  "full_text_views": "80"
+ },
+ {
+  "title": "Distributed Nonasymptotic Confidence Region Computation Over Sensor Networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/7903729/",
+  "doi": "10.1109/TSIPN.2017.2695403",
+  "abstract": "This paper addresses the distributed computation of exact, nonasymptotic confidence regions for the parameter estimation of a linear model from observations at different nodes of a network of sensors. If a central unit gathers all the data, the sign perturbed sums (SPS) method proposed by Csaji et al. can be used to define guaranteed confidence regions with prescribed confidence levels from a finite number of measurements. SPS requires only mild assumptions on the measurement noise. This work proposes distributed solutions, based on SPS and suited to a wide variety of sensor networks, for distributed in-node evaluation of nonasymptotic confidence regions as defined by SPS. More specifically, a tagged and aggregated sum information diffusion algorithm is introduced, which exploits the specificities of SPS to avoid flooding the network with all measurements provided by the sensors. The performance of the proposed solutions is evaluated in terms of required traffic load, both analytically and experimentally on different network topologies. The best information diffusion strategy among nodes depends on how structured the network is.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "301"
+ },
+ {
+  "title": "Multi-path backscattering from ships over time-evolving sea surfaces",
+  "profile_url": "https://ieeexplore.ieee.org/document/5653083/",
+  "doi": "10.1109/ICEAA.2010.5653083",
+  "abstract": "The primary objective of this paper is to study how the time-varying sea surface influences the electromagnetic (EM) scattering from ships. The mean and standard deviation of radar cross section (RCS) from targets on sea surface are discussed under different circumstances. The statistics of the phase gradient is also investigated using alpha-stable distribution. Simulation results show that the time-evolving sea surface affects the behavior of the EM scattering from ships both in RCS and phase gradient.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "143"
+ },
+ {
+  "title": "Long Term Behavior of XLPE Insulated Cable Models",
+  "profile_url": "https://ieeexplore.ieee.org/document/5526956/",
+  "doi": "10.1109/MPER.1987.5526956",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "152"
+ },
+ {
+  "title": "Reliability-Aware Energy Management for Periodic Real-Time Tasks",
+  "profile_url": "https://ieeexplore.ieee.org/document/4815213/",
+  "doi": "10.1109/TC.2009.56",
+  "abstract": "Dynamic voltage and frequency scaling (DVFS) has been widely used to manage energy in real-time embedded systems. However, it was recently shown that DVFS has direct and adverse effects on system reliability. In this work, we investigate static and dynamic reliability-aware energy management schemes to minimize energy consumption for periodic real-time systems while preserving system reliability. Focusing on earliest deadline first (EDF) scheduling, we first show that the static version of the problem is NP-hard and propose two task-level utilization-based heuristics. Then, we develop a job-level online scheme by building on the idea of wrapper-tasks, to monitor and manage dynamic slack efficiently in reliability-aware settings. The feasibility of the dynamic scheme is formally proved. Finally, we present two integrated approaches to reclaim both static and dynamic slack at runtime. To preserve system reliability, the proposed schemes incorporate recovery tasks/jobs into the schedule as needed, while still using the remaining slack for energy savings. The proposed schemes are evaluated through extensive simulations. The results confirm that all the proposed schemes can preserve the system reliability, while the ordinary (but reliability-ignorant) energy management schemes result in drastically decreased system reliability. For the static heuristics, the energy savings are close to what can be achieved by an optimal solution by a margin of 5 percent. By effectively exploiting the runtime slack, the dynamic schemes can achieve additional energy savings while preserving system reliability.",
+  "paper_citation": "97",
+  "patent_citation": "",
+  "full_text_views": "1298"
+ },
+ {
+  "title": "Anchorvideos as a Means to Engage with Software and Technology Innovations in Large Organizations",
+  "profile_url": "https://ieeexplore.ieee.org/document/8498207/",
+  "doi": "10.1109/SEAA.2018.00040",
+  "abstract": "Digital transformation today means dealing with a huge and volatile market of new technologies and software tools. To effectively and efficiently keep up with the technological progress, it is necessary to communicate and coordinate the activities within large organizations. The individual employee is of significant importance in the innovation and in the software development processes. The concept of anchorvideos introduces the video format into the early stages of innovation management to engage people and for a specific new technology or software identify experts and autotelic employees throughout the company. Anchorvideos demonstrate a new technology and capture employee statements about application fields and visions how to use it for the own organization. Besides describing the concept, we present a sample application of an anchorvideo and the evaluation that proves its benefits.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "85"
+ },
+ {
+  "title": "On the Zero-Forcing Receiver Performance for Massive MIMO Drone Communications",
+  "profile_url": "https://ieeexplore.ieee.org/document/8445989/",
+  "doi": "10.1109/SPAWC.2018.8445989",
+  "abstract": "We study the uplink ergodic rate performance of the zero-forcing (ZF) receiver in a Massive multiple-input and multiple-output (MIMO) enabled drone communication system. Considering a 3D geometric model for line-of-sight (LoS) propagation, approximate but accurate analyses of lower and upper bounds on the uplink ergodic rate with estimated channel state information (CSI) are provided.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "602"
+ },
+ {
+  "title": "Sparse array antennas for satellite mobile terminals",
+  "profile_url": "https://ieeexplore.ieee.org/document/6902491/",
+  "doi": "10.1109/EuCAP.2014.6902491",
+  "abstract": "This paper discusses the possibility of using sparse array antennas for low-cost mobile terminal antennas in satellite communication systems. Compared to uniform antenna arrays, sparse arrays may offer advantages in cost, wide angle scanning, and power handling. The paper focuses on the implementation and testing aspect of the sparse array prototype.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "540"
+ },
+ {
+  "title": "Integrated optical analog signal processing",
+  "profile_url": "https://ieeexplore.ieee.org/document/7734246/",
+  "doi": "10.1109/PIERS.2016.7734246",
+  "abstract": "All-optical implementations of signal processing have attracted a great deal of attention due to the unique potential of this approach to overcome the bandwidth and speed bottleneck of electronic devices. Many all-optical signal processing techniques, offering processing bandwidths up to several THz, have been proposed and successfully employed in a wide range of areas, such as ultrafast telecommunications, optical computing, microwave photonics and biophotonics etc.. To build up an all-optical signal-processing and computing platform with complex functionality, a promising solution is to emulate the developments in the electronic domain using photonic technologies. For this purpose, photonics counterparts of fundamental components that form basic building blocks in electronic circuits need to be designed and realized. This is a key step toward the practical realization of all-optical information processing and computing circuits. In this talk, we will review recent progresses in the field of optical analog signal processing, such as all optical temporal differentiators and integrators, and real-time Fourier and Hilbert transformers.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "103"
+ },
+ {
+  "title": "Design of a GaN White Light-Emitting Diode Through Envelope Function Analysis",
+  "profile_url": "https://ieeexplore.ieee.org/document/5357473/",
+  "doi": "10.1109/JQE.2009.2032556",
+  "abstract": "In this paper, we present an envelope function analysis technique for the design of the emission spectra of a white quantum-well light-emitting diode (QWLED). The nanometric heterostructure that we are dealing with is a multiple QW, consisting of periods of three single QWs with various well thicknesses. With the aid of 6 × 6 Luttinger Hamiltonian, we employ the combination of two methods, k·p perturbation and the transfer matrix method, to acquire the electron and hole wave functions numerically. The envelope function approximation was considered to obtain these wave functions for a special basis set. While adjacent valence sub-bands have been determined approximately, the conduction bands are approximated as parabolic. The effect of Stokes shift has also been taken into account. The dipole moment matrix elements for interband atomic transitions are evaluated via the correlation between the electron and hole envelope functions, for both orthogonal polarizations, thus simplifying the calculation of the photoluminescence intensity. Spatial variations in the hole/electron wave functions have been examined with the introduction of piezoelectric and spontaneous polarization internal fields. We theoretically establish the possibility of a highly efficient InGaN red emitter, resulting in a uniform luminescence in red, green, and blue emissions from a white light emitting diode by adjusting the material composition, internal field, and well thickness.",
+  "paper_citation": "14",
+  "patent_citation": "",
+  "full_text_views": "396"
+ },
+ {
+  "title": "Architectural characterization and similarity analysis of sunspider and Google's V8 Javascript benchmarks",
+  "profile_url": "https://ieeexplore.ieee.org/document/6189228/",
+  "doi": "10.1109/ISPASS.2012.6189228",
+  "abstract": "Today, more than 99% of web-browsers are enabled with Javascript capabilities, and Javascript's popularity is only going to increase in the future. However, due to bytecode interpretation, Javascript codes suffer from severe performance penalty (up to 50x slower) compared to the corresponding native C/C++ code. We recognize that the first step to bridge this performance gap is to understand the the architectural execution characteristics of Javascript benchmarks. Therefore, this paper presents an in-depth architectural characterization of widely used V8 and Sunspider Javascript benchmarks using Google's V8 javascript engine. Using statistical data analysis techniques, our characterization study discovers and explains correlation among different execution characteristics in microarchitecture dependent as well as microarchitecture independent fashion. Furthermore, our study measures (dis)similarity among 33 different Javascript benchmarks and discusses its implications. Given the widespread use of Javascripts, we believe our findings are useful for both performance analysis and benchmarking communities.",
+  "paper_citation": "12",
+  "patent_citation": "",
+  "full_text_views": "827"
+ },
+ {
+  "title": "Blockchain-Based Anti-Key-Leakage Key Aggregation Searchable Encryption for IoT",
+  "profile_url": "https://ieeexplore.ieee.org/document/8915860/",
+  "doi": "10.1109/JIOT.2019.2956322",
+  "abstract": "The Internet of Things (IoT) makes our life more intelligent. Its combination with the cloud server can solve big data processing problems to meet users' needs and bring us great convenience. However, there are two challenges we need to face: data sharing and key leakage. To solve the above challenges, attribute-based encryption (ABE) is used to achieve data sharing combined with searchable encryption (SE). Most of the existing attribute-based searchable encryption (SE) schemes are inefficient and not suitable for IoT devices because of the large amount of attributes and keys. The key-leakage problem is serious in practice which very little literature focused on it. In order to address both problems, in this article, we propose a key aggregation searchable encryption (KASE) scheme based on the blockchain with auxiliary input (AI), which is capable of achieving secure data sharing on the encrypted data. Our scheme is presented through a novel chosen plaintext attack (CPA) secure scheme. We prove our scheme is chosen ciphertext attack (CCA) secure against key leakage under the decisional Diffie-Hellman assumption and Goldreich-Leivin theorem. Moreover, we adopt the proposed scheme to establish a data-sharing system based on blockchain, which improves search efficiency and connects the global ecology. In addition, extensive performance evaluations are conducted, and the results indicate our scheme is really efficient in cloud-computing-enhanced IoT.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "892"
+ },
+ {
+  "title": "Review of Human–Machine Interfaces for Small Unmanned Systems With Robotic Manipulators",
+  "profile_url": "https://ieeexplore.ieee.org/document/9007524/",
+  "doi": "10.1109/THMS.2020.2969380",
+  "abstract": "This article reviews the human-machine interaction (HMI) technologies used for telemanipulation by small unmanned systems (SUS) with remote manipulators. SUS, including land, air, and sea vehicles, can perform a wide range of reconnaissance and manipulation tasks with varying levels of autonomy. SUS operations involving physical interactions with the environment require some level of operator involvement, ranging from direct control to goal-oriented supervision. Telemanipulation remains a challenging task for all levels of human interaction because the operator and the vehicle are not colocated, and operators require HMI technologies that facilitate manipulation from a remote location. This article surveys the human operator interfacing for over 70 teleoperated systems, summarizes the effects of physical and visual interface factors on user performance, and discusses these findings in the context of telemanipulating SUS. This article is of importance to SUS researchers and practitioners who will directly benefit from HMI implementations that improve telemanipulation performance.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "2457"
+ },
+ {
+  "title": "Characterization of a three-dimensional photonic crystal with point defects at near-infrared wavelengths",
+  "profile_url": "https://ieeexplore.ieee.org/document/1361642/",
+  "doi": "",
+  "abstract": "",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "19"
+ },
+ {
+  "title": "Wrong Assumptions and Neglected Areas in Embedded Systems Research",
+  "profile_url": "https://ieeexplore.ieee.org/document/4519603/",
+  "doi": "10.1109/ISORC.2008.15",
+  "abstract": "Today many embedded computer applications are developed under the assumptions that the hardware works always as described in the documentation, the operating system is free of design errors and the clients use the system as specified. These assumptions lead to systems that are fragile - they break if even a single transistor out of a billion transistors chip occasionally malfunctions or a sporadic Heisenbug [J. Gray, 1986] occurs in the operating system.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "105"
+ },
+ {
+  "title": "Cellular ontology as a basis for spatiotemporal reasoning",
+  "profile_url": "https://ieeexplore.ieee.org/document/930690/",
+  "doi": "10.1109/TIME.2001.930690",
+  "abstract": "A logic for reasoning about dynamic systems should be defined on three levels. The material level is expressed in quantitative terms, the image level defines models in terms of discrete mathematics, and the logic level defines the logical language and deduction system. Consider the problem of guiding a vehicle that has to move within severe spatial constraints. For a simple version of a cellular ontology, the material level is a 2D surface where vehicles move along trajectories formed from straight-line segments and circular arcs which are each others' tangents at the points of transition. The image level is obtained by dividing the surface into equally-sized cells, which may be, for example, quadratic or hexagonal. For a given cell structure, with a finite set of ports and a finite set of orientations, and allowing also for some restrictions on vehicle movements, we obtain a finite set of possible maneuvers. It is therefore possible to calculate in advance a qualitative information structure that can be used for analyzing and planning the movements of a vehicle in the cellular driving space.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "20"
+ },
+ {
+  "title": "Waterfilling Schemes for Zero-Forcing Coordinated Base Station Transmission",
+  "profile_url": "https://ieeexplore.ieee.org/document/5425267/",
+  "doi": "10.1109/GLOCOM.2009.5425267",
+  "abstract": "In this work we consider the optimization of the power assigned to the user streams, in a coordinated base station downlink environment, when zero-forcing is employed to remove interference among users. Two schemes based on the waterfilling technique are proposed and compared to the optimal solution, which can be obtained numerically, by using convex optimization. We show that the proposed schemes achieve a performance, in terms of weighted sum rate, very close to the optimal, without the heavy computational complexity required by the numerical solution. The sum rates are compared in a realistic multi-cell scenario and some examples of achievable rates are presented also in a simplified two-user two-cell case.",
+  "paper_citation": "15",
+  "patent_citation": "",
+  "full_text_views": "267"
+ },
+ {
+  "title": "A model predictive control-based lane merging strategy for autonomous vehicles",
+  "profile_url": "https://ieeexplore.ieee.org/document/8814171/",
+  "doi": "10.1109/IVS.2019.8814171",
+  "abstract": "This paper proposes a model predictive controller to perform the lane merging task. We consider a hierarchical control structure which consists of an inner control loop and an outer one. The inner loop is an adaptive cruise controller which gives the acceleration command to the autonomous vehicle to follow the designated speed and keep a relative distance with the preceding vehicle while satisfying constraints. The outer loop is to determine the vehicle in the main lane that the autonomous one should follow to minimize the entropy in the decision making of the human drivers in the main lane. It is verified in the simulation that the proposed controller can complete the lane merging task under uncertainties and modeling errors.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "230"
+ },
+ {
+  "title": "Architecture for Embedding Audiovisual Feature Extraction Tools in Archives",
+  "profile_url": "https://ieeexplore.ieee.org/document/7269153/",
+  "doi": "10.5594/M001332",
+  "abstract": "In the near future, it will no longer be sufficient that only archivists annotate audiovisual material. Not only is the number of archivists limited, the time they can spend on annotating one item is insufficient to create time-based and detailed descriptions about the content to make fully optimized video search possible. Furthermore, we observe an accelerated increase in newly created audiovisual material that must be described due to introduction of file-based production methods. — Fortunately, more and more high-quality feature extraction tools are being developed by research institutes. These tools examine the audiovisual essence and return particular information about the analyzed video and/or audio streams. For example, tools can automatically detect shot boundaries, detect and recognize faces and objects, segment audio streams, etc. As a result, they quickly and cheaply generate metadata that can be used for indexing and searching. On top of that, it relieves archivists of performing tedious and repetitive, but necessary low-added value tasks, for example identifying within an audio stream the speech and music segments. Although most tools are currently not yet commercially offered, it is to be expected that these solutions soon will become available for broadcasters and media companies alike. — In this paper, we describe a solution on how to integrate such feature extraction tools within the annotation workflow of a media company. This solution, in the form of an architecture and workflow, is scalable, extensible, loosely coupled, and has clear and easy to implement interfaces. As such, our architecture allows one to plug in additional tools irrespective of the software and hardware used by the media company. — By integrating feature extraction tools within the workflow of annotating audiovisual essence, more and better metadata can be created allowing other tools to improve indexing, search and retrieval of media material within audiovisual archives.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": ""
+ },
+ {
+  "title": "Millimeter-Wave Characteristics of Phase-Correcting Fresnel Zone Plates",
+  "profile_url": "https://ieeexplore.ieee.org/document/1133826/",
+  "doi": "10.1109/TMTT.1987.1133826",
+  "abstract": "A focusing element called the phase-correcting Fresnel zone plate is described, and its characteristics are given when used in the millimeter-wave region for imaging or frequency filtering in place of a lens. Two versions are discussed, one where alternate concentric annular grooves are cut in a single piece of low-loss dielectric, and a second where two (or more) dielectrics are used in alternate concentric rings. For the latter case, an appropriate choice of parameters produces a design of constant thickness (i.e., a flat disk), named the \"planar lens.\" Design formulas and curves, as well as measured results, are given for both types, and an analytical description is derived for the far-field patterns. Compared with lenses, zone plates are simpler to construct and have lower absorption loss, thickness, and weight.",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "1025"
+ },
+ {
+  "title": "Overview of the Conical Microwave Imager/Sounder development for the NPOESS program",
+  "profile_url": "https://ieeexplore.ieee.org/document/702874/",
+  "doi": "10.1109/IGARSS.1998.702874",
+  "abstract": "The National Polar-orbiting Operational Environmental Satellite System (NPOESS) is the converged weather satellite program for the US Department of Defense and the National Oceanic and Atmospheric Administration (NOAA). The authors provide an overview of the NPOESS program to include its planned acquisition strategy and schedule to the first availability. The conical Microwave Imager/Sounder (CMIS) instrument development is discussed, including a brief history and evolution of MPFT sounders and conically scanning imagers leading up to the CMIS. Specific performance requirements for the CMIS system are presented and compared with previous spaceborne microwave sounders and imagers, finally, the sensor and environmental data products derived from CMIS are reviewed.",
+  "paper_citation": "10",
+  "patent_citation": "",
+  "full_text_views": "97"
+ },
+ {
+  "title": "A new local search method with the guarantee of local Pareto optimality",
+  "profile_url": "https://ieeexplore.ieee.org/document/6505192/",
+  "doi": "10.1109/SCIS-ISIS.2012.6505192",
+  "abstract": "In this paper, a new local search method based on local Pareto optimality was proposed. The proposed method uses an original local Pareto optimal condition, which modifies Karush-Kuhn-Tucker (KKT) conditions, and applies directed local search to candidate solutions repetitively until solutions satisfy this condition. Also, this paper proposed a new interpolation mechanism for detecting local Pareto subsets exhaustively and capturing the entire shape of each Pareto subset. Through experiments with two typical EMO examples, KUR and MHHM2, the effectiveness of the proposed method was verified.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "54"
+ },
+ {
+  "title": "Independent navigation and functioning of intelligent agents by social interaction",
+  "profile_url": "https://ieeexplore.ieee.org/document/4052859/",
+  "doi": "10.1109/CIMCA.2006.125",
+  "abstract": "The focus of the effort underlying this paper is to evolve a co-operation based navigation scheme and a mechanism for ad hoc task division between members of a socially interactive swarm of intelligent robots that may find application in strategic warfare and in landmine detection and neutralization. A novel approach has been adopted for evolving a vision scheme for the intelligent agents that endows each member of the swarm with a considerable level of autonomy thereby allowing for re-configurability of the swarm.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "68"
+ }
+]

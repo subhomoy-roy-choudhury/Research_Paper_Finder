@@ -1,0 +1,227 @@
+[
+ {
+  "title": "SuDoKu and Optimal SuDoKu Reconfiguration for TCT PV array Under Non-Uniform Irradiance Condition",
+  "profile_url": "https://ieeexplore.ieee.org/document/8704458/",
+  "doi": "10.1109/POWERI.2018.8704458",
+  "abstract": "Power delivered by a Photovoltaic (PV) array reduces significantly due to non-uniform irradiance condition. The reduction of output power is not directly proportional to the shading area but depends on the shading pattern, array configuration and the physical location of modules in PV array. Many techniques have been reported in the literature to reduce partial shading effects. One of the effective technique is reconfiguration strategies. This paper presents the comparative study on SuDoKu and optimal SuDoKu reconfiguration techniques for 9 × 9 Total-Cross-Tied (TCT) PV array under partial shading condition (PSC). In this approach, the physical location of modules in TCT PV array are changing based on SuDoKu and optimal SuDoKu patterns without altering any electrical connections. In addition to this, the performance analysis is carried out by comparing the global maximum power point (GMPP) and voltage at the global maximum power (V\nGMPP\n) under different shading conditions by using MATLAB-SIMULINK.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "160"
+ },
+ {
+  "title": "Gaussian Process Regression for Sensor Networks Under Localization Uncertainty",
+  "profile_url": "https://ieeexplore.ieee.org/document/6327685/",
+  "doi": "10.1109/TSP.2012.2223695",
+  "abstract": "In this paper, we formulate Gaussian process regression with observations under the localization uncertainty due to the resource-constrained sensor networks. In our formulation, effects of observations, measurement noise, localization uncertainty, and prior distributions are all correctly incorporated in the posterior predictive statistics. The analytically intractable posterior predictive statistics are proposed to be approximated by two techniques, viz., Monte Carlo sampling and Laplace's method. Such approximation techniques have been carefully tailored to our problems and their approximation error and complexity are analyzed. Simulation study demonstrates that the proposed approaches perform much better than approaches without considering the localization uncertainty properly. Finally, we have applied the proposed approaches on the experimentally collected real data from a dye concentration field over a section of a river and a temperature field of an outdoor swimming pool to provide proof of concept tests and evaluate the proposed schemes in real situations. In both simulation and experimental results, the proposed methods outperform the quick-and-dirty solutions often used in practice.",
+  "paper_citation": "34",
+  "patent_citation": "",
+  "full_text_views": "1340"
+ },
+ {
+  "title": "Participation of Students in Multinational Projects - a Pre/Post Comparison of Their Motivation Based on Gender and Geographic Location",
+  "profile_url": "https://ieeexplore.ieee.org/document/8467181/",
+  "doi": "10.1109/WEEF.2017.8467181",
+  "abstract": "Multinational collaborations are a common practice in industry nowadays. This practice is very common in engineering projects, with collaboration activities taking place globally. Academic institutions need to make their students aware of these scenarios by implementing activities that expose their students to such environments. Institutions from six different countries in the Americas and Italy have conducted an educational experience in the context of a collaborative engineering design project. The collaboration defines multinational teams that work on a project for several weeks. The objective of this study is to determine and compare the level of motivation that students report before and after their participation in the collaboration. The level of motivation is based on their self-reported interest and perception of value, two of the constructs collected with a survey based on the Intrinsic Motivation Inventory (IMI). Collected data is analyzed statistically based on gender and geographic location. The expectation is to have high levels of motivation before and after their participation in the multinational design project, thus implying interest and satisfaction with the activity. Results indicate that students have high level of motivation before participation, independent of the two factors studied. There is a reduction in the level of motivation after participation, with some variations based on gender and location. Discussion of these results is provided.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "31"
+ },
+ {
+  "title": "Software Architecture Reliability Analysis Using Failure Scenarios",
+  "profile_url": "https://ieeexplore.ieee.org/document/1620111/",
+  "doi": "10.1109/WICSA.2005.65",
+  "abstract": "We propose a Software Architecture Reliability Analysis (SARA) approach that benefits from both reliability engineering and scenario-based software architecture analysis to provide an early reliability analysis of the software architecture. SARA makes use of failure scenarios that are prioritized with respect to the user-perception in order to provide a severity analysis for the software architecture and the individual components.",
+  "paper_citation": "8",
+  "patent_citation": "",
+  "full_text_views": "125"
+ },
+ {
+  "title": "InP based echelle diffraction grating multiplexer with flat-passband",
+  "profile_url": "https://ieeexplore.ieee.org/document/8121401/",
+  "doi": "10.1109/ICOCN.2017.8121401",
+  "abstract": "An echelle diffraction grating (de)multiplexer with arc-shaped grating teeth, based on a multi-guide vertical integration platform in InP is presented. The device can be applied to the 100GBASE-LR4 Ethernet systems, the crosstalk is better than -19 dB. By adjusting grating facets, the 3-dB spectral bandwidth is increased to 2.2 nm compared with 1.7 nm in a conventional design with a loss penalty less than 2 dB. And the nonuniformity is reduced form 1.7 dB to 0.68 dB.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "161"
+ },
+ {
+  "title": "Modeling and PI-Fuzzy logic controller of the Pierburg mechatronic actuator",
+  "profile_url": "https://ieeexplore.ieee.org/document/5990978/",
+  "doi": "10.1109/ACC.2011.5990978",
+  "abstract": "This paper focuses on the modeling, identification and control of the Pierburg mechatronic actuator. This is an air inlet swirl actuator. It is used in the BMW 6 cylinder diesel engine to control the air amount entering in the piston chamber. Physical model, which accurately reproduces the real behavior of this actuator, is developed using its static characteristics. This mechatronic actuator is subject of parameter variation during its life span. Therefore, a Pi-Fuzzy logic controller is designed to ensure the desired performance. Simulation results using Simulink and experimental results using Labview with CompactRIO are presented. Results show that the Pi-Fuzzy logic controller is able to govern the system and to guarantee the desired performance.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "202"
+ },
+ {
+  "title": "Characterization of resistive dividers for a wideband power analyzer",
+  "profile_url": "https://ieeexplore.ieee.org/document/6898293/",
+  "doi": "10.1109/CPEM.2014.6898293",
+  "abstract": "Resistive dividers for wideband power analyzers have been designed. They have been built with identical resistors connected in series and parallel in a quasi-coaxial structure. Simulations on the PSpice models, the methods developed for their calibration and the preliminary experiments show that the accuracy for frequency up to 20 kHz can be better than 30 parts in 10\n6\n for the ratio and 20 μrad for the phase difference.",
+  "paper_citation": "8",
+  "patent_citation": "",
+  "full_text_views": "184"
+ },
+ {
+  "title": "Analytical Normalization of the Associated Legendre Functions of the First Kind of Arbitrary Degree and Order",
+  "profile_url": "https://ieeexplore.ieee.org/document/8408848/",
+  "doi": "10.1109/TAP.2018.2854365",
+  "abstract": "A new analytical expression of the normalization constant for the associated Legendre functions of the first kind of arbitrary degree and order is presented. The evaluation of such normalization constants is needed, for instance, if the scalar or electromagnetic field in the presence of a conical structure has to be analyzed. Up to now, the solution of the corresponding integral on the squared associated Legendre function of the first kind of noninteger values of the order or the degree had to be found numerically, i.e., by a time-consuming quadrature routine. The new analytical result is validated by a comparison with the numerically obtained values. It can be used to further analyze Green's function for the cone, i.e., for investigating the convergence of the multipole series or for finding an asymptotically valid expression for special cases. Moreover, the evaluation of the analytical result is much faster than numerical integration.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "286"
+ },
+ {
+  "title": "On the Performance of Hybrid ARQ with Incremental Redundancy over Amplify-and-Forward Dual-Hop Relay Networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/6966087/",
+  "doi": "10.1109/VTCFall.2014.6966087",
+  "abstract": "In this paper, we consider a three node relay network comprising a source, a relay, and a destination. The source transmits the message to the destination using hybrid automatic repeat request (HARQ) with incremental redundancy (IR). The relay overhears the transmitted message, amplifies it using a variable gain amplifier, and then forwards the message to the destination. This latter combines both the source and the relay message and tries to decode the information. In case of decoding failure, the destination sends a negative acknowledgement. A new replica of the message containing new parity bits is then transmitted in the subsequent HARQ round. This process continues until successful decoding occurs at the destination or a maximum number \nM\n of rounds is reached. We study the performance of HARQ-IR over the considered relay channel from an information theoretic perspective. We derive for instance exact expressions and bounds for the information outage probability, the average number of transmissions, and the average transmission rate. The derived exact expressions are validated by Monte Carlo simulations.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "142"
+ },
+ {
+  "title": "Compression for exact match identification",
+  "profile_url": "https://ieeexplore.ieee.org/document/6620307/",
+  "doi": "10.1109/ISIT.2013.6620307",
+  "abstract": "In this paper, we consider the problem of determining whether sequences X and Y, generated i.i.d. according to P\nX\n × P\nY\n, are equal given access only to the pair (Y, T(X)), where T(X) is a rate-R compressed version of X. In general, the rate R may not be sufficiently large to reliably determine whether X=Y. We precisely characterize this reliability - i.e., the exponential rate at which an error is made - as a function of R. Interestingly, the exponent turns out to be related to the Bhattacharyya distance between the distributions P\nX\n and P\nY\n. In addition, the scheme achieving this exponent is universal, i.e. does not depend on P\nX\n, P\nY\n.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "82"
+ },
+ {
+  "title": "Star cluster formation and disruption time-scales — I. An empirical determination of the disruption time of star clusters in four galaxies",
+  "profile_url": "https://ieeexplore.ieee.org/document/8239365/",
+  "doi": "10.1046/j.1365-8711.2003.06083.x",
+  "abstract": "We have derived the disruption times of star clusters from cluster samples of four galaxies, M51, M33, the Small Magellanic Cloud (SMC) and the solar neighbourhood. If the disruption time of clusters in a galaxy depends only on their initial mass as t\ndis\n(yr) =t\n4\ndis\n(M\ncl\n/10\n4\n M\n⊙\n)\nγ\n, and if the cluster formation rate is constant, then the mass and age distributions of the observed clusters will each be given by double power-law relations. For clusters of low mass or young age the power law depends on the fading of the clusters below the detection limit due to the evolution of the stars. For clusters of high mass and old age the power law depends on the disruption time of the clusters. The samples of clusters in M51 and M33, observed with HST-WFPC2, indeed show the predicted double power-law relations in both their mass and age distributions. The values of t\ndis\n4\n and γ can be derived from these relations. For the cluster samples of the SMC and the solar neighbourhood, taken from the literature, only the age distribution is known. This also shows the characteristic double power-law behaviour, which allows the determination of t\n4\ndis\n and γ in these galaxies. The values of γ are the same in the four galaxies within the uncertainty, and the mean value is γ= 0.62 ± 0.06. However, the disruption time t\n4\ndis\n of a cluster of 10\n4\n M\n⊙\n is very different in the different galaxies. The clusters in the SMC have the longest disruption time, t\n4\ndis\n≃ 8 × 10\n9\n yr, and the clusters at 1–3 kpc from the nucleus of M51 have the shortest disruption time of t\n4\ndis\n≃ 4 × 10\n7\n yr. The disruption time of clusters 1–5 kpc from the nucleus of M33 is t\n4\ndis\n≃ 1.3 × 10\n8\n yr and for clusters within 1 kpc from the Sun we find t\n4\ndis\n≃ 1.0 × 10\n9\n yr.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": ""
+ },
+ {
+  "title": "NetConf: a single chip PCM conference circuit with automatic gain control, attenuation, noise suppression, soft reset and multiple frame synchronization timing",
+  "profile_url": "https://ieeexplore.ieee.org/document/580712/",
+  "doi": "10.1109/ASIC.1995.580712",
+  "abstract": "This paper presents a unique 2-stage pipeline PCM conference architecture, called NetConf, specially designed and realized as a single chip VLSI for processing PCM channels in order to provide conference in digital switching systems. The NetConf conference circuit overcomes the manual handling of overflow problem, that exist in the current architectures, with a unique 2-stage pipelined architecture and a new AGC algorithm. The circuit can also provide regular connection and capable of doing 3 Level attenuation, 4 level noise suppression on all or any selected channel. The circuit can be soft reset and accept different frame synchronization timings. The conference circuit realized by European Silicon Structures' 0.7 micron CMOS technology and packaged in a 24 pin plastic DIL package. The die is 12 mm/sup 2/ and consists of 12,000 gates including two four-ports static RAMs. This newly proposed 2-stage pipeline conference architecture provides better overflow and noise performance over existing architectures.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "60"
+ },
+ {
+  "title": "A scalable feature learning and tag prediction framework for natural environment sounds",
+  "profile_url": "https://ieeexplore.ieee.org/document/7094773/",
+  "doi": "10.1109/ACSSC.2014.7094773",
+  "abstract": "Building feature extraction approaches that can effectively characterize natural environment sounds is challenging due to the dynamic nature. In this paper, we develop a framework for feature extraction and obtaining semantic inferences from such data. In particular, we propose a new pooling strategy for deep architectures, that can preserve the temporal dynamics in the resulting representation. By constructing an ensemble of semantic embeddings, we employ an l\n1\n-reconstruction based prediction algorithm for estimating the relevant tags. We evaluate our approach on challenging environmental sound recognition datasets, and show that the proposed features outperform traditional spectral features.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "94"
+ },
+ {
+  "title": "Fast Diagnostic Method of Open Circuit Fault for Modular Multilevel DC/DC Converter Applied in Energy Storage System",
+  "profile_url": "https://ieeexplore.ieee.org/document/7801921/",
+  "doi": "10.1109/TPEL.2016.2646402",
+  "abstract": "This letter presents a fast open circuit diagnostic method for modular multilevel DC/DC converter (MMDDC), which is applied in super capacitor energy storage system. The proposed method is derived based on the analysis of submodule output characteristics under both normal and fault conditions. For MMDDC, different types of open circuit fault are reflected by the output voltage of submodule in certain operating modes, thus a simple and effective diagnostic method by the aid of a hardware circuit and a fast fault location algorithm is proposed. The hardware circuit is responsible for detecting submodule output voltage and its output result is transmitted to a processor to accomplish the final fault diagnosis along with drive signals. The proposed approach avoids complex mathematical operations and minimizes fault diagnostic time; moreover, it can achieve fault diagnosis under a wide super capacitor operating voltage range. Finally, the proposed diagnostic method is verified experimentally based on a laboratory-scale MMDDC energy storage prototype.",
+  "paper_citation": "33",
+  "patent_citation": "",
+  "full_text_views": "1566"
+ },
+ {
+  "title": "Integration of relational databases and record-based legacy systems for populating data warehouses",
+  "profile_url": "https://ieeexplore.ieee.org/document/994286/",
+  "doi": "10.1109/HICSS.2002.994286",
+  "abstract": "The number of data sources that an organization has to deal with continues to be nontrivial. Integrating this data is a growing problem. A great deal of research has been done to solve the general problem. Work on topics like multi-databases, mediators and ontologies has been directed at solving the general data integration problem. While all of this activity has been useful, the general problem of integrating heterogeneous data sources remains only partially solved. This paper looks at the solution of a sub-problem of the general problem where the data sources are restricted to relational databases and record-based legacy systems owned by the same organization. For many organizations, this restriction precisely defines their integration problem. For example, data warehouses typically have a tuple as their storage format, whether they are table- or cube-oriented. The task of defining the tuple requires integrating the organization's existing relational and/or record-based legacy systems. Populating the data warehouse can be accomplished by querying the integrated data sources. Specifically, we provide a mechanism for developing a relational model for the set of data sources, provide a method for generating correct queries over the model, and create an architecture for executing the queries based on the mobile agent paradigm. A prototype of the system has been designed and implemented.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "116"
+ },
+ {
+  "title": "Regulation and research on wireless communications",
+  "profile_url": "https://ieeexplore.ieee.org/document/6256903/",
+  "doi": "10.1109/AEMC.2011.6256903",
+  "abstract": "This paper describes which are the major changes would occur in regulation policies and role of the regulation bodies due to the advance of technology development, research and innovation in telecommunications. The so-called open spectrum, instead of free-spectrum, seems to offer great opportunities to all current players, from operators to technology providers. Open spectrum gives room also to new players mainly for those applications encompassed as short range communications scenarios. This paper remarks that in the vision of future radio communications the regulator, in addition to its current duties, will assume an important role on conducting and funding research needed to properly face this new role. Finally an example is provided, which takes advantage of an included reference, in order to put in evidence how many fundamentals of current wireless research will be revisited with unexpected results.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "39"
+ },
+ {
+  "title": "Detection of weak vital signal based on wavelet and chaotic oscillator",
+  "profile_url": "https://ieeexplore.ieee.org/document/7162567/",
+  "doi": "10.1109/CCDC.2015.7162567",
+  "abstract": "The weak vital periodic signals are easy to be submerged by strong noise as human body is keeping still, whose frequencies are hard to be detected. A new method based on the combination of wavelet de-noising and chaotic oscillator is presented in order to solve this problem. The proposed method make use of the wavelet de-noising to remove some noise primarily, and then employ improved chaotic oscillator array to detect the respiration and heart beat signal. Simulation validates the feasibility of the detection method. The respiration and heart beat signal can be detected under strong noisy background, and the accuracy is quite acceptable. The methods presented can be applied to signal processor mounted on the life detection radar, which will improve the radar's performance in earthquake rescue and other life-saving missions.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "112"
+ },
+ {
+  "title": "Bilateral symmetry in ankle-muscle activation in transtibial amputees",
+  "profile_url": "https://ieeexplore.ieee.org/document/9175936/",
+  "doi": "10.1109/EMBC44109.2020.9175936",
+  "abstract": "By 2020, over 2.2 million people in the United States will be living with an amputated lower limb. The functional impact of amputations presents significant challenges in daily living activities. While significant work has been done to develop smart prosthetics, for the long-term development of effective and robust myoelectric control systems for transtibial amputees, there is still much that needs to be understood regarding how extrinsic muscles of the lower limb are utilized post-amputation. In this study, we examined muscle activity between the intact and residual limbs of three transtibial amputees with the aim of identifying differences in voluntary recruitment patterns during a bilateral motor task. We report that while there is variability across subjects, there are consistencies in the muscle recruitment patterns for the same functional movement between the intact and the residual limb within each subject. These results provide insights for how symmetric activation in residual muscles can be characterized and used to develop myoelectric control strategies for prosthetic devices in transtibial amputees.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "72"
+ },
+ {
+  "title": "Experimental Installation of 69-kV Synthetic-Insulated Underground Cables and Components",
+  "profile_url": "https://ieeexplore.ieee.org/document/4074051/",
+  "doi": "10.1109/TPAS.1970.292593",
+  "abstract": "This paper describes the test installation, its operation, and the intermediate results of a continuous test program of synthetic-insulated 69-kV underground cables and joints, and terminations.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "22"
+ },
+ {
+  "title": "Efficient multiple model recognition in cluttered 3-D scenes",
+  "profile_url": "https://ieeexplore.ieee.org/document/698676/",
+  "doi": "10.1109/CVPR.1998.698676",
+  "abstract": "We present a 3-D shape-based object recognition system for simultaneous recognition of multiple objects in scenes containing clutter and occlusion. Recognition is based on matching surfaces by matching points using the spin-image representation. The spin-image is a data level shape descriptor that is used to match surfaces represented as surface meshes. We present a compression scheme for spin-images that results in efficient multiple object recognition which we verify with results showing the simultaneous recognition of multiple objects from a library of 20 models. Furthermore, we demonstrate the robust performance of recognition in the presence of clutter and occlusion through analysis of recognition trials on 100 scenes.",
+  "paper_citation": "4",
+  "patent_citation": "",
+  "full_text_views": "112"
+ },
+ {
+  "title": "Modeling and simulation research on closed-loop servo system",
+  "profile_url": "https://ieeexplore.ieee.org/document/5593679/",
+  "doi": "10.1109/ICCSE.2010.5593679",
+  "abstract": "On the basis of steady-state design, mathematical model of closed-loop servo system, by means of a certain degree of simplification, was derived employing dynamics theory. System dynamic performance was analysed using Matlab software, with overshoot of 60.86% and rise time of 0.1284 seconds, implying that system response stability hardly satisfied actual application. Therefore, the original system was regulated with PID controller and simulation results showed that the overshoot was reduced by 94.30% from 60.86% down to 3.47%, effectively improving system response stability.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "194"
+ },
+ {
+  "title": "Sputter deposition technology for Al(1−x)ScxN films with high Sc concentration",
+  "profile_url": "https://ieeexplore.ieee.org/document/7919885/",
+  "doi": "10.1109/CSTIC.2017.7919885",
+  "abstract": "Aluminium scandium nitride (Al\n1-x\nSc\nx\nN) with its strongly enhanced piezoelectric response is the upcoming piezoelectric material of choice in next generation RF filters, sensors, actuators and energy harvesting devices. This paper will concentrate on the deposition technology for Al\n1-x\nSc\nx\nN films with high Sc content. Films with Sc concentrations close to 43 at% have been grown on 200-mm substrates using a cluster type sputter deposition tool. The piezoelectric response will be discussed and correlated with the deposition parameters and film structural properties. The steps required to deliver a high-volume production solution for high Sc concentration will be described.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "296"
+ },
+ {
+  "title": "Characterizing Co-located Insecure Coding Patterns in Infrastructure as Code Scripts",
+  "profile_url": "https://ieeexplore.ieee.org/document/9319290/",
+  "doi": "10.1145/3417113.3422154",
+  "abstract": "Context: Insecure coding patterns (ICPs), such as hard-coded passwords can be inadvertently introduced in infrastructure as code (IaC) scripts, providing malicious users the opportunity to attack provisioned computing infrastructure. As performing code reviews is resource-intensive, a characterization of co-located ICPs, i.e., ICPs that occur together in a script can help practitioners to prioritize their review efforts and mitigate ICPs in IaC scripts. Objective: The goal of this paper is to help practitioners in prioritizing code review efforts for infrastructure as code (IaC) scripts by conducting an empirical study of co-located insecure coding patterns in IaC scripts. Methodology: We conduct an empirical study with 1613, 2764 and 2845 Puppet scripts respectively collected from three organizations namely, Mozilla, Openstack, and Wikimedia. We apply association rule mining to identify co-located ICPs in IaC scripts. Results: We observe 17.9%, 32.9%, and 26.7% of the scripts to include colocated ICPs respectively, for Mozilla, Openstack, and Wikimedia. The most frequent co-located ICP category is hard-coded secret and suspicious comment. Conclusion: Practitioners can prioritize code review efforts for IaC scripts by reviewing scripts that include co-located ICPs.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "44"
+ },
+ {
+  "title": "Documentation in Systems Development: A Significant Criterion for Project Success",
+  "profile_url": "https://ieeexplore.ieee.org/document/4755809/",
+  "doi": "10.1109/HICSS.2009.167",
+  "abstract": "Agile software development methods seem inherently suitable for today's quick-paced business environment as they shorten the time to develop new systems and typically incur lower development costs compared to the conventional systems development life cycle (SDLC) approach. Software development project failures using conventional SDLC are often attributed to project delays, resulting in budget overruns. On the other hand, a well planned and documented systems development project is more likely to result in a system that meets the expectations of both the intended users and the software engineers. This paper takes another look at conventional SDLC methodology by focusing on an aspect that is often overlooked in systems development practice, namely the significance of good documentation.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "521"
+ },
+ {
+  "title": "Boolean Logic Operations and Computing Circuits Based on Memristors",
+  "profile_url": "https://ieeexplore.ieee.org/document/6895305/",
+  "doi": "10.1109/TCSII.2014.2357351",
+  "abstract": "This brief contributes to the design of computational and reconfigurable structures that exploit unique threshold-dependent switching response of single memristors and their compositions. A new logic circuit design paradigm, which assumes parallel processing of input signals, is proposed, along with a methodology for the construction of robust programmable composite memristive switches of variable precision. This methodology is applied to the design of memristive computing circuits. A SPICE simulation-based validation of the proposed circuits and systems is provided.",
+  "paper_citation": "45",
+  "patent_citation": "",
+  "full_text_views": "1392"
+ }
+]

@@ -1,0 +1,227 @@
+[
+ {
+  "title": "Parallel Implementation of the Ensemble Empirical Mode Decomposition and Its Application for Earth Science Data Analysis",
+  "profile_url": "https://ieeexplore.ieee.org/document/8024144/",
+  "doi": "10.1109/MCSE.2017.3421555",
+  "abstract": "To efficiently perform multiscale analysis of high-resolution, global, multiple-dimensional datasets, the authors have deployed the parallel ensemble empirical mode decomposition (PEEMD) package by implementing three-level parallelism into the ensemble empirical mode decomposition (EMD), achieving a scaled performance of 5,000 cores. In this study, they discuss the implementation of the PEEMD and its application for the analysis of Earth science data, including the solution of the Lorenz model, an idealized terrain-induced flow, and Hurricane Sandy.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "280"
+ },
+ {
+  "title": "Viability and state of the art of environmentally friendly aircraft taxiing systems",
+  "profile_url": "https://ieeexplore.ieee.org/document/6387462/",
+  "doi": "10.1109/ESARS.2012.6387462",
+  "abstract": "Airport ground operations have a great impact on the surrounding environment. Many have proposed or are studying innovative systems to perform taxi without use of the main engines. This would result in cleaner and quieter airport operations, as well as in improved fuel efficiency. In this paper, the possibilities and limitations of such systems are discussed considering real scenarios and constraints. The technical challenges that determine their viability and integrability into the aircraft or airport, as well as the expected benefits and issues are addressed. Finally, the most important current research and development projects are presented.",
+  "paper_citation": "14",
+  "patent_citation": "",
+  "full_text_views": "617"
+ },
+ {
+  "title": "A simple bi-polished silicon sample to detect vibrations by Fiber Bragg sensor",
+  "profile_url": "https://ieeexplore.ieee.org/document/1159450/",
+  "doi": "10.1109/LEOS.2002.1159450",
+  "abstract": "Describes a simple method for interrogating fiber Bragg grating sensors by a bi-polished silicon sample acting like a Fabry-Perot filter. Thus, Bragg wavelength shift is converted into a variation of the light intensity.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "52"
+ },
+ {
+  "title": "Feedback-error-learning neural network for trajectory control of a flexible micro-actuator",
+  "profile_url": "https://ieeexplore.ieee.org/document/652938/",
+  "doi": "10.1109/AIM.1997.652938",
+  "abstract": "Summary form only given. A neural network approach to online learning control and real-time implementation for a flexible microactuator is presented. The flexible microactuator is made of a bimorph piezoelectric high-polymer material (poly vinylidene fluoride). The bimorph piezoelectric microactuator consists of two PVDF films cemented with a metal shim in proper polarity. When a voltage is applied across the elements, the upper layer elongates, while the lower contracts producing a deflection. The control scheme consists of a feedforward neural network controller and a fixed-gain PID controller. This neural network controller is trained so as to make the output of the PID controller zero. In the process, the neural network learns the inverse dynamics of the system. The feedback-error-learning controller is implemented using a digital signal processor, and experimental results are given.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "69"
+ },
+ {
+  "title": "Wideband second-order adjoint sensitivity analysis of high-frequency structures using FDTD",
+  "profile_url": "https://ieeexplore.ieee.org/document/7166999/",
+  "doi": "10.1109/MWSYM.2015.7166999",
+  "abstract": "We present an adjoint-based technique for estimating second-order sensitivities of a generic wideband objective function using the finite-difference time-domain (FDTD) method. Our proposed algorithm estimates both the first- and the second-order sensitivities of the objective function with respect to all considered parameters using at most n+1 extra simulations, where n is the number of parameters. If sensitivity analysis is performed using conventional finite-difference approximations, O(n\n2\n) simulations would be required. Our approach is illustrated through an example where a 12-by-12 Hessian matrix of the return loss is computed over a wideband of frequencies. Good match is achieved between our numerically-produced adjoint results and exact analytical results.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "82"
+ },
+ {
+  "title": "Perturbation analysis for word-length optimization",
+  "profile_url": "https://ieeexplore.ieee.org/document/1227244/",
+  "doi": "10.1109/FPGA.2003.1227244",
+  "abstract": "This paper introduces a design tool and its associated procedures for determining the sensitivity of outputs in a digital signal processing design to small errors introduced by rounding or truncation of internal variables. The proposed approach can be applied to both linear and nonlinear designs. By analyzing the resulting sensitivity values, the proposed procedure is able to determine an appropriate distinct word-length for each internal variable. Also in this paper, the power optimizing capabilities of word-length optimization are studied for the first time. Application of the proposed procedure to adaptive filters realized in a Xilinx Virtex FPGA (field programmable gate array) has resulted in area reductions of up to 80% combined with power reductions of up to 98% and speed-up of up to 36% over common alternative design strategies.",
+  "paper_citation": "34",
+  "patent_citation": "",
+  "full_text_views": "376"
+ },
+ {
+  "title": "Enhanced multi-resolution hierarchical codebook design for adaptive compressed sensing based millimeter wave channel estimation",
+  "profile_url": "https://ieeexplore.ieee.org/document/7636870/",
+  "doi": "10.1109/ICCChina.2016.7636870",
+  "abstract": "Perfect channel state information (CSI) is essential for precoding and combining in millimeter wave (mmWave) systems. The CSI estimation algorithm based on adaptive compressed sensing (CS) is an efficient method. However, the imperfect multi-resolution hierarchical codebook design possibly leads to wrong detections of angle of arrival (AoA) and angle of departure (AoD), which has a negative effect on the spectral efficiency. In this paper, an enhanced multi-resolution hierarchical codebook design is proposed to realize precise AoD/AoA estimation. First, the necessary number of sampling angles for generating the codebook is given. Then, the algorithm of iterative adjustment (IA) is developed to improve the codebook design. Simulation results show that using the proposed codebook design, the beams can precisely divide the AoA/AoD intervals as the requirements of the adaptive CS based algorithm. Thus, the average angle estimation error is reduced effectively.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "472"
+ },
+ {
+  "title": "Preliminary Results on Instantaneous UAV-Based 3D Mapping for Rescue Applications",
+  "profile_url": "https://ieeexplore.ieee.org/document/8468625/",
+  "doi": "10.1109/SSRR.2018.8468625",
+  "abstract": "This report presents a novel approach to generate a 3D map with an UAV while flying over a disaster scene with the aim to present the map instantaneously to the operator and the rescue workers. Our approach extends the well-known ICP algorithm.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "269"
+ },
+ {
+  "title": "Pulse based dead time compensator for PWM voltage inverters",
+  "profile_url": "https://ieeexplore.ieee.org/document/483455/",
+  "doi": "10.1109/IECON.1995.483455",
+  "abstract": "The dead time necessary to prevent the short circuit of the power supply in pulse width modulated (PWM) voltage inverters for AC drives results in output voltage deviations. Although individually small, when accumulated over an operating cycle, the voltage deviations are sufficient to distort the applied PWM signal. This paper presents a new method to correct for the dead time deviations. The pulse based compensator is less hardware and software intensive than other dead time compensation methods providing a low cost solution. The pulse based technique is developed by analyzing the effects of dead time on a pulse by pulse basis and correcting each pulse accordingly. The technique is evaluated through simulation and experimental results. Other compensation methods are evaluated and the results compared with the pulse based technique. This comparison indicates previous methods can produce magnitude and phase errors in the applied terminal voltage, whereas the proposed method compensates for the dead time without significant magnitude and phase errors in the terminal voltage of PWM voltage source inverters.",
+  "paper_citation": "32",
+  "patent_citation": "",
+  "full_text_views": "1085"
+ },
+ {
+  "title": "A Best-Effort Multicast Algorithm",
+  "profile_url": "https://ieeexplore.ieee.org/document/4146277/",
+  "doi": "10.1109/ICCT.2006.341673",
+  "abstract": "Today's IP networks have seen a growing number of applications whose traffic are most efficiently transported using multicast forwarding service. In this paper, we present a scalable, sender-initiated, performance-driven, best-effort tree construction algorithm, which adapts to the changing network conditions. The algorithm does not use any unicast routing protocol. We demonstrate the operations and evaluate the performance of the algorithm using computer simulations.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "36"
+ },
+ {
+  "title": "Analyzing and Increasing the Reliability of Convolutional Neural Networks on GPUs",
+  "profile_url": "https://ieeexplore.ieee.org/document/8536419/",
+  "doi": "10.1109/TR.2018.2878387",
+  "abstract": "Graphics processing units (GPUs) are playing a critical role in convolutional neural networks (CNNs) for image detection. As GPU-enabled CNNs move into safety-critical environments, reliability is becoming a growing concern. In this paper, we evaluate and propose strategies to improve the reliability of object detection algorithms, as run on three NVIDIA GPU architectures. We consider three algorithms: 1) you only look once; 2) a faster region-based CNN (Faster R-CNN); and 3) a residual network, exposing live hardware to neutron beams. We complement our beam experiments with fault injection to better characterize fault propagation in CNNs. We show that a single fault occurring in a GPU tends to propagate to multiple active threads, significantly reducing the reliability of a CNN. Moreover, relying on error correcting codes dramatically reduces the number of silent data corruptions (SDCs), but does not reduce the number of critical errors (i.e., errors that could potentially impact safety-critical applications). Based on observations on how faults propagate on GPU architectures, we propose effective strategies to improve CNN reliability. We also consider the benefits of using an algorithm-based fault-tolerance technique for matrix multiplication, which can correct more than 87% of the critical SDCs in a CNN, while redesigning maxpool layers of the CNN to detect up to 98% of critical SDCs.",
+  "paper_citation": "21",
+  "patent_citation": "",
+  "full_text_views": "1670"
+ },
+ {
+  "title": "A distortion evaluation framework in 3D video view synthesis",
+  "profile_url": "https://ieeexplore.ieee.org/document/7391827/",
+  "doi": "10.1109/IC3D.2015.7391827",
+  "abstract": "Demand for 3D content increased over the last years and more attention was dedicated to methods used in 3D content creation and transmission. View synthesis methods introduce localized artifacts when creating new virtual views. Evaluating these methods require therefore a different approach, in order to identify and emphasize synthesis artifact prone areas, while diminishing the impact, of other types of artifacts, such as those produced by quantization during the video coding. In this paper, we propose an artifact evaluation technique which was shown to provide a better differentiation of synthesis methods, while additional information can be extrapolated from the results about the spatial localization of typical synthesis artifacts and their impact on overall image quality.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "106"
+ },
+ {
+  "title": "Potential of human detection with SAR",
+  "profile_url": "https://ieeexplore.ieee.org/document/6159646/",
+  "doi": "10.1109/CIE-Radar.2011.6159646",
+  "abstract": "ONERA performed specific acquisitions dedicated to human detection on SAR images. After briefly describing the experimental SAR platforms, this paper presents results of human detection obtained on high resolution SAR images at different frequency bands and results on change detection.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "161"
+ },
+ {
+  "title": "Minimization of three-phase line imbalances by proper positioning of earth wires",
+  "profile_url": "https://ieeexplore.ieee.org/document/551249/",
+  "doi": "10.1109/MELCON.1996.551249",
+  "abstract": "Usual untransposed three-phase overhead lines are, by nature, unbalanced structures. For phase-conductors protection against lightning most of these lines include in their configuration one or two grounded earth wires. The presence of these wires naturally leads to a modification of line parameters and concomitantly to an alteration of the line imbalance. In this paper we analyze how the imbalance depends on the earth wires position; more specifically, our goal is to find out whether an optimal positioning for the earth wires exists such that line imbalance minimization can be achieved. Application examples provided in the paper focus on horizontal line configurations.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "57"
+ },
+ {
+  "title": "Novel Method of Obstacle Avoidance Planning for Redundant Sliding Manipulators",
+  "profile_url": "https://ieeexplore.ieee.org/document/9078679/",
+  "doi": "10.1109/ACCESS.2020.2990555",
+  "abstract": "In this paper, a weighted additional deviation velocity on the basis of the gradient projection (GP-WADV) method is proposed to solve obstacle avoidance problems of the redundant manipulator under the condition of known end-effector trajectory. The GP-WADV method aims to find the point closest to the obstacle on the link of the manipulator and attach the additional deviation velocity with weighting factors to the point on the basis of the gradient projection method. Utilizing multi-solution characteristics of redundant robots, obstacle avoidance control parameters related to the distance between obstacles and links are proposed according to the gradient projection method for solving inverse kinematic solution. Moreover, a weighted method is adopted to adjust the weighting factors of the primary motion velocity and the additional motion velocity when the link approaches the obstacle, so as to obtain the joint angle solutions more quickly and accurately. The GP-WADV method can ensure that the manipulator can avoid obstacles smoothly without turbulence and solve the highly nonlinear relationship between the position of the manipulator and the joint coordinate, which has the advantages of small amount of calculation, more flexible and convenient real-time control. The advantages of the proposed GP-WADV method are proved by simulation and experiments.",
+  "paper_citation": "1",
+  "patent_citation": "",
+  "full_text_views": "951"
+ },
+ {
+  "title": "Reliability growth for typed defects (software development)",
+  "profile_url": "https://ieeexplore.ieee.org/document/187845/",
+  "doi": "10.1109/ARMS.1992.187845",
+  "abstract": "The authors present a reliability growth model for defects that have been categorized into defect types associated with specific stages in the software development process. Modeling the reliability growth of defects for each type separately allows identification of problems in the development process which may otherwise be masked when defects of all types are modeled together. The authors incorporate dependencies, from a failure detection point of view, between defects of two different types into a model for reliability growth. They use typed defect data from three different software projects to validate the model. They find that the defect detection rates are not equal for defects of different types within the project. Since each defect type can be associated with a software development stage, comparing the estimated defect detection rates and the dependency between types provides a basis for feedback on the process.<\n>",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "95"
+ },
+ {
+  "title": "An Online Semi-Supervised Clustering Algorithm Based on a Self-organizing Incremental Neural Network",
+  "profile_url": "https://ieeexplore.ieee.org/document/4371105/",
+  "doi": "10.1109/IJCNN.2007.4371105",
+  "abstract": "This paper presents an online semi-supervised clustering algorithm based on a self-organizing incremental neural network (SOINN). Using labeled data and a large amount of unlabeled data, the proposed semi-supervised SOINN (ssSOINN) can automatically learn the topology of input data distribution without any prior knowledge such as the number of nodes or a good network structure; it can subsequently divide the structure into sub-structures as the need arises. Experimental results we obtained for artificial data and real-world data show that the ssSOINN has superior performance for separating data distributions with high-density overlap and that ssSOINN Classifier (S3C) is an efficient classifier.",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "414"
+ },
+ {
+  "title": "New framework for dynamic scheduling of production systems",
+  "profile_url": "https://ieeexplore.ieee.org/document/40559/",
+  "doi": "10.1109/MIV.1989.40559",
+  "abstract": "A concept for dynamic scheduling in manufacturing systems is proposed. The scope of 'dynamic scheduling' treated includes online dynamic change of some scheduling parameters such as rules for part dispatching, machine selection, or routing. IF-THEN-type heuristic operators are utilized to perform this online real-time rule selection, and offline machine learning is used to obtain more detailed and powerful heuristics than those implemented by human experts or programmers. A learning algorithm has been developed to formulate operators that can treat quantity-type as well as quality-type information. A prototype computer program named learning aided dynamic scheduler (LADS) has been developed. A simulation study using LADS indicates good results for dynamic scheduling.<\n>",
+  "paper_citation": "2",
+  "patent_citation": "",
+  "full_text_views": "44"
+ },
+ {
+  "title": "The effect of stevioside glycosides blending liquid on the yield and quality in rice",
+  "profile_url": "https://ieeexplore.ieee.org/document/5966293/",
+  "doi": "10.1109/RSETE.2011.5966293",
+  "abstract": "The experiment was done at Qingdao agricultural university from 2008 to 2009. The varieties were Handao502 and Shengdao13. The effect of different concentration Stevioside glycosides blending liquid (SBL) on the yield and quality were studied. The best concentration and method of SBL were discussed. The result of the experiment showed: the appropriate spraying concentrations of SBL on upland and irrigated rice can enhance the grain per ear and the percentage of grain filling and then improve the grain yield up to 13.8% in upland rice and 9.4% in irrigated rice, decrease the amylase content of upland rice and irrigated rice, and reduce the gelatinization temperature, and improve the crude protein content of brown rice and the nutritional quality of rice, thus enhance the cooking and eating quality rice. It can improve the quality of appearance because the chalky rice rate and chalkiness degree decreased. Thus, appropriate spraying concentrations of SBL can improve the economic quality of rice and increase the economic benefit of the farmer.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "77"
+ },
+ {
+  "title": "ST 21:1997 - SMPTE Standard - For Video Recording — 3/4-in Type E Helical Scan — Records",
+  "profile_url": "https://ieeexplore.ieee.org/document/7290138/",
+  "doi": "10.5594/SMPTE.ST21.1997",
+  "abstract": "This standard specifies the location of the edges of the video, audio, and tracking-control records and the mechanical separation of the simultaneously recorded information of the video and audio records, as recorded on a 3/4-in type E helical-scan video tape recording cassette system, operating at a tape speed of 95.3 mm/s (3.752 in/s).",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "62"
+ },
+ {
+  "title": "A New Class of Materials for Magneto-Optical Applications: Transparent Amorphous Thin Films of Fe–B–Nb and Fe–B–Nb–Y Metallic Glassy Alloys",
+  "profile_url": "https://ieeexplore.ieee.org/document/6798048/",
+  "doi": "10.1109/TMAG.2013.2290584",
+  "abstract": "Optically highly transparent, soft magnetic thin films (4-18 nm thick) of Fe-B-Nb and Fe-B-Nb-Y-based glassy metal targets were grown on quartz substrates by pulsed laser deposition, and their optical and magneto-optical properties were investigated over the visible spectrum (400-700 nm). All the films found to be fully amorphous in structure were continuous with uniform thickness and surface morphology. Their optical transmittance in the range 50%-85% was found to be film thickness dependent over the entire visible regime. The Verdet constant (V) and Faraday rotation angle (θ\nf\n ) for different films (~4-18 nm) investigated as a function of wavelength (λ) show considerably higher values for the films of Fe-B-Nb-Y alloy as compared with those for Fe-B-Nb films, e.g., the ~4 nm film of Fe-B-Nb-Y alloy exhibits V ~ 49°/Oe cm and θ\nf\n ~ 26°/μm while it decreased to ~29.4°/Oe and ~11.8°/μm, respectively, for the Fe-B-Nb alloy at λ = 611 nm. A linear relationship is found for the wavelength dependence of V and θ\nf\n for both alloy systems. To the best of our knowledge, these values are considerably higher than those reported for any other magneto-optic material. The films are found to be soft magnetic with a high saturation moment while their magnetic coercivity values increases with thinness of the films. The observed combination of optical and magneto-optical properties of this new class of amorphous metallic films makes them viable for multifunctional magneto-optical applications.",
+  "paper_citation": "6",
+  "patent_citation": "",
+  "full_text_views": "276"
+ },
+ {
+  "title": "CoFeB/Cu layered film with crossed anisotropy for asymmetrical magneto-impedance",
+  "profile_url": "https://ieeexplore.ieee.org/document/1230371/",
+  "doi": "10.1109/INTMAG.2003.1230371",
+  "abstract": "In this paper, we describe the experimental results on sensitive (up to 20%/e) asymmetric MI in 1.5 micron thick overall CoFeB/Cu/CoFeB multilayers with crossed anisotropy, excited by a sinusoidal current (1-100 MHz) biased with a dc current. Furthermore, no hysteresis is observed.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "39"
+ },
+ {
+  "title": "Fractional-order hybrid control of robot manipulators",
+  "profile_url": "https://ieeexplore.ieee.org/document/725510/",
+  "doi": "10.1109/ICSMC.1998.725510",
+  "abstract": "In this paper it is studied the implementation of fractional-order algorithms in the position/force hybrid control of robotic manipulators. The system robustness and performances are analysed, in terms of time responses, and compared with other control approaches. Moreover, it is also investigated the effect of nonlinear phenomena at the robot joints such as nonlinear friction, dynamic backlash and flexibility.",
+  "paper_citation": "7",
+  "patent_citation": "",
+  "full_text_views": "172"
+ },
+ {
+  "title": "Signal Alignment in MIMO Y Channels with Two-way Relaying and Unicast Traffic Patterns",
+  "profile_url": "https://ieeexplore.ieee.org/document/8471752/",
+  "doi": "10.1109/CSNDSP.2018.8471752",
+  "abstract": "In this paper, we study a network information flow problem for a multiple-input-multiple-output (MIMO) wireless network with three users where (i) two users equipped with the same number of antennas exchange independent messages via the relay and (ii) one user transmits and receives data from the relay. This is a specialized version of the MIMO Y channel where, in the multiple access phase, three users send all messages simultaneously to the relay, and, in the broadcast phase, the relay transmits messages to users also on a single MIMO channel access. Specifically, in the proposed signal alignment (SA) schemes, we design precoding and nulling vectors to improve the bit error rate (BER) performance. In addition to SA constraints, we introduce the orthogonality requirements between spatial signaling dimensions or utilize degrees of freedom in selecting precoding vectors to maximize distances between signaling points representing network coded messages and unicast data.",
+  "paper_citation": "3",
+  "patent_citation": "",
+  "full_text_views": "92"
+ },
+ {
+  "title": "The network model and routing algorithm for scalable PoC system",
+  "profile_url": "https://ieeexplore.ieee.org/document/5620513/",
+  "doi": "10.1109/ICCASM.2010.5620513",
+  "abstract": "Push-to-talk over Cellular (PoC) is considered as one of the most important services in Next Generation Networks (NGN). Push-To-Talk (PTT) is the core service operation for PoC. This paper analyzes the service requirements for PTT and find it can be modeled as the problem of Delay and delay Variation Bounded Multicasting Network (DVBMN). We designed an algorithm named Faster CHAINS (FCHAINS) for DVBMN, and based on it a new more scalable user plane architecture for PoC is proposed. Compared with the PoC's user plane architecture standardized by Open Mobile Alliance (OMA), the new user plane architecture is more scalable and has better end-to-end delay performance for PTT service.",
+  "paper_citation": "",
+  "patent_citation": "",
+  "full_text_views": "124"
+ }
+]
