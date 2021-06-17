@@ -1,0 +1,202 @@
+[
+ {
+  "title": "A Dead-Time-Controlled Gate Driver Using Current-Sense FET Integrated in SiC MOSFET",
+  "profile_url": "https://ieeexplore.ieee.org/document/7929353/",
+  "doi": "10.1109/TPEL.2017.2704620",
+  "doi_url": "https://sci-hub.do/10.1109/TPEL.2017.2704620",
+  "pdf_url": "https://twin.sci-hub.do/6357/48415d666e6fab9922cb080ea27ccf56/niwa2017.pdf#view=FitH",
+  "abstract": "In comparison with silicon IGBT, silicon carbide (SiC) MOSFET is expected to reduce the switching loss and the conduction loss and to remove external freewheeling diodes (FWDs). However, its body diode has comparatively high forward voltage; therefore, the diode conduction loss generated during dead time increases. As a result, the loss reduction by the use of the SiC MOSFET can be weakened. This paper proposes a simple dead-time controller integrated in an isolated gate driver in order to reduce the diode conduction loss during the dead time. The proposed method has high speed and high robustness against switching noise by using of a current-sense FET with small parasitic capacitance. As a result, the diode conduction time can be shortened within 0.1 μs. In addition, the proposed dead-time control method can be achieved by existing components, including the current-sense FET, which is currently used for short-circuit current detection in hybrid vehicle applications. The proposed method was applied to a 10 kW boost converter with SiC MOSFET. The experimental results showed 1% higher efficiency of the converter with the proposed dead-time-controlled gate driver compared to that without dead-time control circuit, and the efficiency was the similar level as when a SiC Schottky barrier diode (SBD) was used as FWDs."
+ },
+ {
+  "title": "Variation of Transfer Functions with the Modification of Pole Location",
+  "profile_url": "https://ieeexplore.ieee.org/document/1086878/",
+  "doi": "10.1109/TCT.1962.1086878",
+  "doi_url": "https://sci-hub.do/10.1109/TCT.1962.1086878",
+  "pdf_url": "https://moscow.sci-hub.do/3191/d0e78e593fafac4c865323243ec2076f/cartianu1962.pdf#view=FitH",
+  "abstract": ""
+ },
+ {
+  "title": "Cache locking optimization in java virtual machine",
+  "profile_url": "https://ieeexplore.ieee.org/document/6784761/",
+  "doi": "10.1109/ANTHOLOGY.2013.6784761",
+  "doi_url": "https://sci-hub.do/10.1109/ANTHOLOGY.2013.6784761",
+  "pdf_url": "https://zero.sci-hub.do/3370/61d720a7474932f1d192a88bd8f9b2e9/chuanwenlin2013.pdf#view=FitH",
+  "abstract": "Cache plays an important role in multilevel storage system. It can greatly reduce the memory access latency. So the cache hit rate has a significant impact on the performance of the application. Many processors provide cache locking mechanism, which can lock the certain lines in cache. It enables an application to affect the cache replacement decisions under software control. This paper presents a novel method, which uses cache locking mechanism to reduce the run-time of java virtual machine (JVM). JVM often uses just-in-time compiler (JIT) to improve the performance. JIT compiles the method that has been invoked certain times, and then JVM executes the compiled method when invoking this method the next time. This paper analyzes the calling situation of the compiled method in JVM, and then proposes a heuristic approach to lock the compiled method in cache for an appropriate period. It can reduce cache miss rate when JVM executes the compiled method. The algorithm has been implemented in HotSpot based on Loongson-3A. Also, it can be implemented in other run-time systems. Experiment results show that the cache locking heuristic algorithm averagely reduces the cache miss rate by 8.5%, and improves the performance by 4% on the benchmark SPECjvm2008."
+ },
+ {
+  "title": "An Analytical Method to Predict Packet Losses over Bursty Wireless Channels",
+  "profile_url": "https://ieeexplore.ieee.org/document/6044670/",
+  "doi": "10.1109/LCOMM.2011.100511.111663",
+  "doi_url": "https://sci-hub.do/10.1109/LCOMM.2011.100511.111663",
+  "pdf_url": "https://zero.sci-hub.do/1435/143254fd3798a1dc6bbfb1b2d37cfc06/liu2011.pdf#view=FitH",
+  "abstract": "In this letter, we perform an analytical investigation of packet losses for bursty wireless channels and present a closed-form solution for the packet loss rate. The solution can adapt to the channel dynamics and predict the packet loss rate more fast and accurately. With the results, we can design cross-layer protocols over wireless networks more conveniently."
+ },
+ {
+  "title": "Simultaneous image classification and annotation",
+  "profile_url": "https://ieeexplore.ieee.org/document/5206800/",
+  "doi": "10.1109/CVPR.2009.5206800",
+  "doi_url": "https://sci-hub.do/10.1109/CVPR.2009.5206800",
+  "pdf_url": "https://zero.sci-hub.do/3018/916956dd081b8b44c5d8e879c9231b84/chongwang2009.pdf#view=FitH",
+  "abstract": "Image classification and annotation are important problems in computer vision, but rarely considered together. Intuitively, annotations provide evidence for the class label, and the class label provides evidence for annotations. For example, an image of class highway is more likely annotated with words “road,” “car,” and “traffic” than words “fish,” “boat,” and “scuba.” In this paper, we develop a new probabilistic model for jointly modeling the image, its class label, and its annotations. Our model treats the class label as a global description of the image, and treats annotation terms as local descriptions of parts of the image. Its underlying probabilistic assumptions naturally integrate these two sources of information. We derive an approximate inference and estimation algorithms based on variational methods, as well as efficient approximations for classifying and annotating new images. We examine the performance of our model on two real-world image data sets, illustrating that a single model provides competitive annotation performance, and superior classification performance."
+ },
+ {
+  "title": "Development of simulation-based software design solution",
+  "profile_url": "https://ieeexplore.ieee.org/document/6852555/",
+  "doi": "10.1109/CCDC.2014.6852555",
+  "doi_url": "https://sci-hub.do/10.1109/CCDC.2014.6852555",
+  "pdf_url": "https://zero.sci-hub.do/3381/cb448ac42048702c486fa13297b8b394/aksyonov2014.pdf#view=FitH",
+  "abstract": "The paper focuses on development and application of a software engineering system BPsim.SD, part of decision support suite BPsim.DSS, which greatly simplifies analysts work and their interaction with software developers. System is integrated into a decision support suite, which allows instant transition from software entities design to simulation of developed product with possible application of simulation experiment design for tough projects. Paper gives several examples of the system deployment in production environments, both for model validation (which was successful) and for software design from scratch, which resulted in benefits from decreased costs and avoided data losses. After verification the system has been used in multiple projects. This paper describes software application for design of an information system for shareholders registers, located in Russia."
+ },
+ {
+  "title": "An accuracy comparison between two methods of double data entry in Chinese medicine research",
+  "profile_url": "https://ieeexplore.ieee.org/document/6112464/",
+  "doi": "10.1109/BIBMW.2011.6112464",
+  "doi_url": "https://sci-hub.do/10.1109/BIBMW.2011.6112464",
+  "pdf_url": "https://zero.sci-hub.do/3484/7d1f6becf851d25bbdeed7b069c37ea0/shao-nanliu2011.pdf#view=FitH",
+  "abstract": "To compare two methods for data verification, provide reference for appropriate data entry's verification. Methods: This study is about the traditional Chinese medicine (TCM) clinical research for influenza A (H1N1) therapy of the special project of TCM Industry. We used two methods for double data entry, and randomly selected 50 cases from two databases using two different data entry methods, respectively. We verified each variable with the original case report forms, recorded every error, and analyzed the reason of mistakes. Results: The error rates of the Interactive Double Data Entry verification was 15.17 per 10,000 data items (fields). The error rate of the consistent verification was 1.18 per 10,000 data items (fields). The interactive verification's error rate was significantly higher than the consistent verification (P <; 0.05). Conclusions: The error rates of the consistency check were lower than the interactive verification under the same condition, interactive verification was more suitable for data in large clinical research, limited time and case analyzing required right after verification. Experienced data entry operators who are familiar with the contents of data, and have rigorous attitude are the keys to guarantee high quality data no matter what methods are chosen."
+ },
+ {
+  "title": "Perceptual learning and abstraction in machine learning: an application to autonomous robotics",
+  "profile_url": "https://ieeexplore.ieee.org/document/1624543/",
+  "doi": "10.1109/TSMCC.2006.871139",
+  "doi_url": "https://sci-hub.do/10.1109/TSMCC.2006.871139",
+  "pdf_url": "https://moscow.sci-hub.do/2549/6cfdf7cd3dc5437ee5236f6aec33f008/bredeche2006.pdf#view=FitH",
+  "abstract": "This paper deals with the possible benefits of perceptual learning in artificial intelligence. On the one hand, perceptual learning is more and more studied in neurobiology and is now considered as an essential part of any living system. In fact, perceptual learning and cognitive learning are both necessary for learning and often depend on each other. On the other hand, many works in machine learning are concerned with \"abstraction\" in order to reduce the amount of complexity related to some learning tasks. In the abstraction framework, perceptual learning can be seen as a specific process that learns how to transform the data before the traditional learning task itself takes place. In this paper, we argue that biologically inspired perceptual learning mechanisms could be used to build efficient low-level abstraction operators that deal with real-world data. To illustrate this, we present an application where perceptual-learning-inspired metaoperators are used to perform an abstraction on an autonomous robot visual perception. The goal of this work is to enable the robot to learn how to identify objects it encounters in its environment."
+ },
+ {
+  "title": "A PSO-RRBF neural network for BOD prediction in sewage treatment",
+  "profile_url": "https://ieeexplore.ieee.org/document/8865924/",
+  "doi": "10.23919/ChiCC.2019.8865924",
+  "doi_url": "https://sci-hub.do/10.23919/ChiCC.2019.8865924",
+  "pdf_url": "",
+  "abstract": "Aiming at the question that the effluent biochemical oxygen demand (BOD) in sewage treatment is difficult to measure accurately in real time, a soft-measurement model of recursive radial basis function (RRBF) neural network based on PSO algorithm (PSO-RRBF) is proposed to predict the effluent BOD. Firstly, the PSO algorithm is put forward to determine not only the input variables but also the structure of the RRBF effectively. Secondly, the gradient descent method is used to adjust the weights, center and width. Finally, the soft-measurement model is applied to the actual sewage treatment process. The experimental results show that the soft-measurement model has a more compact structure and its accuracy is improved compared with other models."
+ },
+ {
+  "title": "A systematic approach for analyzing hop count and path reliability of mobile Ad Hoc networks",
+  "profile_url": "https://ieeexplore.ieee.org/document/8125833/",
+  "doi": "10.1109/ICACCI.2017.8125833",
+  "doi_url": "https://sci-hub.do/10.1109/ICACCI.2017.8125833",
+  "pdf_url": "",
+  "abstract": "A mobile ad-hoc network is infrastructureless dynamic network that consists of collection of wireless mobile nodes which communicates with each other without the use of centralized network. The research on existing literature of such network show evidence of plenty of algorithms and models that can estimate hop count based on connectivity without considering mobility of the network. Therefore in this paper, an algorithm is proposed for evaluating the average hop count and illustrates the effect of hop count on path reliability for various scenario metrics such as network size, network coverage area, transmission range of the mobile nodes considering mobility of mobile nodes. The methodology uses Random Way Point Mobility Model to locate the spatial distribution of mobile nodes. Finally the simulated results are used to examine the network average hop count and path reliability through extensive simulations. The results show that the maximum path reliability with an optimum hop count can be obtained with suitable choice of network size within a selected coverage area of the networks that are operable in harsh environment."
+ },
+ {
+  "title": "A multi-threshold spectrum sensing algorithm based on the phototropism theory for cognitive radio",
+  "profile_url": "https://ieeexplore.ieee.org/document/6920349/",
+  "doi": "10.1109/ICIST.2014.6920349",
+  "doi_url": "https://sci-hub.do/10.1109/ICIST.2014.6920349",
+  "pdf_url": "https://moscow.sci-hub.do/3015/676342d5cee84c66ad7ca5868df17cd3/zhao2014.pdf#view=FitH",
+  "abstract": "Cognitive radio (CR) is regarded as a key technology to solve the scarcity of spectrum resources and improve spectrum utilization. Spectrum sensing is one of the basic components of CR technology. Energy sensing, matched filtering sensing and cyclostationary sensing are three classical methods for spectrum sensing in CR networks, but all of them still have some defects. In this paper, phototropism in biology is introduced and “light source” model is established for spectrum sensing in CR networks, and a new spectrum sensing technology is researched based on the phototropism. After comparing the commonness and difference between plant growth and spectrum sensing process, a multi-threshold spectrum sensing algorithm based on the phototropism principle for cognitive radio is proposed. Simulation results demonstrate that the proposed algorithm can improve the performance of the spectrum sensing in CR networks, compared with three classical methods."
+ },
+ {
+  "title": "Ontology-Based Data Integration for Semantic Interoperability in Air Traffic Management",
+  "profile_url": "https://ieeexplore.ieee.org/document/9031497/",
+  "doi": "10.1109/ICSC.2020.00059",
+  "doi_url": "https://sci-hub.do/10.1109/ICSC.2020.00059",
+  "pdf_url": "https://sci-hub.do/downloads/2020-05-25/37/egami2020.pdf?rand=60c998ba0f76b#view=FitH",
+  "abstract": "In global air traffic management (ATM), it is necessary to exchange various information related to aircraft operation such as the flight plans, surveillance, airports, weather, and restrictions, among different systems and operators. Hence, the concept of System Wide Information Management (SWIM) has been promoted by the International Civil Aviation Organization (ICAO) to implement interoperability and harmonization in global operation. In the SWIM environment, all the related stakeholders need to efficiently obtain the necessary ATM data with situational awareness from various information domains. However, this is difficult to realize in the current system, as different data are structured based on different data models. In this study, we construct domain ontologies based on flight, aeronautical, and weather information exchange models. Further, we develop a common ontology that uniformly defines the inconsistent representation in terms of the 4D, 3D, and 2D concepts and their inclusion relations and propose an integration method for heterogeneous domain ontologies. Moreover, we apply the proposed ontologies to a SWIM test system. The applicability and efficiency of the proposal are demonstrated through a case study in the SWIM environment."
+ },
+ {
+  "title": "Power optimization of delay constrained circuits",
+  "profile_url": "https://ieeexplore.ieee.org/document/880754/",
+  "doi": "10.1109/ASIC.2000.880754",
+  "doi_url": "https://sci-hub.do/10.1109/ASIC.2000.880754",
+  "pdf_url": "https://moscow.sci-hub.do/3155/94eefaf205c95c932a70fd23bdab55e6/power-optimization-of-delay-constrained-circuits.pdf#view=FitH",
+  "abstract": "We present a framework for combining Voltage Scaling (VS) and Gate Sizing (GS) techniques for power optimizations. We introduce a fast algorithm for choosing gates for sizing and voltage scaling such that the total power is minimized under delay constraints. We also use a more accurate estimate for determining the power dissipation of the circuit by taking into account the short circuit power along with the dynamic power. A better model of the short circuit power is used which takes into account the loading capacitance of the gates. Our results show that the combination of VS and GS perform better than the techniques applied in isolation. An average power reduction of 73% is obtained when decisions are taken assuming dynamic power only. In contrast, average power reduction is 77% when decisions include the short circuit power dissipation."
+ },
+ {
+  "title": "Exploring design space using SAVAGE: a simulated annealing based VLSI architecture generator",
+  "profile_url": "https://ieeexplore.ieee.org/document/140663/",
+  "doi": "10.1109/MWSCAS.1990.140663",
+  "doi_url": "https://sci-hub.do/10.1109/MWSCAS.1990.140663",
+  "pdf_url": "https://zero.sci-hub.do/3474/3ad35cbe0eb304049e3ce40651a55ac4/exploring-design-space-using-savage-a-simulated-annealing-based-.pdf#view=FitH",
+  "abstract": "The authors present the prototype version of a synthesis system based around an architectural script design method. It is controlled by the computational technique known as simulated annealing. The system is exercized using a 5th order wave digital filter design.<\n>"
+ },
+ {
+  "title": "Differentially flat design of under-actuated planar robots: Experimental results",
+  "profile_url": "https://ieeexplore.ieee.org/document/4543576/",
+  "doi": "10.1109/ROBOT.2008.4543576",
+  "doi_url": "https://sci-hub.do/10.1109/ROBOT.2008.4543576",
+  "pdf_url": "https://moscow.sci-hub.do/3407/b02528e427192ae5e8acc9833babf821/sangwan2008.pdf#view=FitH",
+  "abstract": "Control of nonlinear under-actuated systems is an area of ongoing research. In certain applications, under- actuated systems are unavoidable. For instance, a biped can not have an actuator between the foot and the ground. In industrial robots, under-actuation can minimize cost and dead weight. Differential flatness, if applicable, provides a systematic approach to plan and control feasible trajectories for such systems. Recently, the authors have formulated a philosophy to design under-actuated planar manipulators that are differentially flat [1]. The design philosophy has two sufficient conditions: (i) an inertia distribution scheme, and (ii) an actuator and torque spring placement scheme. The philosophy covers a broad range of n-DOF manipulator designs with the degree of under- actuation varying from 1 to n - 1 as opposed to under-actuation by one or two in most of the literature on under-actuated manipulators. This paper presents a 3-DOF planar manipulator designed on the basis of this philosophy and an experimental study of controllers based on its differential flatness property. It is demonstrated experimentally that the differential flatness based controllers are able to track the desired trajectories with small tracking errors even in the presence disturbances like friction, parameter uncertainty etc. It is shown via simulation that the errors observed in the trajectories can be attributed to the friction present at the unactuated joint."
+ },
+ {
+  "title": "Visual Cues in Estimation of Part-To-Whole Comparisons",
+  "profile_url": "https://ieeexplore.ieee.org/document/8933718/",
+  "doi": "10.1109/VISUAL.2019.8933718",
+  "doi_url": "https://sci-hub.do/10.1109/VISUAL.2019.8933718",
+  "pdf_url": "https://sci-hub.do/downloads/2020-01-20/5e/redmond2019.pdf?rand=60c9992ba277b#view=FitH",
+  "abstract": "Pie charts were first published in 1801 by William Playfair and have caused some controversy since. Despite the suggestions of many experts against their use, several empirical studies have shown that pie charts are at least as good as alternatives. From Brinton to Few on one side and Eells to Kosara on the other, there appears to have been a hundred-year war waged on the humble pie. In this paper a set of experiments are reported that compare the performance of pie charts and horizontal bar charts with various visual cues. Amazon's Mechanical Turk service was employed to perform the tasks of estimating segments in various part-to-whole charts. The results lead to recommendations for data visualization professionals in developing dashboards."
+ },
+ {
+  "title": "Development of a Quasi 2-D Modeling of Tubular Solid-Oxide Fuel Cell for Real-Time Control",
+  "profile_url": "https://ieeexplore.ieee.org/document/6683072/",
+  "doi": "10.1109/TEC.2013.2293223",
+  "doi_url": "https://sci-hub.do/10.1109/TEC.2013.2293223",
+  "pdf_url": "https://moscow.sci-hub.do/2285/62786bcbcb115ad249b48edd72d75201/gao2014.pdf#view=FitH",
+  "abstract": "This paper presents the modeling approach for a quasi-2-D tubular anode-supported solid-oxide fuel cell (SOFC) for real-time control implementation. The proposed system considers a multidomain electrochemical, fluidic, and thermal dynamic modeling and it is experimentally validated against a SOFC real world implementation. Implicit iterative algebraic equations have been introduced and implemented in C language in order to have fast real-time execution. The methodology for implementing such an iterative solver is discussed in details and the results demonstrate practical feasibilities in advancing real-time control of SOFC."
+ },
+ {
+  "title": "Switching Noise Improvement of a Limit-Cycle Amplifier Using a Negative Hysteresis Relay",
+  "profile_url": "https://ieeexplore.ieee.org/document/6556945/",
+  "doi": "10.1109/TPEL.2013.2272763",
+  "doi_url": "https://sci-hub.do/10.1109/TPEL.2013.2272763",
+  "pdf_url": "https://zero.sci-hub.do/2287/7ef1b5a8db1fd004d855b71dd30aa559/duarte2014.pdf#view=FitH",
+  "abstract": "Limit-cycle or self-oscillating power amplifiers (SOPAs) are seen as an effective and simple option to achieve linear yet efficient power amplification. Unfortunately, they suffer from unfiltered switching noise, also known as ripple, whose amplitude increases for progressively lower self-oscillating frequency. Moreover, such self-oscillating frequency changes with the input signal and its dependency curve, as well as its maximum, are determined by the overall loop delay and by the open-loop filter. To remedy this SOPAs' pitfall, this paper presents a method to increase the self-oscillation frequency and reduce frequency modulation for a fixed propagation delay and loop filter. This is achieved using a relay that exhibits a novel kind of hysteresis. For that, the theory of its working principle will be discussed in detail, its transfer characteristic will be defined, and an implementation suitable for VLSI will be proposed. To validate the concept, simulations and an experimental prototype were carried out to compare the behavior of existing types of SOPA with the proposed one."
+ },
+ {
+  "title": "MTI noise integration loss",
+  "profile_url": "https://ieeexplore.ieee.org/document/1455060/",
+  "doi": "10.1109/PROC.1977.10791",
+  "doi_url": "https://sci-hub.do/10.1109/PROC.1977.10791",
+  "pdf_url": "https://moscow.sci-hub.do/3458/880d429bae31e5b9c54eab68286774fd/trunk1977.pdf#view=FitH",
+  "abstract": "MTI signal processing correlates the independent input noise and thus degrades detection performance when the MTI pulses are integrated. Using simulation techniques, this degradation called the MTI noise integration loss is calculated for small and intermediate sample sizes."
+ },
+ {
+  "title": "SVM-Modified-FFE Enabled Chirp Management for 10G DML-Based 50Gb/s/λ PAM4 IM-DD PON",
+  "profile_url": "https://ieeexplore.ieee.org/document/8696441/",
+  "doi": "",
+  "doi_url": "",
+  "pdf_url": "",
+  "abstract": ""
+ },
+ {
+  "title": "Low noise amplifier for recording ENG signals in implantable systems",
+  "profile_url": "https://ieeexplore.ieee.org/document/1328933/",
+  "doi": "10.1109/ISCAS.2004.1328933",
+  "doi_url": "https://sci-hub.do/10.1109/ISCAS.2004.1328933",
+  "pdf_url": "https://zero.sci-hub.do/3600/5fc031bc4c6021ad10fada9e6c7175d1/low-noise-amplifier-for-recording-eng-signals-in-implantable-sys.pdf#view=FitH",
+  "abstract": "In this paper, a low noise amplifier used to sense ENG signals with amplitudes greater than 1 /spl mu/V/sub p/ has been designed and fabricated in 0.7 /spl mu/m CMOS technology. The electrical characterization and results in acute experiments with rats are presented. The main characteristics are: low noise (5 nV/sub rms///spl radic/Hz), high CMRR (>90 dB), programmable gain (77 dB-103 dB), bandpass from 100 Hz to 5 kHz and tolerance to the input offset greater than /spl plusmn/50 mV. In order to implement the low cut-off frequency of the band pass filter, an active resistor of 80 M/spl Omega/ value has been designed with programmable tuning."
+ },
+ {
+  "title": "Amorphous selenium (a-Se) based wide wave-range photodetector driven by diamond cold cathode",
+  "profile_url": "https://ieeexplore.ieee.org/document/6624739/",
+  "doi": "10.1109/IVNC.2013.6624739",
+  "doi_url": "https://sci-hub.do/10.1109/IVNC.2013.6624739",
+  "pdf_url": "https://moscow.sci-hub.do/3102/fe6287433384bcad3ffd36c7f3100dde/masuzawa2013.pdf#view=FitH",
+  "abstract": "The amorphous selenium based photodetector showed an extremely high sensitivity to UV light of up to 1,000 carriers are generated per incident photon. The results would lead to development of an ultra high-sensitivity photodetector for wide wave-range covering visible to UV region."
+ },
+ {
+  "title": "Optimal Design of an “Energy Tower” Power Plant",
+  "profile_url": "https://ieeexplore.ieee.org/document/4374093/",
+  "doi": "10.1109/TEC.2007.905349",
+  "doi_url": "https://sci-hub.do/10.1109/TEC.2007.905349",
+  "pdf_url": "https://moscow.sci-hub.do/2108/ad832d1813be9864fcfd2aa0d71a6169/omer2008.pdf#view=FitH",
+  "abstract": "The energy tower (ET) is a power plant that uses seawater and solar energy accumulated in hot dry desert air to produce electricity. An optimization algorithm was designed and programmed for the design of an ET that also includes water reservoirs, pipes, and pumps. The algorithm is a variant of the block coordinate descent method, where one subproblem is formulated as a linear programming problem, and a second subproblem usually has an analytic solution. If the analytic solution is nonfeasible, a variant of the quasi-Newton algorithm is used instead. The algorithm was tested with input information from the arid area near Eilat, the Red Sea, Israel."
+ },
+ {
+  "title": "AC–DC–AC Single-Phase Multilevel Six-Leg Converter With a Reduced Number of Controlled Switches",
+  "profile_url": "https://ieeexplore.ieee.org/document/7932480/",
+  "doi": "10.1109/TPEL.2017.2707064",
+  "doi_url": "https://sci-hub.do/10.1109/TPEL.2017.2707064",
+  "pdf_url": "https://twin.sci-hub.do/6363/9e68dc3e991e116e37640a464cdb22e5/defreitas2017.pdf#view=FitH",
+  "abstract": "This paper proposes two unidirectional single-phase ac-dc-ac converters with a reduced number of controlled switches composed of two three-leg converters connected in series. The proposed converters allow us to feed the load voltage with sinusoidal voltages with constant amplitude and frequency and to operate with sinusoidal grid current with a high power factor. The converters can then be used as uninterruptible power supplies and unified power quality conditioners for nonregenerative applications. The system model, space-vector pulse width modulation technique, and a complete control system are given. A method to regulate the dc-link voltages using the voltage vector redundancies is presented. The proposed topologies are compared with the conventional one in terms of operation range, capability to operate with a unity grid power factor, voltage harmonic distortions, semiconductor losses, and others characteristics. Simulation and experimental results in many operating conditions are provided to validate the feasibility of the system."
+ },
+ {
+  "title": "Preliminary Water Purification from Surfactants and Organic Compounds through Ozone Oxidation, Intensified by Electrical Impulses",
+  "profile_url": "https://ieeexplore.ieee.org/document/8764235/",
+  "doi": "10.1109/ESS.2019.8764235",
+  "doi_url": "https://sci-hub.do/10.1109/ESS.2019.8764235",
+  "pdf_url": "https://sci-hub.do/downloads/2019-08-20/5c/10.1109@ESS.2019.8764235.pdf?rand=60c99a0f83528#view=FitH",
+  "abstract": "The importance of purification of everyday wastes contains in elimination of surfactants (SA) and organic compounds. In this work the results of experimental tests of organic oxidation by ozone, which are amplified by electrical discharges or ultrasound are presented. Circuit diagrams of water purification from surfactants and organic pollutants (OP) are given. Model solutions of sodium lauryl sulfate, as SA, and ethylenediaminetetraacetic acid, as OP are used. The regularities of the influence of pH in the process of electrodischarge and cavitation treatment of OS solutions in the presence of ozone on the quantitative indicators of their destruction were established. The influence of the duration of the treatment process on the persistence of contaminants. The oxidation process was investigated at various concentrations of the initial materials. It has been established that the destruction of surfactants and drugs proceeds better when ozone is combined with the effects of electropulse, at high pH values."
+ }
+]

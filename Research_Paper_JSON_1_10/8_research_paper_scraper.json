@@ -1,0 +1,202 @@
+[
+ {
+  "title": "Mining Human Attractiveness from Chinese Dating Game Show If You are the One",
+  "profile_url": "https://ieeexplore.ieee.org/document/6519804/",
+  "doi": "10.1109/ICSS.2013.45",
+  "doi_url": "https://sci-hub.do/10.1109/ICSS.2013.45",
+  "pdf_url": "https://moscow.sci-hub.do/3356/86b112b8d59982d6d2718a33fadac1e1/xueleihu2013.pdf#view=FitH",
+  "abstract": "Matchmaking is an everlasting topic in human society. In this paper, we focus on human attractiveness in matchmaking for the new generation of individuals in China based on If You Are The One, a famous dating game show in China. We collect a comprehensive contestant dataset, including numeric, text and image attributes. We investigate the influence of various factors on human attractiveness using correlation analysis and average face technology. Experimental results show that attractiveness is closely related to job and age, and facial features are more important for female than for male. A visualization of the matching network is also given to further explore some interesting phenomena."
+ },
+ {
+  "title": "Characterization of three phase flux reversal machine as an automotive generator",
+  "profile_url": "https://ieeexplore.ieee.org/document/911407/",
+  "doi": "10.1109/60.911407",
+  "doi_url": "https://sci-hub.do/10.1109/60.911407",
+  "pdf_url": "https://moscow.sci-hub.do/2356/a168f9902009e5310e00fc5b5ec8bf39/wang2001.pdf#view=FitH",
+  "abstract": "The three phase flux reversal machine (FRM) is a doubly-salient stator-permanent magnet (PM) machine with flux linkage reversal in the stator three phase concentrated windings. It can operate in both motoring and generating modes. In this paper, a prototype three phase flux reversal machine operating as a generator is studied both theoretically and experimentally. The equivalent model considering the core losses is obtained through extensive loss tests. A constant output voltage rectifier-chopper unit is then coupled with the loss model and the PSpice simulation is carried out. Hardware of the rectifier-chopper unit is then built and put into operation together with the FRM. Encouraging results are achieved indicating that the three phase FRM, with proper output control, is a viable option for the next generation automotive generator system with the merits of robustness, low cost, wide speed range and fast transient response. Whereas the studied machine in this paper is only a prototype, a new three phase FRM of improved design is being built and its projected performance in terms of the power density and the cogging torque is much better."
+ },
+ {
+  "title": "Delineating Factors that Influence Student Performance in a Data Structures Course",
+  "profile_url": "https://ieeexplore.ieee.org/document/8659300/",
+  "doi": "10.1109/FIE.2018.8659300",
+  "doi_url": "https://sci-hub.do/10.1109/FIE.2018.8659300",
+  "pdf_url": "https://sci-hub.do/downloads/2019-11-04/eb/bisgin2018.pdf?rand=60c9a1f8e4311#view=FitH",
+  "abstract": "The stakeholders in the computer science education have been trying to pinpoint the most relevant factors and variables contributing significantly to student recruitment, success, and retention in computing degrees over the last several decades. The goal of these efforts is to intervene using these controllable variables as early as possible and at key transition junctions for the most benefit to the students. Yet, there is still not a general agreement, let alone a consensus, neither on the most important factors nor on the degree of their contributions. While we cannot provide a panacea to this elusive and challenging problem, in this paper, we report our initial study, analyses, and results of what we intend to transform into a longitudinal undertaking to delineate success factors in computing programs in general, and in CS2 (data structures) courses in particular. Our analyses confirm some of the findings from the literature, such as CS1 performance as the most important contributor for CS2 success as well as prior programming experience, and perception of computing. At the same time we diverge from some of the literature on such factors as high school GPA or CSO performance. Our conclusions corroborate one of the rare consensus in the computing education literature that more efforts should still be exerted in this important topic. We also provide a new and novel taxonomy of the factors for success in computing programs as well as a short summary of the ACM Guidelines over time."
+ },
+ {
+  "title": "Theoretical study of quantum squeezing to graphene based drum resonator",
+  "profile_url": "https://ieeexplore.ieee.org/document/7425468/",
+  "doi": "10.1109/3M-NANO.2015.7425468",
+  "doi_url": "https://sci-hub.do/10.1109/3M-NANO.2015.7425468",
+  "pdf_url": "https://moscow.sci-hub.do/5008/968d91876cbde39dec7b00aac34e9dd9/ma2015.pdf#view=FitH",
+  "abstract": "Based on reported study of quantum squeezing on doubly clamped structure, we performed comprehensive investigation on graphene drum resonator. Two key criteria of achieving squeezing states, zero-point displacement uncertainty and squeezing factor of strained multilayer graphene drum resonator are studied. The research fills gap of quantum squeezing to drum resonator for implementing graphene-based nanoscale transducers with ultra-high sensitivity that can be potentially utilized to detect a variety of sensing targets, including atomic force, single biological molecule, and gravitational wave."
+ },
+ {
+  "title": "Temporal data obsolescence: modelling problems",
+  "profile_url": "https://ieeexplore.ieee.org/document/674130/",
+  "doi": "10.1109/TIME.1998.674130",
+  "doi_url": "https://sci-hub.do/10.1109/TIME.1998.674130",
+  "pdf_url": "https://zero.sci-hub.do/3151/60529c20d3e83fa4d458f90c6f54c7f2/temporal-data-obsolescence-modelling-problems.pdf#view=FitH",
+  "abstract": "Data and knowledge bases model certain aspects of the world. When the state of the world changes faster than our ability to discover these state changes and update the data repositories accordingly, the confidence on the validity of data decays with time, and software systems running in such environments have to cope with the decay of confidence in the data lest they run the risk of giving wrong answers and behaving erroneously. This gradual loss of confidence in stored data is termed information obsolescence, and it is inherently a temporal phenomenon. We have come across such a problem when designing an information system for traffic monitoring and control in a large city, and investigate some problems related to this modelling task. We propose two approaches to deal with information obsolescence, the analytical approach and the algebraic approach, and show how both can converge to a general, temporal treatment of obsolescence. Our immediate goal is to try to approximate and reduce the whole problem of monitoring and controlling obsolescence of information to a purely temporal phenomenon, so that we can model the system using conventional temporal database technology."
+ },
+ {
+  "title": "A monolithic p-channel JFET quad op amp with in-package trim and enhanced gain-bandwidth product",
+  "profile_url": "https://ieeexplore.ieee.org/document/1052864/",
+  "doi": "10.1109/JSSC.1987.1052864",
+  "doi_url": "https://sci-hub.do/10.1109/JSSC.1987.1052864",
+  "pdf_url": "https://moscow.sci-hub.do/2051/27584b88514c4ca4105437cec7b7e3d1/vyne1987.pdf#view=FitH",
+  "abstract": "An amplifier that uses an analog resistive trim element (trimistor) that can be reduced in value by Al/Si filaments formed by an alloying process is described. Filament generation and their lengths are controlled by current pulses through the element. A general in-package trim technique was developed using the trimistor and a high-voltage high-current diode, allowing the package pins to be multifunctional. This combination permits the input offset voltage for each channel of a quad op amp to be trimmed in the package to 10 /spl mu/V. The differential input stage utilizes JFET followers, which allows the separation of JFET/bipolar biasing currents. This results in a low offset voltage temperature coefficient (1/spl sigma/) of 2.5 /spl mu/V//spl deg/C. The gain-bandwidth product is enhanced over the unity-gain frequency by using a dual-doublet frequency-compensation technique. One doublet is defined using the JFET follower with feedforward capacitance, and the second doublet is formed by local positive AC feedback applied to the input current mirror. The amplifier is unity-gain stable, with a 100 MHz gain-bandwidth product (at 100 kHz) and 25 V//spl mu/S slew rate. The symmetrical quad layout is 80/spl times/120 mil/SUP 2/ with 6% of the area dedicated to trim. The die is suitable for a 14-pin narrow-body surface-mount package."
+ },
+ {
+  "title": "OpenCL-Based FPGA-Platform for Stencil Computation and Its Optimization Methodology",
+  "profile_url": "https://ieeexplore.ieee.org/document/7582502/",
+  "doi": "10.1109/TPDS.2016.2614981",
+  "doi_url": "https://sci-hub.do/10.1109/TPDS.2016.2614981",
+  "pdf_url": "https://twin.sci-hub.do/6065/32c2c4924f53cacab046e4c8f9a1de11/waidyasooriya2016.pdf#view=FitH",
+  "abstract": "Stencil computation is widely used in scientific computations and many accelerators based on multicore CPUs and GPUs have been proposed. Stencil computation has a small operational intensity so that a large external memory bandwidth is usually required for high performance. FPGAs have the potential to solve this problem by utilizing large internal memory efficiently. However, a very large design, testing and debugging time is required to implement an FPGA architecture successfully. To solve this problem, we propose an FPGA-platform using C-like programming language called open computing language (OpenCL). We also propose an optimization methodology to find the optimal architecture for a given application using the proposed FPFA-platform. According to the experimental results, we achieved 119 - 237 Gflop/s of processing power and higher processing speed compared to conventional GPU and multicore CPU implementations."
+ },
+ {
+  "title": "Pricing Model of  Small-Medium Enterprise Mutual Guarantee Bonds with Unexpected Defaults",
+  "profile_url": "https://ieeexplore.ieee.org/document/5116489/",
+  "doi": "10.1109/ISBIM.2008.228",
+  "doi_url": "https://sci-hub.do/10.1109/ISBIM.2008.228",
+  "pdf_url": "https://moscow.sci-hub.do/3342/bc5eea8a4d92096188c46cd56df2d756/chen2008.pdf#view=FitH",
+  "abstract": "In many countries, small and medium-sized enterprises (SMEs) are the principal generators of new jobs and economic activity. If guarantee funds are to be effective, a majority of firms can obtain financial assistance through corporate bonds market. This paper describes the mutual guarantee bond which can be a viable solution to the problem of access to credit from capital market for small and middle-entrepreneurs. This work uses a jump diffusion process to estimate the price of mutual guarantee bonds made under the terms of the China Small Business Financing Program. First, a logistic structural model of mutual guarantee bond is built up. The model was then employed to design the logical pricing model of credit spread when an exogenous default process jumps for the first time. A geometrical attenuation function is introduced to reflect the unexpected default of intensities. Furthermore, the pricing model of collective small-medium corporate bonds as the spot interest rate is assumed to follow Vasicek model. Finally, the work tests the pricing model with one thousand times Monte Carlo methods and offer theoretical background and empirical evidence for further financial innovation as well."
+ },
+ {
+  "title": "GPR survey for the archaeological characterization of the Tingambato site, Michoacan, western Mexico",
+  "profile_url": "https://ieeexplore.ieee.org/document/7996076/",
+  "doi": "10.1109/IWAGPR.2017.7996076",
+  "doi_url": "https://sci-hub.do/10.1109/IWAGPR.2017.7996076",
+  "pdf_url": "https://twin.sci-hub.do/6857/d28643dbdaa7734d562e7aaef85bcba8/ortega-ramirez2017.pdf#view=FitH",
+  "abstract": "This study presents the results of a GPR investigation carried out at the archeological site of Tingambato, in the state of Michoacán, Mexico. The aim of the study was to detect the presence of ancient buried structures, such as walls or graves and determine their geometry in order to help establish the timeline history of the site. It also aimed at producing amplitude maps and/or reflection profiles of the location and dimensions of burial targets. The survey was conducted in four areas using the 200 MHz antenna, and in one area the study was performed with a 900 MHz antenna."
+ },
+ {
+  "title": "Digital predistortion of wiener systems using the nonlinear filtered-x PEM algorithm with initial subsystem estimates",
+  "profile_url": "https://ieeexplore.ieee.org/document/7869949/",
+  "doi": "10.1109/MWSCAS.2016.7869949",
+  "doi_url": "https://sci-hub.do/10.1109/MWSCAS.2016.7869949",
+  "pdf_url": "https://twin.sci-hub.do/6285/f09ef262999fa19cd7c1c693472d5261/abd-elrady2016.pdf#view=FitH",
+  "abstract": "Adaptive predistortion of nonlinear systems described as IIR Wiener models is discussed in this paper. The predistorter is modeled as an IIR Hammerstein system. The parameters of the linear and nonlinear blocks of the Hammerstein predistorter are estimated simultaneously using the Nonlinear Filtered-x Prediction Error Method (NFxPeM) algorithm. The NFxPEM algorithm has much higher convergence speed than the Nonlinear Filtered-x Least Mean Squares (NFxLMS) algorithm. In the NFxPEM algorithm, the nonlinear system is assumed to be known or accurately identified. In this paper, the NFxPEM with Initial Subsystem Estimates (NFxPEM-ISE) algorithm is developed to avoid accurate identification of the nonlinear system. Simulation study shows that the NFxPEM-ISE algorithm can efficiently precompensate the nonlinear distortion. Also, the NFxPEM-ISE algorithm achieves better performance as compared to the NFxLMS-ISE algorithm."
+ },
+ {
+  "title": "Statistical investigation of the effects of fetal heart rate (FHR) and uterine contractions (UC) signals on apgar score",
+  "profile_url": "https://ieeexplore.ieee.org/document/7129858/",
+  "doi": "10.1109/SIU.2015.7129858",
+  "doi_url": "https://sci-hub.do/10.1109/SIU.2015.7129858",
+  "pdf_url": "https://moscow.sci-hub.do/4685/b5b30a38249859d5552370e1f97c7462/gungor2015.pdf#view=FitH",
+  "abstract": "In order to assess the health status of newborn babies, a practical method called Apgar score is used. By looking at Apgar score, medics decide whether the newborn need any attention such as resuscitation or intubation. Determining the possibility of the need for immediate intervention and immediate medical response is vital for the baby. In this study, the UC signals received from the mother before birth, and physiological data gathered from mother and fetus were used for this determination. As the analysis method, Mann-Whitney U test was used. Data was separated into two classes called intervention and non-intervention. Statistical data and UC signal were used to compare classes. 26 attributes were extracted. However, for only 5 out of 26 attributes have been found to be significantly different between the classes."
+ },
+ {
+  "title": "Neural Architecture Search for Robust Networks in 6G-Enabled Massive IoT Domain",
+  "profile_url": "https://ieeexplore.ieee.org/document/9269354/",
+  "doi": "10.1109/JIOT.2020.3040281",
+  "doi_url": "https://sci-hub.do/10.1109/JIOT.2020.3040281",
+  "pdf_url": "https://sci-hub.do/downloads/2020-12-20/199c/wang2020.pdf?rand=60c9a2e2b335f#view=FitH",
+  "abstract": "6G technology enables artificial intelligence (AI)-based massive IoT to manage network resources and data with ultra high speed, responsive network, and wide coverage. However, many AI-enabled Internet-of-Things (AIoT) systems are vulnerable to adversarial example attacks. Therefore, designing robust deep learning models that can be deployed on resource-constrained devices has become an important research topic in the field of 6G-enabled AIoT. In this article, we propose a method for automatically searching for robust and efficient neural network structures for AIoT systems. By introducing a skip connection structure, a feature map with reduced front-end influence can be used for calculations during the classification process. Additionally, a novel type of densely connected search space is proposed. By relaxing this space, it is possible to search for network structures efficiently. In addition, combined with adversarial training and model delay constraints, we propose a multiobjective gradient optimization method to realize the automatic searching of network structures. Experimental results demonstrate that our method is effective for AIoT systems and superior to state-of-the-art neural architecture search algorithms."
+ },
+ {
+  "title": "Development of high resolution TDC implemented in radiation tolerant FPGAs for aerospace application",
+  "profile_url": "https://ieeexplore.ieee.org/document/6418115/",
+  "doi": "10.1109/RTC.2012.6418115",
+  "doi_url": "https://sci-hub.do/10.1109/RTC.2012.6418115",
+  "pdf_url": "https://zero.sci-hub.do/3319/46191441bdd40c9896ef7fc4c783825c/qin2012.pdf#view=FitH",
+  "abstract": "We write this paper to present a time measurement system which is of low power consumption, high integration, high resolution, and high reliability, and the electronics can be engaged in space physics experiments. 8 channels FPGA-based TDCs (Time-to-Digital converter) are implemented in an ACTEL FPGA, and each channel can obtain a time resolution of about 150ps RMS or 440ps bin size. The electronics is designed in order to find a better way to do time measurement for future space missions."
+ },
+ {
+  "title": "On RTO timer implementation in TCP",
+  "profile_url": "https://ieeexplore.ieee.org/document/5687097/",
+  "doi": "10.1109/ISDA.2010.5687097",
+  "doi_url": "https://sci-hub.do/10.1109/ISDA.2010.5687097",
+  "pdf_url": "https://moscow.sci-hub.do/3239/577a632f309abc36d926abc983765b64/wen2010.pdf#view=FitH",
+  "abstract": "The retransmission timeout (RTO) timer used in TCP has long been standardized by the IETF in RFC2988, referred to as the TCP-RFC in this paper. Over the years, various deficiencies have been identified. In this paper, we focus on the implicit RTO offset problem, where the exact timeout limit of each packet is stretched by restarting the timer using the current timer value on the arrival of each acknowledgement (that acknowledges some new data). It would result in a slow timeout detection which unavoidably degrades the TCP throughput. In this paper, we first present a review of the TCP-RFC with special focus on the implicit RTO offset problem. Based on the insights obtained, we propose an enhanced RTO timer implementation, called E-RTO, for TCP. The implicit RTO offset is removed by mimicking the operation of a multi-timer implementation using a single timer. We then compare our E-RTO with TCP-RTO by simulations. We show that the faster timeout detection of our E-RTO leads to a throughput improvement of up to 3%."
+ },
+ {
+  "title": "A Comparative Study of Implementing Innovation in Education Sector Due to COVID-19",
+  "profile_url": "https://ieeexplore.ieee.org/document/9337148/",
+  "doi": "10.1109/SMART50582.2020.9337148",
+  "doi_url": "https://sci-hub.do/10.1109/SMART50582.2020.9337148",
+  "pdf_url": "",
+  "abstract": "This paper focuses on a Comparative Study of Implementing Innovation in Education Sector due to COVID-19. It focuses on the ability of Education Sector to change and adapt quickly, to be responsive to new technologies and methodologies and be flexible to the needs of the students, parents and government. Video meetings, online teaching, digital platforms, etc. are the technologies used to increase the growth of online education. So, I have defined the different analysis study based on earlier education system and new education system. A drastic change is predicted in the education sector."
+ },
+ {
+  "title": "Rolling Leukocyte Detection based on Teardrop Shape and the Gradient Inverse Coefficient of Variation",
+  "profile_url": "https://ieeexplore.ieee.org/document/1691266/",
+  "doi": "10.1109/MEDIVIS.2006.22",
+  "doi_url": "https://sci-hub.do/10.1109/MEDIVIS.2006.22",
+  "pdf_url": "",
+  "abstract": "The efficient detection and quantification of rolling leukocytes within intravital microscopy is of both theoretical and practical interest. Currently, methods exist for tracking rolling leukocytes in vivo which rely on manual detection of the cells. In this paper, a new technique inspired by the teardrop shape of the rolling leukocytes is presented for accurately detecting rolling leukocytes. It is based on a feature score, the gradient inverse coefficient of variation (GICOV), which serves to discriminate rolling leukocytes from a cluttered environment. The leukocyte detection process consists of three sequential steps: The first step utilizes a novel teardrop shape matching algorithm to coarsely identify the leukocytes by finding the leukocytes resembling teardrops with a locally maximal GICOV. Second and third steps involve evolution of B-spline snake starting from each of the teardrops found in the first step to refine the leukocytes boundaries and associated GICOV score, and retaining contours with high GICOV scores. The detection process is observed to yield superior results compared to other methods currently in use. The deformation information inherent in the teardrop shapes gives valuable information about the extent to which the cells are adhering to the endothelium."
+ },
+ {
+  "title": "XMM–Newton observations of the relaxed, high‐redshift galaxy cluster ClJ0046.3+8530 at z= 0.62",
+  "profile_url": "https://ieeexplore.ieee.org/document/8192556/",
+  "doi": "10.1111/j.1365-2966.2004.08149.x",
+  "doi_url": "https://sci-hub.do/10.1111/j.1365-2966.2004.08149.x",
+  "pdf_url": "",
+  "abstract": "A detailed analysis of XMM–Newton observations of ClJ0046.3+8530 (z= 0.624) is presented. The cluster has a moderate temperature (kT= 4.1 ± 0.3 keV) and appears to be relaxed. Emission is detected at ≥3σ significance to a radius of 88 per cent of R\n200\n (the radius enclosing an overdensity of 200 times the critical density at z= 0.624) in a surface brightness profile. A temperature profile (extending to 0.7R\n200\n) and hardness ratio map show no significant departures from the global temperature, within the statistical limits of the data. The cluster bolometric X‐ray luminosity is L\nX\n= (4.3 ± 0.3) × 10\n44\n erg s\n‐1\n, and the total mass derived within R\n200\n, assuming isothermality and hydrostatic equilibrium, is M\n200\n= 3.0\n+0.6\n−0.5\n× 10\n14\n M\n⊙\n. The gas entropy measured at 0.1R\n200\n is compared with a sample of local systems, and found to be consistent with self‐similar evolution with redshift. The metallicity, gas density profile slope and gas mass fraction are all consistent with those found in low‐z clusters."
+ },
+ {
+  "title": "Monitoring groundwater characteristics by means of a multi-parametric probe and sampling device",
+  "profile_url": "https://ieeexplore.ieee.org/document/5341317/",
+  "doi": "10.1109/EESMS.2009.5341317",
+  "doi_url": "https://sci-hub.do/10.1109/EESMS.2009.5341317",
+  "pdf_url": "https://zero.sci-hub.do/3073/2db731e824789214d7461535e8007080/conte2009.pdf#view=FitH",
+  "abstract": "The paper describes the feature of a prototypal system for \nin situ\n analysis of groundwater bodies. The system consists of a probe, equipped with sensors and with a water sampling device, and of a control unit, connected though an umbilical. With respect to other available systems of the same kind, the one at issue has innovative features, both in the mechatronic design and in the control and data processing architecture. In particular, thanks to modularity, the probe can be assembled in different configurations, according to the user's requirements and to the dimension of the inspection well. The system self-organizes itself according to the chosen configuration and, analyzing collected data, it can implement a number of auto-diagnosis procedures that improve reliability. In addition, using fuzzy reasoning, the system is able to provide a first rough evaluation of the quality of the monitored groundwater body, so to support and facilitate the operator's activity and decisional task. The system can be operated by means of two different man/machine interfaces, a simpler one for routine use and a more powerful one for greater interactivity, also from remote locations via Internet."
+ },
+ {
+  "title": "The Proposal of the EEG Characteristics Extraction Method in Weighted Principal Frequency Components Using the RGA",
+  "profile_url": "https://ieeexplore.ieee.org/document/4109136/",
+  "doi": "10.1109/SICE.2006.315293",
+  "doi_url": "https://sci-hub.do/10.1109/SICE.2006.315293",
+  "pdf_url": "https://moscow.sci-hub.do/3360/2d4bb8eccedf17db1f81b49d6885b0b5/ito2006.pdf#view=FitH",
+  "abstract": "An EEG has frequency components which can describe most of the significant features. These combinations are often unique like individual human beings and yet they have underlying basic features. These frequency components are contained the important and/or not so important components, and then each importance of these frequency components are different. The real-coded genetic algorithm (: RGA) is used for selecting and being weighted the principal characteristic frequency components. We attempt to construct mental change appearance model (: MCAM) of only one measurement point. In order to show the effectiveness of the proposed method, computer simulations are carried out by using real data"
+ },
+ {
+  "title": "World wide web based technology transfer testbed",
+  "profile_url": "https://ieeexplore.ieee.org/document/514108/",
+  "doi": "10.1109/UGIM.1995.514108",
+  "doi_url": "https://sci-hub.do/10.1109/UGIM.1995.514108",
+  "pdf_url": "https://zero.sci-hub.do/3013/ad1be6e9b31d02d17029cc188103c796/world-wide-web-based-technology-transfer-testbed.pdf#view=FitH",
+  "abstract": "We present here a distributed computational environment based on the world wide web designed to effect technology transfer between university and industry. The prototype is based on the integration of computational modules, scientific visualization tools, and a friendly WWW based user-interface. This prototype allows users with simple personal computer based web browsers (e.g. Mosaic browser) to gain access to research information and computational modules located on high-end computational platforms. This WWW based integration scheme opens new horizons for cooperation among researchers, engineers, scientists, students, and businesses."
+ },
+ {
+  "title": "A review and comparative evaluation of forensics guidelines of NIST SP 800-101 Rev.1:2014 and ISO/IEC 27037:2012",
+  "profile_url": "https://ieeexplore.ieee.org/document/7028169/",
+  "doi": "10.1109/WorldCIS.2014.7028169",
+  "doi_url": "https://sci-hub.do/10.1109/WorldCIS.2014.7028169",
+  "pdf_url": "https://moscow.sci-hub.do/5057/2602e8a5051d17cb6b58d833f9343a66/ajijola2014.pdf#view=FitH",
+  "abstract": "In this paper, we present a review and comparative evaluation of forensics guidelines of NIST SP 800-101 Rev.1:2014 and ISO/IEC 27037:2012. This study proposes and analyzes an integrated implementation of these two forensic guidelines. The result of this will provide a forensic investigator with a good understanding of the two forensic standards, and present an opportunity to forensic investigators, organizations and jurisdictions that are compliant in one standard to realize the benefits of the other standard. As it is shown, no single standard addresses all processes of digital forensic investigations. This comparison identifies areas of forensics guidelines covered by each standard, commonalities and differences in the two standards, and their limitations."
+ },
+ {
+  "title": "A new MSc curriculum in computer science and mathematics at the university of Zagreb",
+  "profile_url": "https://ieeexplore.ieee.org/document/1708493/",
+  "doi": "10.1109/ITI.2006.1708493",
+  "doi_url": "https://sci-hub.do/10.1109/ITI.2006.1708493",
+  "pdf_url": "https://zero.sci-hub.do/3137/9a669d58c270cdfad75fffb0b533c8d3/manger2006.pdf#view=FitH",
+  "abstract": "A new graduate curriculum in computer science and mathematics is presented. The curriculum is offered by the Department of Mathematics, University of Zagreb, and it provides students with competence in mathematics, computer science and software engineering. The emphasis is on mathematical theory relevant for computing and software, on long-term knowledge and on abstract approaches to problem solving. The teaching and assessment methods are compatible with the Bologna declaration"
+ },
+ {
+  "title": "Segmentation of Retinal Lesions in Fundus Images: A Patch Based Approach Using Encoder-Decoder Neural Network",
+  "profile_url": "https://ieeexplore.ieee.org/document/9441964/",
+  "doi": "10.1109/ICACCS51430.2021.9441964",
+  "doi_url": "https://sci-hub.do/10.1109/ICACCS51430.2021.9441964",
+  "pdf_url": "",
+  "abstract": "Lesion segmentation is an essential aspect while diagnosing Diabetic Retinopathy (DR) at initial stages. Manual identification becomes exceptionally challenging and time consuming because of the distinction in morphologies and size of lesions. Manual annotation of lesions by professionals is labor intensive and therefore requires the development of automatic segmentation techniques, but still it is also a challenging task because of the low local contrast and small size lesions present in the image. The automatic segmentation of retinal lesions through deep learning approach is of great impact for the initial diagnosis and treatment of DR. This paper proposes a patch based approach using encoder-decoder neural network to perform retinal lesions segmentation in fundus images. The architecture is trained and validated on IDRiD dataset which consists of microaneurysms, hemorrhages and hard exudate segmentations. In this approach for creating image patches a sliding widow technique is used, later the network evaluates the patches of the images and produces a probability map that predicts different types of lesions. An elaborative experiment was accompanied on IDRiD to calculate the performance of the suggested approach. The projected sensitivity, specificity and accuracy are 97.24%, 99.97%, and 99.97% respectively, which validates the effectiveness and dominance of this technique. When compared with other studies on similar tasks, the results obtained by this work indicate substantially improved performance in terms of sensitivity & specificity."
+ },
+ {
+  "title": "Optimization of Technological Parameters of the Coaxial Magnetoplasma Accelerator by Varying of Solenoid Inductance",
+  "profile_url": "https://ieeexplore.ieee.org/document/8949874/",
+  "doi": "10.1109/ICOECS46375.2019.8949874",
+  "doi_url": "https://sci-hub.do/10.1109/ICOECS46375.2019.8949874",
+  "pdf_url": "https://sci-hub.do/downloads/2020-07-27/0e/isaev2019.pdf?rand=60c9a4204a5a7#view=FitH",
+  "abstract": "The paper studies optimization of technological parameters of the coaxial magnetoplasma accelerator by varying of solenoid inductance on the basis of experimental data. Data for research were received by experimental path for the accelerator two different models which is used for double purpose. The solenoid inductance was determined on the basis calculation of the magnetic vector potential succeeded by calculation of magnetic field energy. Optimum value of inductance for two models when value of kinetic energy reaches the maximum level was determined, it influences on escape speed of plasma jet. Analysis of the solenoid inductance was made, it influences on increasing transverse velocity component, and thus, the metal erosion and amount of disperse powders. The system of second order differential equations was written down as first order differential equations for calculation accuracy increasing and was solved using the fourth-order Runge-Kutta fixed-step method. View of potential pit was simulated in software package COMSOL Multiphysics which shows spatial limitation of the plasma particles expansion and illustrates the advantages of the longitudinal and transverse components of the charged particles velocity in the plasma jet. Simulation data allow to improve technological parameters of the investigated accelerator. The test of a model for adequacy was completed by calculation energy balance for system."
+ },
+ {
+  "title": "Clustering of galaxies at 3.6 μm in the Spitzer Wide‐area Infrared Extragalactic legacy survey",
+  "profile_url": "https://ieeexplore.ieee.org/document/8209783/",
+  "doi": "10.1111/j.1365-2966.2007.12367.x",
+  "doi_url": "https://sci-hub.do/10.1111/j.1365-2966.2007.12367.x",
+  "pdf_url": "https://zero.sci-hub.do/917/1d80eb176f32023f67476811ac173fdf/waddington2007.pdf#view=FitH",
+  "abstract": "We investigate the clustering of galaxies selected in the 3.6 μm band of the Spitzer Wide‐area Infrared Extragalactic (SWIRE) legacy survey. The angular two‐point correlation function is calculated for 11 samples with flux limits of S\n3.6\n≥ 4–400 μJy, over an 8 deg\n2\n field. The angular clustering strength is measured at >5σ significance at all flux limits, with amplitudes of A= (0.49–29) × 10\n−3\n at 1°, for a power‐law model, Aθ\n−0.8\n. We estimate the redshift distributions of the samples using phenomological models, simulations and photometric redshifts, and so derive the spatial correlation lengths. We compare our results with the Galaxies In Cosmological Simulations (GalICS) models of galaxy evolution and with parametrized models of clustering evolution. The GalICS simulations are consistent with our angular correlation functions, but fail to match the spatial clustering inferred from the phenomological models or the photometric redshifts. We find that the uncertainties in the redshift distributions of our samples dominate the statistical errors in our estimates of the spatial clustering. At low redshifts (median z≤ 0.5), the comoving correlation length is approximately constant, r\n0\n= 6.1 ± 0.5 h\n−1\n Mpc, and then decreases with increasing redshift to a value of 2.9 ± 0.3 h\n−1\n Mpc for the faintest sample, for which the median redshift is z∼ 1. We suggest that this trend can be attributed to a decrease in the average galaxy and halo mass in the fainter flux‐limited samples, corresponding to changes in the relative numbers of early‐ and late‐type galaxies. However, we cannot rule out strong evolution of the correlation length over 0.5 < z < 1."
+ }
+]

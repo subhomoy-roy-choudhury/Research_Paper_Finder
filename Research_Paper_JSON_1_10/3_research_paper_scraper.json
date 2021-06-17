@@ -1,0 +1,202 @@
+[
+ {
+  "title": "Direct closed-loop identification of mechanical resonances above the nyquist frequency without any external persistently exciting signals",
+  "profile_url": "https://ieeexplore.ieee.org/document/7048896/",
+  "doi": "10.1109/IECON.2014.7048896",
+  "doi_url": "https://sci-hub.do/10.1109/IECON.2014.7048896",
+  "pdf_url": "https://zero.sci-hub.do/5021/90843746406fd3eb1dc02411c5b4e886/yan2014.pdf#view=FitH",
+  "abstract": "In this paper, a general multirate approach is proposed for direct closed-loop identification of mechanical resonances above the Nyquist frequency without injecting any external persistently exciting (PE) signals. Based on the polynomial transformation technique, an extended least-squares (ELS) algorithm is designed to estimate parameters of the mixed-rate model, from which parameters of the fast-rate model is extracted. Convergence properties of the ELS algorithm are analyzed, and the parameter identifiability is ensured if the plant output sampling rate is non-integer multiples of the controller sampling rate. The performance of the proposed approach is evaluated by simulation results on the head-positioning servo control system of a hard disk drive (HDD) during track-following mode, where no external PE signal is added on."
+ },
+ {
+  "title": "Nonlinear Predictive Path Following Control for a Stratospheric Airship",
+  "profile_url": "https://ieeexplore.ieee.org/document/9188392/",
+  "doi": "10.23919/CCC50068.2020.9188392",
+  "doi_url": "https://sci-hub.do/10.23919/CCC50068.2020.9188392",
+  "pdf_url": "https://sci-hub.do/downloads/2020-09-26/35/yang2020.pdf#view=FitH",
+  "abstract": "A novel planar path following control strategy for a stratospheric airship is presented based on velocity allocation and an improved nonlinear predictive control approach containing control energy optimization. Firstly, the airship system equations is obtained from simplified planar kinematic and dynamic equations. Secondly, based on the position error equation and mixing velocity allocation, the desired forward speed and yaw angle speed is deduced. Thirdly, a nonlinear predictive control method with energy optimization improvement is utilized to design controller for tracking the desired speeds, and stability of the closed loop is also analyzed. Finally, simulation results for circle path following show the effectiveness of proposed method and its capability to reduce control energy."
+ },
+ {
+  "title": "Use of Library Loan Records for Book Recommendation",
+  "profile_url": "https://ieeexplore.ieee.org/document/6337153/",
+  "doi": "10.1109/IIAI-AAI.2012.16",
+  "doi_url": "https://sci-hub.do/10.1109/IIAI-AAI.2012.16",
+  "pdf_url": "https://zero.sci-hub.do/3032/1426dabada93ea2f3e6234ace7ffe880/tsuji2012.pdf#view=FitH",
+  "abstract": "To determine the most effective book recommendation method for libraries, we conducted a recommendation experiment using (1) collaborative filtering based on the library loan records, (2) association rule mining based on the same data, and (3) Amazon. The library loan records of a certain university library for the period 2006 to 2011 were used. We recommended books to 33 students and asked them to describe the books' level of interest. The results show that books recommended by collaborative filtering were least favorably evaluated, followed by those recommended by association rule and Amazon. Collaborative filtering carries the risk of breaching users' privacy and its computational costs are higher compared to those of association rule mining. Therefore, if we recommend books based on library loan records, association rule mining should be adopted instead of collaborative filtering. In addition, given the fact that the recommendations by Amazon were most favorably evaluated, utilization of Amazon should also be considered."
+ },
+ {
+  "title": "The design of interactive multi-attribute reverse auction system",
+  "profile_url": "https://ieeexplore.ieee.org/document/5192561/",
+  "doi": "10.1109/CCDC.2009.5192561",
+  "doi_url": "https://sci-hub.do/10.1109/CCDC.2009.5192561",
+  "pdf_url": "https://moscow.sci-hub.do/3341/d9f7190ba5b4614aac81a5e9c52ab0a8/chen2009.pdf#view=FitH",
+  "abstract": "In recent years, with the vigorous development of electronic commerce, auction on-line become more and more flourish, but, auction on-line only is used to publish auction announcement, and haven't to realize real auction. In this case, a real auction system is needed to help auctioneer finish auction process. The agent technology also is researched by more and more scholars and experts and is applied to in all fields. So, this paper present interactive multi-attribute reverse auction system based on agent technology and study new Evaluation bidding model by decision-making method of multi-attribute based on EWAA operator and LHA operator when the weight of attribute is real number. Auction intermediary is the center in this system and evaluation bids system is designed based on black box theory. This system not only can improve auction efficiency, but also ensure fair in evaluation bidding process."
+ },
+ {
+  "title": "Artifact reduction for JPEG-compressed images with VQ and linear estimation",
+  "profile_url": "https://ieeexplore.ieee.org/document/602629/",
+  "doi": "10.1109/MMSP.1997.602629",
+  "doi_url": "https://sci-hub.do/10.1109/MMSP.1997.602629",
+  "pdf_url": "https://zero.sci-hub.do/3423/3b11e135ed771ee1fae245b2fc4b17b3/artifact-reduction-for-jpegcompressed-images-with-vq-and-linear-.pdf#view=FitH",
+  "abstract": "A new non-iterative algorithm to remove compression artifacts appearing in JPEG encoded images is proposed in this work. Since degradation caused by the transform and the quantization is difficult to describe mathematically, a clustering technique is used to analyze the statistics of the source and noise in the training. Then, coefficients of a linear prediction filter are pre-calculated and stored in a codebook. In the decoding stage, the linear filter with proper coefficients is applied to quantized transform coefficients and to pixels at block boundaries after the inverse DCT. Experimental results show that the proposed method can efficiently reduce coding artifacts with a low computational complexity."
+ },
+ {
+  "title": "Broadband Achromatic Printed-Circuit Metasurfaces",
+  "profile_url": "https://ieeexplore.ieee.org/document/9256186/",
+  "doi": "10.1364/CLEOPR.2020.C9E_2",
+  "doi_url": "https://sci-hub.do/10.1364/CLEOPR.2020.C9E_2",
+  "pdf_url": "",
+  "abstract": "We develop broadband achromatic metasurfaces suited for microwave frequencies, by tailoring LC resonances in series and parallel configurations. We present a synthesis method for a transmissive metasurface and discuss limits on their realizable bandwidth."
+ },
+ {
+  "title": "Nonlinear behavior of the adaptive LMS algorithm",
+  "profile_url": "https://ieeexplore.ieee.org/document/365352/",
+  "doi": "10.1109/82.365352",
+  "doi_url": "https://sci-hub.do/10.1109/82.365352",
+  "pdf_url": "https://moscow.sci-hub.do/3371/d83ab5846cc89cc6ba16e9afc8bdef8a/bourgeois1995.pdf#view=FitH",
+  "abstract": "This brief demonstrates that the adaptive LMS filter does not necessarily converge in the mean to the Wiener solution through the investigation of the harmonic content of signals in the filter for the case of narrowband signals. A 1 tap filter is examined in detail, and the structure of the estimated and error signals for the filter is investigated for an N tap filter. Simulation results are provided which collaborate and amplify the theoretical findings, showing that the harmonic content of the filter output can be predicted.<\n>"
+ },
+ {
+  "title": "Tests of Arcing Ground Suppressor on the 40,000-Volt System of the Southern Power Company",
+  "profile_url": "https://ieeexplore.ieee.org/document/4768265/",
+  "doi": "",
+  "doi_url": "",
+  "pdf_url": "",
+  "abstract": ""
+ },
+ {
+  "title": "A New Graphplan Method to Implement Partial Goals",
+  "profile_url": "https://ieeexplore.ieee.org/document/4028174/",
+  "doi": "10.1109/ICMLC.2006.258459",
+  "doi_url": "https://sci-hub.do/10.1109/ICMLC.2006.258459",
+  "pdf_url": "https://moscow.sci-hub.do/3318/9bce97811715fb5bafa2f222beafc205/ren2006.pdf#view=FitH",
+  "abstract": "Several new concepts are introduced, such as single satisfaction, synthesis satisfaction and sub-optimal plan. With those concepts a new algorithm based on Graphplan is presented. A lot of restrictions make the Graphplan planner far from the real world. The new algorithm inherits all the capabilities of Graphplan. Except this, it also adapted to other situations. For a problem, if Graphplan can't find a solution implementing all the goals, the new method outputs a best sub-optimal solution, which can implement part of goals. And these partial goals can satisfy user as much as possible. In many complex circumstances, relaxing partial rigid restrictions can solve a problem more expressive and more effective"
+ },
+ {
+  "title": "Dual-Rate Operational Optimal Control for Flotation Industrial Process With Unknown Operational Model",
+  "profile_url": "https://ieeexplore.ieee.org/document/8418316/",
+  "doi": "10.1109/TIE.2018.2856198",
+  "doi_url": "https://sci-hub.do/10.1109/TIE.2018.2856198",
+  "pdf_url": "https://twin.sci-hub.do/7019/29bebc7ca21a0a1bb9f6f86f6964df5f/jiang2018.pdf#view=FitH",
+  "abstract": "This paper studies the two-timescales operational optimal control problem for the flotation industrial process with unknown operational model in the presence of setpoint constraints on the device layer. A novel dual-rate data-driven algorithm based on lifting technology and reinforcement learning (RL) is proposed. First, a dual-rate flotation process model including the device layer and the operational models is formulated. Then, a proportional integral (PI) controller for device layer is designed, by using lifting technology, a unified timescale controlled plant model with partially unknown dynamics is established. Based on such a model, an online learning algorithm using neural network is presented so that the operational indices, namely concentrate and tail grades, can be kept in the target range while maintaining the setpoints of the device layer within the specified bounds. At last, emulation experiments in a hardware-in-the-loop system are used to verify the effectiveness of the proposed method."
+ },
+ {
+  "title": "New Frontiers of Delivery Services Using Drones: A Prototype System Exploiting a Quadcopter for Autonomous Drug Shipments",
+  "profile_url": "https://ieeexplore.ieee.org/document/7273724/",
+  "doi": "10.1109/COMPSAC.2015.52",
+  "doi_url": "https://sci-hub.do/10.1109/COMPSAC.2015.52",
+  "pdf_url": "https://moscow.sci-hub.do/4638/57608740f95501c61fd77c1ebb8372db/gatteschi2015.pdf#view=FitH",
+  "abstract": "Drone-based delivery of goods could become a reality in the near future, as witnessed by the increasing successful experiences in both research and commercial fields. In this paper, a prototype system exploiting a do it yourself quad copter drone for delivering products is proposed. On the one hand, the hardware choices made in order to limit risks arising from autonomous delivery are presented. On the other hand, a framework for orders placement and shipment is shown. The advantages of a system like the one described in this paper are mainly related to an increased delivery speed, especially in urban contexts with traffic, to the possibility to make deliveries in areas usually difficult to be reached, and to the drone's ability to autonomously carry out consignments. A practical use case, in which the proposed system is used for delivering drugs (an application in which the need to quickly receive the good might be particularly important) is shown. Nevertheless, the proposed prototype could be employed in other contexts, such as take-away deliveries, product shipments, registered mail consignments, etc."
+ },
+ {
+  "title": "X-ray analysis of electrets",
+  "profile_url": "https://ieeexplore.ieee.org/document/7341518/",
+  "doi": "10.1109/ISE.1985.7341518",
+  "doi_url": "https://sci-hub.do/10.1109/ISE.1985.7341518",
+  "pdf_url": "https://twin.sci-hub.do/6644/00fb3904c5e2eca707966d33d10d496b/10.1109@ISE.1985.7341518.pdf#view=FitH",
+  "abstract": "It is proposed to study the mechanism of the formation and decay of electrets in some non-polar inorganic polycrystalline and amorphous dielectrics. The formation of electrets in these materials under different conditions of sample temperatures polarizing fields and cooling rates will be experimentally pursued. The decay of these electrets both in the open circuit and closed circuit conditions are to be observed (with improved methods whenever possible). An extension of the Swann-Gubkin theory to a more elaborate microscopic theory in agreement with the experimental observations will be sought."
+ },
+ {
+  "title": "Coupled Photonic Systems Between Core-Shell Nanoparticle and Integrated Microresonator",
+  "profile_url": "https://ieeexplore.ieee.org/document/6849428/",
+  "doi": "10.1109/JQE.2014.2333566",
+  "doi_url": "https://sci-hub.do/10.1109/JQE.2014.2333566",
+  "pdf_url": "https://moscow.sci-hub.do/3130/49b1e622545d75ed35912af858d35fe3/xiong2014.pdf#view=FitH",
+  "abstract": "We have numerically investigated the unique effects of the core-shell nanoparticles on the integrated microdisk resonator. By attaching the core-shell nanoparticle to the disk resonator with gold core and polymer shell, the coupling between the disk resonator and the core-shell nanoparticle results in shift of the resonance wavelength of the disk resonator, depending on the core size/shell thickness of the nanoparticle. An invisibility phenomena found from the coupled core-shell nanoparticle and integrated disk resonator system is emphasized; at certain core size/shell thickness ratio, compared with the original resonance wavelength without core-shell nanoparticle, there is almost no resonance wavelength shift observed. The detailed interaction mechanism between the disk resonator and the nanoparticle is revealed in the electromagnetic field intensity distribution at the resonator resonance wavelength. The dependence of the position and number of core-shell nanoparticles is also discussed. Future studies on this coupled photonic systems will stimulate wide variety of applications."
+ },
+ {
+  "title": "Reduction of Impact Ionization in GaAs-Based Planar Gunn Diodes by Anode Contact Design",
+  "profile_url": "https://ieeexplore.ieee.org/document/6109337/",
+  "doi": "10.1109/TED.2011.2177094",
+  "doi_url": "https://sci-hub.do/10.1109/TED.2011.2177094",
+  "pdf_url": "https://zero.sci-hub.do/1917/ee236d1d9e8bf13989c8f3c7ca260307/montes2012.pdf#view=FitH",
+  "abstract": "Impact ionization in GaAs-based planar Gunn diodes is studied through electroluminescence (EL) analysis with the aim of reducing its magnitude by means of contact design and shaping, and thus enhance device performance and reliability. Designs in which the diode ohmic anode has an overhanging Schottky extension (composite anode contact) are shown to result in a significantly reduced amount of impact ionization, as compared with a simple ohmic contact design. The EL results are consistent with Monte Carlo simulations, which show a reduced impact ionization in composite anode contact devices due to a reduced electron density beneath the anode Schottky extension that, on the one hand, weakens the Gunn domain electric field and softens its variations near the anode edge, and, on the other hand, reduces the number of electrons capable of generating holes by impact ionization. A comparison between standard and composite anode contact approaches in terms of radio-frequency operation of the devices is made showing oscillations up to 109 GHz with an output power of -5 dBm in devices featuring the composite anode contact and no oscillations from all-ohmic contact devices. The findings reported in this paper may be useful not only for the design and the fabrication of planar Gunn diodes but also for other devices such as high-electron-mobility transistors where impact ionization can result in reliability limitations."
+ },
+ {
+  "title": "Slightly Frequency-Shifted Reference Ultra-Wideband (UWB) Radio",
+  "profile_url": "https://ieeexplore.ieee.org/document/4132990/",
+  "doi": "10.1109/TCOMM.2007.892452",
+  "doi_url": "https://sci-hub.do/10.1109/TCOMM.2007.892452",
+  "pdf_url": "https://moscow.sci-hub.do/1440/2eeed179de56c2994a3b83a9f974e42a/goeckel2007.pdf#view=FitH",
+  "abstract": "A promising ultra-wideband (UWB) radio technique being widely considered for low-data-rate applications, such as those often encountered in sensor networks, is the transmitted reference (TR) UWB scheme. However, the standard TR-UWB scheme, while often motivated by the simplicity of its receiver, is still dogged by implementation concerns. In particular, the receiver requires an extremely wideband delay element, which is difficult to incorporate into low-power integrated systems. In this paper, a TR scheme is proposed in which the separation between the data and reference signals, rather than being a time delay, is a slow rotation over the symbol interval. This provides a (slightly) frequency-shifted reference that, while orthogonal to the data-bearing pulse, still goes through a nearly equal channel. A detailed analysis of the proposed scheme is provided. Simulation results demonstrate the expected result that frequency shifting of the reference in the proposed manner is not effective for high-data-rate systems that experience appreciable intersymbol interference. However, for the targeted low-to-moderate data-rate applications, numerical results demonstrate that the proposed system not only achieves the primary goal of providing a much simpler receiver architecture, but also that it outperforms the standard TR-UWB system"
+ },
+ {
+  "title": "Noise-robust automatic speech recognition using a discriminative echo state network",
+  "profile_url": "https://ieeexplore.ieee.org/document/4253002/",
+  "doi": "10.1109/ISCAS.2007.378015",
+  "doi_url": "https://sci-hub.do/10.1109/ISCAS.2007.378015",
+  "pdf_url": "https://moscow.sci-hub.do/5043/5b4f3047efd50d6bddd6a8c3b73cab98/skowronski2007.pdf#view=FitH",
+  "abstract": "The echo state network (ESN) is a recurrent neural network proposed by Herbert Jaeger with a simplified training routine. Previously, we have demonstrated the noise-robust performance of the predictive ESN classifier in automatic speech recognition experiments in which the network was trained to predict the next frame of speech features. Classification performance was limited because the predictive models lacked discriminability, so we changed the model output to a one-of-many output encoding scheme and trained the model discriminatively. Performance was compared to a hidden Markov model (HMM) in small-vocabulary ASR experiments with additive noise. Accuracy of 50% was achieved by a discriminative ESN classifier at -8.5 dB SNR, compared to 0.4 dB SNR for a predictive ESN classifier and 6.6 dB SNR for an HMM. With discriminative training, a larger reservoir was employed for the discriminative ESN classifier compared to the predictive ESN classifier which resulted a larger memory depth and more noise-robust performance."
+ },
+ {
+  "title": "The Coulomb repulsion compensation of the beam ions in the presence of a strong pulsed laser field",
+  "profile_url": "https://ieeexplore.ieee.org/document/1382488/",
+  "doi": "10.1109/LFNM.2004.1382488",
+  "doi_url": "https://sci-hub.do/10.1109/LFNM.2004.1382488",
+  "pdf_url": "https://moscow.sci-hub.do/3172/1dab8ca29f6f774a4b1c3624c59f5743/the-coulomb-repulsion-compensation-of-the-beam-ions-in-the-prese.pdf#view=FitH",
+  "abstract": "In this work, the effective interaction force of the classical nonrelativistic hydrogen ions in the beam crossover in the presence of a strong-pulsed laser field is analyzed. It is shown that the effective interaction force of ions may be the attraction force. A practical possibility of compensation of the Coulomb repulsion of the hydrogen ions in the beam crossover region under the influence of strong-pulsed laser field is studied."
+ },
+ {
+  "title": "Some aspects of niching genetic algorithms applied to electromagnetic device optimization",
+  "profile_url": "https://ieeexplore.ieee.org/document/877627/",
+  "doi": "10.1109/20.877627",
+  "doi_url": "https://sci-hub.do/10.1109/20.877627",
+  "pdf_url": "https://zero.sci-hub.do/3160/7ce4d86cb190c674ccabd93b159a164d/lowther2000.pdf#view=FitH",
+  "abstract": "Niching genetic algorithms can allow a breadth first search of the design space. Ideally, they can present the designer with several alternate designs allowing a much better appreciation of the optima found. The algorithm is also naturally parallel. The paper discusses the basic concepts and the effects of the various parameters in the algorithm."
+ },
+ {
+  "title": "Light–Output Enhancement of Nano-Roughened GaN Laser Lift-Off Light-Emitting Diodes Formed by ICP Dry Etching",
+  "profile_url": "https://ieeexplore.ieee.org/document/4200784/",
+  "doi": "10.1109/LPT.2007.897455",
+  "doi_url": "https://sci-hub.do/10.1109/LPT.2007.897455",
+  "pdf_url": "https://moscow.sci-hub.do/2051/0e27c0c080b01a91db6e9f50e4b37242/kao2007.pdf#view=FitH",
+  "abstract": "In this paper, we report the fabrication and characteristics of nano-roughened GaN laser lift-off (LLO) light-emitting diodes (LEDs) with different scale surface roughness. The surface roughness of devices was controlled by inductively coupled plasma reactive ion etching. Using this fabrication method to form nano-scaled roughness, the electrical property was almost not degraded. Furthermore, the light-output power and wall-plug efficiency of LLO LED could be both significantly enhanced about two times using this simple method"
+ },
+ {
+  "title": "107 Gbit/s demultiplexing photoreceivers comprising pin- and pinTWA frontends",
+  "profile_url": "https://ieeexplore.ieee.org/document/5032539/",
+  "doi": "10.1364/OFC.2009.OMK2",
+  "doi_url": "https://sci-hub.do/10.1364/OFC.2009.OMK2",
+  "pdf_url": "https://twin.sci-hub.do/6109/a3666e387dcfb37462f14aa866ad7a4f/bach2009.pdf#view=FitH",
+  "abstract": "Demultiplexing photoreceivers, composed of either pin or pinTWA packaged frontends and subsequent packaged InP-HBT-based demultiplexers are reported for 107 Gbit/s operation, paving the way to ultra compact co-packaged pin/pinTWA-DEMUX receivers."
+ },
+ {
+  "title": "Low-dimensional models in spatio-temporal wind speed forecasting",
+  "profile_url": "https://ieeexplore.ieee.org/document/7172035/",
+  "doi": "10.1109/ACC.2015.7172035",
+  "doi_url": "https://sci-hub.do/10.1109/ACC.2015.7172035",
+  "pdf_url": "https://zero.sci-hub.do/4991/7bbe981f708890cdf50beda6ebacae5a/sanandaji2015.pdf#view=FitH",
+  "abstract": "Integrating wind power into the grid is challenging because of its random nature. Integration is facilitated with accurate short-term forecasts of wind power. The paper presents a spatio-temporal wind speed forecasting algorithm that incorporates the time series data of a target station and data of surrounding stations. Inspired by Compressive Sensing (CS) and structured-sparse recovery algorithms, we claim that there usually exists an intrinsic low-dimensional structure governing a large collection of stations that should be exploited. We cast the forecasting problem as recovery of a block-sparse signal x from a set of linear equations b = Ax for which we propose novel structure-sparse recovery algorithms. Results of a case study in the east coast show that the proposed Compressive Spatio-Temporal Wind Speed Forecasting (CSTWSF) algorithm significantly improves the short-term forecasts compared to a set of widely-used benchmark models."
+ },
+ {
+  "title": "Robot-centric Activity Recognition from First-Person RGB-D Videos",
+  "profile_url": "https://ieeexplore.ieee.org/document/7045908/",
+  "doi": "10.1109/WACV.2015.54",
+  "doi_url": "https://sci-hub.do/10.1109/WACV.2015.54",
+  "pdf_url": "https://moscow.sci-hub.do/4398/34d460f5b05fe1c3e76ced3a25ce9c1d/xia2015.pdf#view=FitH",
+  "abstract": "We present a framework and algorithm to analyze first person RGBD videos captured from the robot while physically interacting with humans. Specifically, we explore reactions and interactions of persons facing a mobile robot from a robot centric view. This new perspective offers social awareness to the robots, enabling interesting applications. As far as we know, there is no public 3D dataset for this problem. Therefore, we record two multi-modal first-person RGBD datasets that reflect the setting we are analyzing. We use a humanoid and a non-humanoid robot equipped with a Kinect. Notably, the videos contain a high percentage of ego-motion due to the robot self-exploration as well as its reactions to the persons' interactions. We show that separating the descriptors extracted from ego-motion and independent motion areas, and using them both, allows us to achieve superior recognition results. Experiments show that our algorithm recognizes the activities effectively and outperforms other state-of-the-art methods on related tasks."
+ },
+ {
+  "title": "Power Control for Relay-Assisted Wireless Systems with General Relaying",
+  "profile_url": "https://ieeexplore.ieee.org/document/5502410/",
+  "doi": "10.1109/ICC.2010.5502410",
+  "doi_url": "https://sci-hub.do/10.1109/ICC.2010.5502410",
+  "pdf_url": "https://moscow.sci-hub.do/3430/b4690a7bd5b70331bd93bb3d71972e19/shi2010.pdf#view=FitH",
+  "abstract": "We consider the problem of power control for two independent relay-assisted wireless systems that operate in the same spectral band. A general scenario where both systems are allowed to select between amplify-and-forward relaying and decode-and-forward relaying is studied. We adopt a game-theoretic approach and show that once both systems act non-cooperatively to optimize their own rate, they can always reach a unique Nash equilibrium (NE) from an arbitrary starting point in a totally distributed and asynchronous manner. We also provide insights on the impacts of network topology and relaying protocols on the sum rate performance of the NE through extensive numerical results."
+ },
+ {
+  "title": "Research on a high energy utilization efficiency electromagnetic aircraft launcher with an ultracapacitor bank",
+  "profile_url": "https://ieeexplore.ieee.org/document/4771392/",
+  "doi": "",
+  "doi_url": "",
+  "pdf_url": "",
+  "abstract": ""
+ },
+ {
+  "title": "Design Considerations of Ferroelectric Properties for Negative Capacitance MOSFETs",
+  "profile_url": "https://ieeexplore.ieee.org/document/8421443/",
+  "doi": "10.1109/EDTM.2018.8421443",
+  "doi_url": "https://sci-hub.do/10.1109/EDTM.2018.8421443",
+  "pdf_url": "https://twin.sci-hub.do/7060/a0009a6b32429019bb3098b999c3416e/saeidi2018.pdf#view=FitH",
+  "abstract": "Impact of physical parameters of ferroelectric layer on the performance of Negative Capacitance (NC) MOSFETs is experimentally studied in this paper. Electrical behaviors of PZT-based and Si:HfO\n2\n-based NC-FETs are investigated and discussed. In a PZT-based p-type NC-FET, a sub-thermal swing down to 20mV/dec is achieved due to the remarkable voltage gain of NC, reaching a maximum value of 10V/V. Nevertheless, the performance improvements with Si:Hf5O\n2\n NC booster are significantly lower than PZT due to the coexistence of different phases and also high leakage current which can enormously reduce the enhancement by NC."
+ }
+]

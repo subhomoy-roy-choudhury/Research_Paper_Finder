@@ -72,27 +72,6 @@ for page_num in range(PAGE_FLAG,END_PAGE + 1) :
         soup_doi1 = soup_doi.find('div',{"class" : "abstract-desktop-div hide-mobile"})
         st_divs = soup_doi1.find('div',{"class" : "u-pb-1 stats-document-abstract-doi"})
         
-        try :
-            cite = soup_doi.find('div',{"class" : "document-banner-metric-container row"})
-            citation_list = cite.find_all('button',{"class" : "document-banner-metric col"})
-            if citation_list == [] :
-                citation_list = cite.find_all('button',{"class" : "document-banner-metric single-metric"})
-
-
-            for item in citation_list :
-                list_type = item.find_all('div')
-                if list_type[1].text.lower() == 'paper' :
-                    print('Paper :- '+list_type[0].text)
-                elif list_type[1].text.lower() == 'patent' :
-                    print('Patent :- '+list_type[0].text)
-                elif list_type[1].text.lower() == 'fulltext views' :
-                    print('Full Text Views :- '+list_type[0].text)
-                    
-        except Exception as e :
-            print(e)
-            pass
-        
-
         if abstract is not None : 
             if st_divs is not None :
                 
@@ -156,7 +135,7 @@ driver.quit()
 
 files=glob.glob(PATH_PAPER + '*.json')
 # create a ZipFile object
-zipObj = ZipFile(f'{FOLDERNAME}.zip', 'w')
+zipObj = ZipFile(f'{PATH_PAPER[:-1]}.zip', 'w')
 # Add multiple files to the zip
 for file in files :
 

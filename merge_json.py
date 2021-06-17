@@ -2,7 +2,8 @@ import json
 import glob
 import os
 
-master_file = 'Research_Paper_Title_Citation_JSON_master.json'
+# master_file = 'Research_Paper_Title_Citation_JSON_master.json'
+master_file = 'Research_Paper_JSON_master.json'
 
 data = []
 
@@ -11,7 +12,8 @@ if os.path.isfile(master_file) :
         data = json.load(file)
 
 PATH_PAPER = os.getcwd()
-FOLDERNAME = f'/Research_Paper_Title_Citation_JSON_11_20/'
+# FOLDERNAME = f'/Research_Paper_Title_Citation_JSON_11_20/'
+FOLDERNAME = f'/Research_Paper_JSON_1_10/'
 PATH_PAPER = PATH_PAPER + FOLDERNAME
 
 files=glob.glob(PATH_PAPER + '*.json')
